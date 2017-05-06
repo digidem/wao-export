@@ -1,0 +1,3542 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "12234792259839095705",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.31072010819454,
+                    -1.1954631349709735
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "tapir",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "03",
+                "id": "12234792259839095705",
+                "version": "083b455574ae85c4cc7916443179e5ab93792452d5b2051af88a967d7f06a11d",
+                "timestamp": "2017-05-04T12:57:31.942Z",
+                "icon": "animal-camino-huellatapir",
+                "preset": "camino/tapir"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "13915299734807567224",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.30136193797149,
+                    -1.203428388420502
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "03-066",
+                "id": "13915299734807567224",
+                "version": "02aea6c4d0a7792395913241eed20cad98f9c459416b0705dbb4f487c2eae932",
+                "timestamp": "2017-05-04T05:18:12.219Z",
+                "icon": "animal-camino-animales",
+                "preset": "camino/animales"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "8524110188746699164",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.30473079263672,
+                    -1.2084805511229997
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "03.059",
+                "note": "camino de venado sahino",
+                "id": "8524110188746699164",
+                "version": "c03e3847159873731275a4b78b590109c814dfc9ec216ddc588f83b63c590c20",
+                "timestamp": "2017-05-04T05:13:44.968Z",
+                "icon": "animal-camino-animales",
+                "preset": "camino/animales"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "13557485829039778997",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.31207890412264,
+                    -1.212357954906604
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "03-047",
+                "id": "13557485829039778997",
+                "version": "18eaca8dcbd1143e432228d7665eadbfdd3c2f1cbd5f5c00180b68a9c9b6c48f",
+                "timestamp": "2017-05-04T04:39:48.895Z",
+                "icon": "animal-camino-animales",
+                "preset": "camino/animales"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "4913250967189207870",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.31189429799124,
+                    -1.2126311108057515
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "tapir",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "03-046",
+                "id": "4913250967189207870",
+                "version": "a812c236731b5ac041bee3c1a648079273f0f29f23f9797d9f42d20c9544cd09",
+                "timestamp": "2017-05-04T04:39:48.895Z",
+                "icon": "animal-camino-huellatapir",
+                "preset": "camino/tapir"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "859659666950477184",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.34124172289623,
+                    -1.2038444502789483
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "03-'38",
+                "id": "859659666950477184",
+                "version": "a6a1db6957c97bbb588bc54e6310c3ce989a7bfacc298f4a10ccc87c198d62f6",
+                "timestamp": "2017-05-04T04:31:11.189Z",
+                "icon": "animal-camino-animales",
+                "preset": "camino/animales"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "3502878115667553482",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3626327659105,
+                    -1.16833215035595
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "jaguar",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "02-002",
+                "id": "3502878115667553482",
+                "version": "c844c7b1da8b1f06380c4f992397298deb02655a9058062335fc915ad9a6bb5c",
+                "timestamp": "2017-05-04T03:48:46.624Z",
+                "icon": "animal-camino-huellajaguar",
+                "preset": "camino/jaguar"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "4769129713702398090",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.52862784701033,
+                    -1.2291055044958283
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "sajino",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "03-044",
+                "id": "4769129713702398090",
+                "version": "1f989b00230fab478c44366c531740fe980005293c9f5367be8ba5c6487b5969",
+                "timestamp": "2017-05-02T22:20:46.085Z",
+                "icon": "animal-camino-huellasajino",
+                "preset": "camino/sajino"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "11614735522630833094",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5273230872465,
+                    -1.2277883181768827
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "03-045",
+                "id": "11614735522630833094",
+                "version": "1a4d123b8d937c7f5b3a128f3f8262ef97699131b9c3601569e620971646141f",
+                "timestamp": "2017-05-02T22:20:46.085Z",
+                "icon": "animal-camino-animales",
+                "preset": "camino/animales"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "13305169557639415130",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.52680530677965,
+                    -1.213032624457631
+                ]
+            },
+            "properties": {
+                "camino": "viajar",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "03-048",
+                "note": "camino de toñampare",
+                "id": "13305169557639415130",
+                "version": "65bad6bcd2a358efdeba830635b88bc83d5cee247604128249d51b3c6e0a7141",
+                "timestamp": "2017-05-02T22:20:46.085Z",
+                "icon": "wao-camino-viajar",
+                "preset": "camino/viajar"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "13416299894429393467",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.34855752850582,
+                    -1.2312620980137567
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "tapir",
+                "name": "tite",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "03-006",
+                "id": "13416299894429393467",
+                "version": "abf0a5750d892168ad668d3b36e661dbf23d41e2b894d3ad5ccfe777d754e2ce",
+                "timestamp": "2017-05-01T03:44:31.046Z",
+                "icon": "animal-camino-huellatapir",
+                "preset": "camino/tapir"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5137022928555860241",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.36569675275655,
+                    -1.2260783164827098
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "sajino",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "03-002",
+                "id": "5137022928555860241",
+                "version": "0a9cd3bc6e32a9e6297f38753c8bfddde36f8b046685144cd637749e78ee78fc",
+                "timestamp": "2017-05-01T03:44:31.046Z",
+                "icon": "animal-camino-huellasajino",
+                "preset": "camino/sajino"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "9174985786045802978",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.35652177150322,
+                    -1.2224502172131129
+                ]
+            },
+            "properties": {
+                "camino": "viajar",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "03-014",
+                "id": "9174985786045802978",
+                "version": "509c570bab3434b780054d93c891ceffcf0f0b1105478f44121ef0aa595002b2",
+                "timestamp": "2017-05-01T03:44:31.046Z",
+                "icon": "wao-camino-viajar",
+                "preset": "camino/viajar"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "12322869849276930318",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.36781486173808,
+                    -1.2278138734312078
+                ]
+            },
+            "properties": {
+                "camino": "caseria",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "03-001",
+                "id": "12322869849276930318",
+                "version": "2f7f08d1fed0218f4ae040fb3d087a64fb94be93f96a245df86ec9420f983d38",
+                "timestamp": "2017-05-01T03:44:31.046Z",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "7508027532389916269",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.47331400089536,
+                    -1.2775647885214456
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "sajino",
+                "name": "amo tado",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "02-040",
+                "id": "7508027532389916269",
+                "version": "9e012bb6c305d68c02c2cf5902045cc53e599856dc62642bbaeee165792b1c8b",
+                "timestamp": "2017-04-23T01:53:25.062Z",
+                "icon": "animal-camino-huellasajino",
+                "preset": "camino/sajino"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "14065461523440974706",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.48232622482472,
+                    -1.2129488751019537
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "jaguar",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "02-076",
+                "id": "14065461523440974706",
+                "version": "324f465b71deb6c4be14baff59d43457f106e6e20a20e5e70836c79190b27067",
+                "timestamp": "2017-04-23T01:13:03.853Z",
+                "icon": "animal-camino-huellajaguar",
+                "preset": "camino/jaguar"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "12491242795472760455",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.50101094643522,
+                    -1.2135396171666875
+                ]
+            },
+            "properties": {
+                "camino": "viajar",
+                "name": "camino de toñampari arajuno",
+                "comunidad_nombre": "daipare",
+                "source_gps": "003;444",
+                "id": "12491242795472760455",
+                "version": "c4521fd66283c96b8dc5fa8d52093a380d2819499eaa63d3163fbfbdbdf52718",
+                "timestamp": "2017-04-21T01:17:40.259Z",
+                "icon": "wao-camino-viajar",
+                "preset": "camino/viajar"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "13183995130280138239",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.40322756228075,
+                    -1.2076347626206378
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "sajino",
+                "name": "amotaro",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "07-074",
+                "id": "13183995130280138239",
+                "version": "a63835d2d682843e62d8605babc984437b5d272dcef9e149530ca2d9d931f840",
+                "timestamp": "2017-04-03T21:08:46.281Z",
+                "icon": "animal-camino-huellasajino",
+                "preset": "camino/sajino"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "18350592278023473275",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.40168060358843,
+                    -1.1640180332765928
+                ]
+            },
+            "properties": {
+                "comunidad_nombre": "obaro",
+                "source_gps": "07-057",
+                "camino": "animales",
+                "camino_fauna": "tapir",
+                "name": "taro tite",
+                "id": "18350592278023473275",
+                "version": "60e57715b9fedf11cd54ec1119838fd462f4bc7c725fa91329f8dc0e8cfffa16",
+                "timestamp": "2017-04-03T20:48:24.013Z",
+                "icon": "animal-camino-huellatapir",
+                "preset": "camino/tapir"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5489886268342464383",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.39518523516277,
+                    -1.1773478486592723
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "sajino",
+                "name": "amo",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "07-049",
+                "id": "5489886268342464383",
+                "version": "ef19fe7faa63dad89db978e445ac9acbc9c44a5cecf1f4ac99be5984f9d5e75d",
+                "timestamp": "2017-04-03T20:48:24.012Z",
+                "icon": "animal-camino-huellasajino",
+                "preset": "camino/sajino"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "2221676924885853465",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.32421736873859,
+                    -1.2290451437418888
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "jaguar",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "07-018",
+                "id": "2221676924885853465",
+                "version": "f8b0b5e6c3d2755567e0f5e6f4943baf9d45388d20bd429de66f3ecfe404e0d3",
+                "timestamp": "2017-04-03T20:04:37.273Z",
+                "icon": "animal-camino-huellajaguar",
+                "preset": "camino/jaguar"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "2591153687131307389",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.30546938031013,
+                    -1.2365582998717812
+                ]
+            },
+            "properties": {
+                "camino": "caseria",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "07-023",
+                "note": "camino de elias a su casa de tambo",
+                "id": "2591153687131307389",
+                "version": "f124b790039a2816323be0a6eb363eef87b73f97070e081b23b5be83b482267a",
+                "timestamp": "2017-04-03T20:04:37.273Z",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "2838197762787207760",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.33326802600811,
+                    -1.2240116412735316
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "sajino",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "07-015",
+                "id": "2838197762787207760",
+                "version": "092400f3241ec505b8d3f6c4c8ac06550d5adeb4b1c3d07dc0c7a6e3d091ff52",
+                "timestamp": "2017-04-03T19:48:57.111Z",
+                "icon": "animal-camino-huellasajino",
+                "preset": "camino/sajino"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "14596071664989842517",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.33976815780294,
+                    -1.204475314067459
+                ]
+            },
+            "properties": {
+                "camino": "viajar",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "004",
+                "note": "camino para ir a comunidad zapino",
+                "id": "14596071664989842517",
+                "version": "8cb5283c6daa70ec42f6d1297cc3db2e13cc8b1f4f66c762c9ac601a5b0d4ad5",
+                "timestamp": "2017-04-02T23:57:35.871Z",
+                "icon": "wao-camino-viajar",
+                "preset": "camino/viajar"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "3714050873406214226",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.27299581000472,
+                    -1.287675607889176
+                ]
+            },
+            "properties": {
+                "name": "camino",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "002",
+                "note": "camino a laguna weotibe",
+                "camino": "caseria",
+                "id": "3714050873406214226",
+                "version": "811f5a5a274324a18c4dbae6fc1330a5a084ebcca8c9ddd699ab995175ac1023",
+                "timestamp": "2017-04-01T13:14:54.951Z",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "8066663495363210079",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.37318303831212,
+                    -1.2663674897789672
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "sajino",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "02",
+                "note": "camino de sajino",
+                "id": "8066663495363210079",
+                "version": "f9b4933d03c48649810e2e349086d9b96133f7d485af799186404d3d89cd74f0",
+                "timestamp": "2017-03-30T03:48:53.084Z",
+                "icon": "animal-camino-huellasajino",
+                "preset": "camino/sajino"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "4559626301343088365",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5461827606603,
+                    -1.3221644209584487
+                ]
+            },
+            "properties": {
+                "camino": "viajar",
+                "name": "camino de tiweno a pambayacu",
+                "comunidad_nombre": "daipare",
+                "source_gps": "003;099",
+                "note": "existe camino de tiweno a pambayacu",
+                "id": "4559626301343088365",
+                "version": "46dabfc94b6daccd5490ebc86936cc7cff59cc53563715381e84d733facaddea",
+                "timestamp": "2017-03-29T21:06:20.281Z",
+                "icon": "wao-camino-viajar",
+                "preset": "camino/viajar"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "9296991986483077308",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.35494131400748,
+                    -1.2260356895794406
+                ]
+            },
+            "properties": {
+                "camino": "caseria",
+                "name": "camino come",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "02-057",
+                "id": "9296991986483077308",
+                "version": "6e8f7bf100169e85205f5866dc3d94040103906d11ce36a2164dec53b2e3c806",
+                "timestamp": "2017-03-29T10:48:26.681Z",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "15130457375095070018",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.38251757213767,
+                    -1.2324402292307477
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "huangana",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "02-044",
+                "id": "15130457375095070018",
+                "version": "f09b7e28bcb578906e56f965ee151bdafae67fbcec5c6b28f57b78fa5d6f6abc",
+                "timestamp": "2017-03-29T05:57:21.876Z",
+                "icon": "animal-camino-huellahuangana",
+                "preset": "camino/huangana"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "14818701541744209672",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.36573679231442,
+                    -1.2131599004759428
+                ]
+            },
+            "properties": {
+                "camino": "caseria",
+                "name": "al moretal",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "02-034",
+                "note": "camino para moretal ",
+                "id": "14818701541744209672",
+                "version": "6f3e725ddda9ee10eb9321d1175c26f8f33bb175994b557d8581259209f75233",
+                "timestamp": "2017-03-29T05:43:18.132Z",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "15808675421414938404",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.38374322407209,
+                    -1.242897834573176
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "jaguar",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "04-341",
+                "note": "camino de tigres ",
+                "id": "15808675421414938404",
+                "version": "a42f5b6a04ae267d50ec0acc1bd4c6e69cc17e7f711529f398188a9c70579300",
+                "timestamp": "2017-03-29T04:47:07.259Z",
+                "icon": "animal-camino-huellajaguar",
+                "preset": "camino/jaguar"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10277029815290466263",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.38115899348358,
+                    -1.2554247300455355
+                ]
+            },
+            "properties": {
+                "camino": "viajar",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "04-348",
+                "note": "pasa camino de kenaweno",
+                "id": "10277029815290466263",
+                "version": "c1ec3ce5aa102c6575c4410388fc73df343535efdb3a1cf9082a3516594403a6",
+                "timestamp": "2017-03-29T04:47:07.259Z",
+                "icon": "wao-camino-viajar",
+                "preset": "camino/viajar"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "13243301555494780659",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.29107514674368,
+                    -1.173550902732721
+                ]
+            },
+            "properties": {
+                "camino": "caseria",
+                "comunidad_nombre": "obaro",
+                "source_gps": "004",
+                "id": "13243301555494780659",
+                "version": "25f2600a4850de8c8dd64635d30edba3380257528127f2dcae2b0a766f065c45",
+                "timestamp": "2017-03-29T00:10:34.945Z",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1472522106757924551",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.38822725409246,
+                    -1.2246549048767565
+                ]
+            },
+            "properties": {
+                "camino": "caseria",
+                "comunidad_nombre": "obaro",
+                "source_gps": "04-327",
+                "note": "inicio de camino",
+                "id": "1472522106757924551",
+                "version": "fa0f1f93d1a7d9cb1face828719f51298373272a5aaa7d1532f9bb093100db7b",
+                "timestamp": "2017-03-28T07:26:44.903Z",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "2406132779780166916",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.32141877793973,
+                    -1.1623783085793158
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "huangana",
+                "comunidad_nombre": "obaro",
+                "source_gps": "04-219",
+                "id": "2406132779780166916",
+                "version": "df7d84a441381c24dd1a83c3b8e55b0ba1685e373a9d0f322a08632f200981b7",
+                "timestamp": "2017-03-28T06:30:15.840Z",
+                "icon": "animal-camino-huellahuangana",
+                "preset": "camino/huangana"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "13667924346663838585",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.36463571262728,
+                    -1.1701727648205766
+                ]
+            },
+            "properties": {
+                "camino": "viajar",
+                "comunidad_nombre": "obaro",
+                "source_gps": "004-167",
+                "note": "inicio de camino saliendo del rio keremeneno omake goro",
+                "id": "13667924346663838585",
+                "version": "aa4b7f12bc3ad0f8dfdea7d61dddb8dc02e082033ddcb72c97e2ddf50daca909",
+                "timestamp": "2017-03-27T06:21:22.410Z",
+                "icon": "wao-camino-viajar",
+                "preset": "camino/viajar"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "12959812234731424006",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.36373801793837,
+                    -1.169888839227818
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "jaguar",
+                "name": "aawe",
+                "comunidad_nombre": "obaro",
+                "source_gps": "004-168",
+                "note": "siempe anda en este camino tigre",
+                "id": "12959812234731424006",
+                "version": "6b8eb064e447ab6f052836d15786478ae2faf5bb7812c87baea955c7282e3d64",
+                "timestamp": "2017-03-27T06:21:22.410Z",
+                "icon": "animal-camino-huellajaguar",
+                "preset": "camino/jaguar"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "2892695964053609793",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.37405225133891,
+                    -1.185322841496696
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "sajino",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "004-162",
+                "id": "2892695964053609793",
+                "version": "292de0b07e65267ccdcf592b47109554bd22beb48e96df2e644e04e85661e9f2",
+                "timestamp": "2017-03-27T05:49:55.143Z",
+                "icon": "animal-camino-huellasajino",
+                "preset": "camino/sajino"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "15471437710906855086",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3755054511866,
+                    -1.198313921082654
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "huangana",
+                "name": "huangana",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "004-148",
+                "id": "15471437710906855086",
+                "version": "2201f887ac2a4702c7157eefdd797cb71c5b8383996aacc43d6a4598ae9fe18f",
+                "timestamp": "2017-03-27T05:26:32.393Z",
+                "icon": "animal-camino-huellahuangana",
+                "preset": "camino/huangana"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "11305144011838756477",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.56437438241697,
+                    -1.3196199335773526
+                ]
+            },
+            "properties": {
+                "camino": "caseria",
+                "comunidad_nombre": "daipare",
+                "source_gps": "003;162",
+                "note": "en este sitio tiene su camino de caseria  quichua entran a pescar, cazar en el territorio wao",
+                "id": "11305144011838756477",
+                "version": "97751173dda3280664a58a9f05137bdc5e06ab917796943b04eb949c6835e5e4",
+                "timestamp": "2017-03-21T16:54:31.187Z",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "12787078667353391624",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.56736084558648,
+                    -1.316746311019028
+                ]
+            },
+            "properties": {
+                "camino": "caseria",
+                "comunidad_nombre": "daipare",
+                "source_gps": "002;157",
+                "revisar": "yes",
+                "id": "12787078667353391624",
+                "version": "12f766399d084f2a4594c2968dbc02f2748cc3848db4bf6061beb9aa447f875f",
+                "timestamp": "2017-03-21T16:49:07.620Z",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "3757395158528976581",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.56839991994958,
+                    -1.3144072591794733
+                ]
+            },
+            "properties": {
+                "camino": "caseria",
+                "comunidad_nombre": "daipare",
+                "source_gps": "003;154",
+                "revisar": "yes",
+                "id": "3757395158528976581",
+                "version": "ef68f48fd00c870c2600a870d960ed12a8190a555d5fbbd36d00d136f2da8ea5",
+                "timestamp": "2017-03-21T16:45:15.055Z",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "4249743361437976838",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.56721841067376,
+                    -1.311199813275252
+                ]
+            },
+            "properties": {
+                "camino": "caseria",
+                "name": "comunidad pambayacu",
+                "comunidad_nombre": "daipare",
+                "source_gps": "003;150",
+                "id": "4249743361437976838",
+                "version": "038439fca31ee042984a90956d8e1697020b9297ef6aca1a40200715368e8d1a",
+                "timestamp": "2017-03-21T16:39:54.518Z",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "3146135477660732153",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.35187093406024,
+                    -1.1419480638263135
+                ]
+            },
+            "properties": {
+                "camino": "caseria",
+                "comunidad_nombre": "obaro",
+                "source_gps": "004-262",
+                "note": "camino para ir a pezca",
+                "id": "3146135477660732153",
+                "version": "ee9178390ac8996c1486e1a6b46bbc8eb49622bac38ddf4b3948a00e9414e1f2",
+                "timestamp": "2017-03-19T23:17:23.532Z",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "15041418689698972063",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.35180368705286,
+                    -1.1404525844583582
+                ]
+            },
+            "properties": {
+                "camino": "caseria",
+                "comunidad_nombre": "obaro",
+                "source_gps": "004-263",
+                "note": "camino secundario para ir a pezca al rio keremeneno",
+                "id": "15041418689698972063",
+                "version": "be9a4a74d7537af7a90ee67fdeb58a9a2fbca790d7986524d553103f5799b000",
+                "timestamp": "2017-03-19T23:17:23.532Z",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "14968459409589186414",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.353936044371,
+                    -1.1358195687939874
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "sajino",
+                "comunidad_nombre": "obaro",
+                "source_gps": "004-267",
+                "note": "camino de sajino y otros animales danta tigre guangana",
+                "id": "14968459409589186414",
+                "version": "4ef47b8633585a660625855e5f53d74ee9be7e08f780db3b118fb9bc9b366353",
+                "timestamp": "2017-03-19T23:17:23.532Z",
+                "icon": "animal-camino-huellasajino",
+                "preset": "camino/sajino"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "9747292250431248232",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.36146821384591,
+                    -1.23244629415462
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "sajino",
+                "name": "amoiri taro",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "010,009",
+                "note": "oigairi amo taro",
+                "id": "9747292250431248232",
+                "version": "afd591f35e8076240c588e425145f1ad3e6eb618f79364bece0ba3fa96bcd743",
+                "timestamp": "2017-03-19T22:30:06.295Z",
+                "icon": "animal-camino-huellasajino",
+                "preset": "camino/sajino"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "15466285660730009258",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.35257957832279,
+                    -1.1336305497597248
+                ]
+            },
+            "properties": {
+                "camino": "caseria",
+                "comunidad_nombre": "obaro",
+                "source_gps": "004-270",
+                "note": "camino para realizar caseria ",
+                "id": "15466285660730009258",
+                "version": "a6732b056b978188a1d7aadd8736b53748eb1ed253c414cd6b2897580fd531ac",
+                "timestamp": "2017-03-19T06:36:07.165Z",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "4962855405805710773",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.36131934646261,
+                    -1.1241754013698193
+                ]
+            },
+            "properties": {
+                "camino": "caseria",
+                "name": "camino a motaña",
+                "comunidad_nombre": "obaro",
+                "source_gps": "004-274",
+                "note": "camino de caseria para llegar a cabecera de meñeteno",
+                "id": "4962855405805710773",
+                "version": "5d40536cff24ab4427559861cce8e6ac8177cc7a67fa3e2af5fd184ffd698b00",
+                "timestamp": "2017-03-19T06:26:32.638Z",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "3335581618807678034",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.35811367651445,
+                    -1.1608410803758444
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "tapir",
+                "name": "tite tado",
+                "comunidad_nombre": "obaro",
+                "source_gps": "004-286",
+                "note": "caino de animales danta y sajino venado",
+                "id": "3335581618807678034",
+                "version": "b8c0b10b07f8ac34f975187ff0f4e907d891d372cb1d41b60c39fde0df225c20",
+                "timestamp": "2017-03-19T06:08:38.623Z",
+                "icon": "animal-camino-huellatapir",
+                "preset": "camino/tapir"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "8168371388435105509",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.354504289318,
+                    -1.160755879767467
+                ]
+            },
+            "properties": {
+                "camino": "caseria",
+                "comunidad_nombre": "obaro",
+                "source_gps": "004-284",
+                "note": "un desvio de camino para caseria ",
+                "id": "8168371388435105509",
+                "version": "13d5e36016ef4eabbc9dc4d9079226194d2e3246ce32f4c76638635b3c62f30b",
+                "timestamp": "2017-03-19T06:06:54.188Z",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10347720522843046952",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.35244096994809,
+                    -1.1587640146625122
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "huangana",
+                "name": "camino guangana",
+                "comunidad_nombre": "obaro",
+                "source_gps": "004-280",
+                "id": "10347720522843046952",
+                "version": "7bcb911a2559f8a2fe19eb2d2fe8a3aea317653f23c2709e01b51f1b5ac43cc8",
+                "timestamp": "2017-03-19T05:54:53.059Z",
+                "icon": "animal-camino-huellahuangana",
+                "preset": "camino/huangana"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5192664043561235745",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5367548087218,
+                    -1.2864880403070955
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "sajino",
+                "name": "amo taaro",
+                "comunidad_nombre": "daipare",
+                "source_gps": "002;187",
+                "note": "donde que pasan sajinos",
+                "id": "5192664043561235745",
+                "version": "6c55fa4ffa7ac12c42eb9270ddb574ca359b293282559b50082faad998c30654",
+                "timestamp": "2017-03-18T02:33:07.643Z",
+                "icon": "animal-camino-huellasajino",
+                "preset": "camino/sajino"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "3838865323624235958",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5592216951697,
+                    -1.3162697806467398
+                ]
+            },
+            "properties": {
+                "camino": "caseria",
+                "comunidad_nombre": "daipare",
+                "source_gps": "003;078",
+                "note": "camino caseria de leodan ",
+                "id": "3838865323624235958",
+                "version": "6912385129fcd60f7a4abd8e829c821150646809574c793a691b2054e5b27184",
+                "timestamp": "2017-03-15T14:02:23.581Z",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1831610949108498159",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.55672178997149,
+                    -1.2998011559488019
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "huanta",
+                "comunidad_nombre": "daipare",
+                "source_gps": "002;107",
+                "name": "panone taaro",
+                "id": "1831610949108498159",
+                "version": "7c5cfbdf7e1b48ae0e0a03ac9abaa226ac697c336b468798ce8c6f6e12f8d1b7",
+                "timestamp": "2017-03-15T00:25:18.433Z",
+                "icon": "animal-camino-animales",
+                "preset": "camino/huanta"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "14636746211741992594",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.53144707783123,
+                    -1.3171656812171613
+                ]
+            },
+            "properties": {
+                "camino": "viajar",
+                "name": "teweno taaro",
+                "comunidad_nombre": "daipare",
+                "source_gps": "002;101",
+                "id": "14636746211741992594",
+                "version": "743cbc005d4011b844414b1d27a033125375746037b3a615e35261e8d2f2fb3f",
+                "timestamp": "2017-03-14T23:17:00.137Z",
+                "icon": "wao-camino-viajar",
+                "preset": "camino/viajar"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5948679296998079999",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.54344301513,
+                    -1.3089714437761129
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "huanta",
+                "comunidad_nombre": "daipare",
+                "source_gps": "002;081",
+                "id": "5948679296998079999",
+                "version": "7795ff9518e204b49395002de095982c8438f328fc2d34a5e0ebfd6e35fb6267",
+                "timestamp": "2017-03-14T13:12:49.279Z",
+                "icon": "animal-camino-animales",
+                "preset": "camino/huanta"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1723045277975312186",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.54719566270109,
+                    -1.3077618337377512
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "name": "armadillo",
+                "comunidad_nombre": "daipare",
+                "source_gps": "002;070",
+                "id": "1723045277975312186",
+                "version": "8bf3b6dd719cc13f0d8428941314adba3583a72ce78279f5e573b507c77aed2a",
+                "timestamp": "2017-03-14T12:58:11.583Z",
+                "icon": "animal-camino-animales",
+                "preset": "camino/animales"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "7931295612946740243",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.54940748584484,
+                    -1.3057510263065335
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "huatusa",
+                "comunidad_nombre": "daipare",
+                "source_gps": "002;64",
+                "id": "7931295612946740243",
+                "version": "65e8d0c705adc55a01b45859a64586692f80eff13393b1e63ed71d33d912321f",
+                "timestamp": "2017-03-14T12:52:31.517Z",
+                "icon": "animal-camino-animales",
+                "preset": "camino/animales"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "9094558186735556056",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5521510101767,
+                    -1.3038531468098769
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "huanta",
+                "comunidad_nombre": "daipare",
+                "source_gps": "002,057",
+                "note": "exsite caminode guanta",
+                "id": "9094558186735556056",
+                "version": "c9e1f060bdabc0b22dea0c953a310f34a1adc0a29ff1dbab8f1bc020b13718f2",
+                "timestamp": "2017-03-14T12:43:24.346Z",
+                "icon": "animal-camino-animales",
+                "preset": "camino/huanta"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1691665424220807849",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5528457812253,
+                    -1.3031990388625982
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "sajino",
+                "comunidad_nombre": "daipare",
+                "source_gps": "002;049",
+                "note": "existe camino de sajino",
+                "id": "1691665424220807849",
+                "version": "a1bd913144fa25f7e7a653bd366e86eabb62378975e9a8399981cce6e6ea72c0",
+                "timestamp": "2017-03-14T12:34:16.920Z",
+                "icon": "animal-camino-huellasajino",
+                "preset": "camino/sajino"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "8669246490880183223",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.558225124424,
+                    -1.3030623649589974
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "sajino",
+                "comunidad_nombre": "daipare",
+                "source_gps": "002;039",
+                "note": "en este punto existe camino de sahino",
+                "id": "8669246490880183223",
+                "version": "52487260753b807a6c070166ae604344bea1a5634c895851e51b193ba64d277e",
+                "timestamp": "2017-03-14T11:58:48.399Z",
+                "icon": "animal-camino-huellasajino",
+                "preset": "camino/sajino"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "2413781795238121970",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.33001455215309,
+                    -1.1935109320370474
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "sajino",
+                "name": "camino de sahino",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "041,009",
+                "note": "amo taro",
+                "id": "2413781795238121970",
+                "version": "177c569ae4e147b1c68c1ce88d83a13cd0551859c87427293b21596a60288408",
+                "timestamp": "2017-03-14T00:39:37.083Z",
+                "icon": "animal-camino-huellasajino",
+                "preset": "camino/sajino"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "17788830167469999996",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.34421805047909,
+                    -1.1962712781586307
+                ]
+            },
+            "properties": {
+                "camino": "viajar",
+                "name": "camino a ñimoñaro",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "038,009",
+                "note": "ñimoñaro taro",
+                "id": "17788830167469999996",
+                "version": "2df13f0d7d74ed035c012151deb6ad73b650783e6ee57707d935cd0eb2a4306c",
+                "timestamp": "2017-03-14T00:35:30.646Z",
+                "icon": "wao-camino-viajar",
+                "preset": "camino/viajar"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10936867118326214086",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.34827667562529,
+                    -1.2005688984141774
+                ]
+            },
+            "properties": {
+                "camino": "viajar",
+                "name": "camino para viaje al rio currarai",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "037,009",
+                "note": "camino de caceria a rio currarai",
+                "id": "10936867118326214086",
+                "version": "96242de64694c45447229c97b4b9b1f73dadd2416005beded564e638493c23ba",
+                "timestamp": "2017-03-14T00:34:07.008Z",
+                "icon": "wao-camino-viajar",
+                "preset": "camino/viajar"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "16977944238183195740",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.39560712869569,
+                    -1.234629709949519
+                ]
+            },
+            "properties": {
+                "camino": "viajar",
+                "name": "camino a quenaweno",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "018-02",
+                "note": "camino a comunidad quenaweno",
+                "id": "16977944238183195740",
+                "version": "cc5223f45e54f03009d5632685f2e0e1207e4e09923f87fc48850a939ed67b36",
+                "timestamp": "2017-03-14T00:01:43.986Z",
+                "icon": "wao-camino-viajar",
+                "preset": "camino/viajar"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5089975319026576167",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.38466852536544,
+                    -1.2117191773716385
+                ]
+            },
+            "properties": {
+                "camino": "viajar",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "001-02",
+                "note": "Y de camino a gareno",
+                "id": "5089975319026576167",
+                "version": "f5e81fdb9157b5244b0cad6b83c22bae0ef6712a8310ad39b0704a789ca95806",
+                "timestamp": "2017-03-13T22:51:11.275Z",
+                "icon": "wao-camino-viajar",
+                "preset": "camino/viajar"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "7498326661210904202",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.44545648303952,
+                    -1.213563602499947
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "name": "camino de wangana",
+                "camino_fauna": "huangana",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "025-002",
+                "note": "crusan el camino de toñanpari ",
+                "id": "7498326661210904202",
+                "version": "f720e9c02ebc21acedc8625d5dfc6993231dd5b1cae4ffbc709b965d3261e3cb",
+                "timestamp": "2017-03-12T04:46:48.935Z",
+                "icon": "animal-camino-huellahuangana",
+                "preset": "camino/huangana"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "12515663436455432731",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.43972487435175,
+                    -1.2154978244303007
+                ]
+            },
+            "properties": {
+                "camino": "viajar",
+                "name": "y de kenweno y toñanpari",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "023-002",
+                "note": "se crusan entre camino haci arajuno",
+                "id": "12515663436455432731",
+                "version": "147b4e9e99373570d8eec7f0f1f1722267d4a6b57725a2798973bffdbaedd214",
+                "timestamp": "2017-03-12T04:41:04.161Z",
+                "icon": "wao-camino-viajar",
+                "preset": "camino/viajar"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "15072698249817070408",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.37090558027843,
+                    -1.2266723170018987
+                ]
+            },
+            "properties": {
+                "name": "comino de sahino",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "006,009",
+                "camino": "animales",
+                "camino_fauna": "sajino",
+                "note": "oigairi amo taro",
+                "id": "15072698249817070408",
+                "version": "eaf364e1ef666db1859e9a42665ca07d5d5e5f3ab6155435a9c38a72b6099c82",
+                "timestamp": "2017-03-12T03:01:24.074Z",
+                "icon": "animal-camino-huellasajino",
+                "preset": "camino/sajino"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "16863634486062588118",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.19453573108822,
+                    -1.315876559617767
+                ]
+            },
+            "properties": {
+                "camino": "caseria",
+                "name_es": "Y de akaro con camino imaginario",
+                "source_gps": "9:140",
+                "id": "16863634486062588118",
+                "version": "dd4b59c8ecc7ae2ec60156a26e2965aeeec1d6276466702b860ebaca83f5f3ba",
+                "timestamp": "2017-01-26T11:01:40.417Z",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "15629926098068918074",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.27725303409791,
+                    -1.2280140662280126
+                ]
+            },
+            "properties": {
+                "camino": "aventura",
+                "name": "Inicio Camino Teatä",
+                "source_gps": "4: 007",
+                "comunidad_nombre": "nemopare",
+                "id": "15629926098068918074",
+                "version": "70b74a294ea3a0c3ab67384b081b3b4931f0e6f0df73f612dd3601f36a2e6917",
+                "timestamp": "2017-01-20T17:26:19.465Z",
+                "icon": "wao-camino-aventura",
+                "preset": "camino/aventura"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "7104357332154656068",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.21877042611334,
+                    -1.256553671738346
+                ]
+            },
+            "properties": {
+                "name": "Iyenonpoga",
+                "name_es": "Ye de camino imaginario con nemonpade",
+                "source_gps": "7:77",
+                "camino": "imaginado",
+                "id": "7104357332154656068",
+                "version": "b1219256347c64812c07e53a8b09079de9b3f5746e4f1472a652497763b63f68",
+                "timestamp": "2017-01-15T13:29:51.463Z",
+                "icon": "wao-camino-imaginado",
+                "preset": "camino/imaginado"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "17475941754241641137",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.19507926477253,
+                    -1.355837865918359
+                ]
+            },
+            "properties": {
+                "name": "Camino de jaguar",
+                "source_gps": "004;010",
+                "note": "Camino de jaguar donde siempre pasan en este sendero infallable.",
+                "camino": "animales",
+                "camino_fauna": "jaguar",
+                "id": "17475941754241641137",
+                "version": "6943bf4af1869c9b5aea16c6655173b7f90d8601ec8767f66661e68d33bd3052",
+                "timestamp": "2017-01-15T12:11:59.392Z",
+                "icon": "animal-camino-huellajaguar",
+                "preset": "camino/jaguar"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "3580780787999732161",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.197937292261,
+                    -1.3588417488614997
+                ]
+            },
+            "properties": {
+                "name": "Camino de sahino",
+                "source_gps": "004;012",
+                "note": "Cruce camino del sahino.",
+                "camino": "animales",
+                "camino_fauna": "sajino",
+                "id": "3580780787999732161",
+                "version": "f1af0b09c67a24d78df9d7511bb4d679c718aad39cbe9a008bd187e9df07583f",
+                "timestamp": "2017-01-15T12:11:59.392Z",
+                "icon": "animal-camino-huellasajino",
+                "preset": "camino/sajino"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "6181631517498031988",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.30402385841873,
+                    -1.2882771347257034
+                ]
+            },
+            "properties": {
+                "name": "camino a la pesca",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "002",
+                "note": "en este camino van a pesca,a mi mano izquierda  yayepare y derecha  querebepare",
+                "camino": "caseria",
+                "id": "6181631517498031988",
+                "version": "006275ef21e15dc114da0feac0e709dba5db6d07b85441700fcca72406cf05a7",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "6187845327945691053",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.28061913150769,
+                    -1.3869310998502493
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "tapir",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "0003,tewe",
+                "note": "poque en este camino cruzan muhos dantas",
+                "id": "6187845327945691053",
+                "version": "00e1ba8cbfa9fcca9ea0cf8f2de64b809e75a2b914e1d37d75f1667dc3b44d86",
+                "icon": "animal-camino-huellatapir",
+                "preset": "camino/tapir"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "2423943888274527674",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.27833232139294,
+                    -1.3375854781011818
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "sajino",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "001",
+                "note": "hay muchas huellas de sahinos",
+                "id": "2423943888274527674",
+                "version": "0b3f843e28411298886163405f97d9d56bd881c63d26acaa99524734f126dece",
+                "icon": "animal-camino-huellasajino",
+                "preset": "camino/sajino"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10756058635166485823",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.25853149746199,
+                    -1.2856071113050551
+                ]
+            },
+            "properties": {
+                "camino": "viajar",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "oo2",
+                "note": "asta  aqui llega limite damointaro",
+                "id": "10756058635166485823",
+                "version": "0bb1285489b38b8ba5e00174b9fee93ad250fa4e5b0b87fe4e4580e33ee08c8b",
+                "icon": "wao-camino-viajar",
+                "preset": "camino/viajar"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "57782274215016873",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.28390566891522,
+                    -1.433584358506143
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "tapir",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "001",
+                "note": "muchas huellas",
+                "id": "57782274215016873",
+                "version": "0bd7a8c8adf98f91a1234426a162015280baed4ff04a7f60b1e07b8c77b6b56f",
+                "icon": "animal-camino-huellatapir",
+                "preset": "camino/tapir"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5111619837549287859",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.29290258342832,
+                    -1.2863006964136139
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "jaguar",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "003: meñetado",
+                "note": "camino de tigre",
+                "id": "5111619837549287859",
+                "version": "0ce960d544ea34ee098e0af141a32f8545615578db2ff1a007625e36e9450017",
+                "icon": "animal-camino-huellajaguar",
+                "preset": "camino/jaguar"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "16436242585868316427",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.394905051294,
+                    -1.3143463259115185
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "sajino",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "002",
+                "note": "cruce de sahino ",
+                "id": "16436242585868316427",
+                "version": "1362b846053c011b2ba7d81eb43f4572693df6f8d5ba21fbf6eb6aaf87d5b1d2",
+                "icon": "animal-camino-huellasajino",
+                "preset": "camino/sajino"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "9791956558272139211",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.19503451708847,
+                    -1.3884024302352163
+                ]
+            },
+            "properties": {
+                "name": "Camino Tapir",
+                "source_gps": "006;007",
+                "note": "Camino de tapir terrestre donde cruza de otro lugar a otro sitio.",
+                "camino": "animales",
+                "camino_fauna": "tapir",
+                "id": "9791956558272139211",
+                "version": "15a50e090e62233f2a1ff96333c773188efc9bb21230ce817054687e7c802cc2",
+                "icon": "animal-camino-huellatapir",
+                "preset": "camino/tapir"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "3166314253385069123",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.17110153445992,
+                    -1.3998637985774933
+                ]
+            },
+            "properties": {
+                "name": "Camino de tapir",
+                "source_gps": "002;066",
+                "note": "Camino de diferentes especies como saino, tapir, guanta, etc.",
+                "camino": "animales",
+                "camino_fauna": "tapir",
+                "id": "3166314253385069123",
+                "version": "16593157425948becbe16c4e1c99587045e31cee9cfb9229b50f166d5adc3905",
+                "icon": "animal-camino-huellatapir",
+                "preset": "camino/tapir"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "2599548299381484706",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.34828103873538,
+                    -1.3144979580723195
+                ]
+            },
+            "properties": {
+                "camino": "caseria",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "003",
+                "note": "poque en este camino viene a casar el señor peque",
+                "id": "2599548299381484706",
+                "version": "17ea6c3e41972b3ccf8f5d802af4de4077480517fb38b81b42c87a131be65c9a",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "6167646395191950576",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.36156483577436,
+                    -1.343545144423393
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "name": "camino  de wanguana",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "003,tewe",
+                "note": "porque en este camino  crucen muchos wamguana",
+                "id": "6167646395191950576",
+                "version": "1c2e8aabe787f648883dbd8a00fe6bcef1b362546664a3bd1515e95f1bd277db",
+                "icon": "animal-camino-animales",
+                "preset": "camino/animales"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "12957090069925005841",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.34837047904544,
+                    -1.3144938936735775
+                ]
+            },
+            "properties": {
+                "name": "camino a oñare",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "003",
+                "note": "poque en camino llega oñare",
+                "camino": "caseria",
+                "id": "12957090069925005841",
+                "version": "1cd3ce2c79c64a092eda40cb668c6ed5ee025e6e490822ba3fc11372477a0607",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "12356030674189653949",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.21178056945655,
+                    -1.3948776127975335
+                ]
+            },
+            "properties": {
+                "camino": "caseria",
+                "source_gps": "004,005",
+                "note": "Camino caseria de Tomo y Memo donde que se van a matar mono chorongo.",
+                "id": "12356030674189653949",
+                "version": "1d1b34d5c7c6e97f40d9e4b5c00edf97d073daaebbd6a042a6ed720e7f35bb95",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1777640331889426842",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.19601181767435,
+                    -1.4281885635349638
+                ]
+            },
+            "properties": {
+                "name": "Camino de tapir",
+                "source_gps": "006;041",
+                "note": "Camino de tapir terrestre que cruzan de otro lugar a otra zona.",
+                "camino": "animales",
+                "camino_fauna": "tapir",
+                "id": "1777640331889426842",
+                "version": "1d7f252fbb10cba8696a8fe7ca81f662a4adefe010794ede5f44f2c1b229ffcb",
+                "icon": "animal-camino-huellatapir",
+                "preset": "camino/tapir"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5485921651117109928",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.29624226145388,
+                    -1.3450067066606555
+                ]
+            },
+            "properties": {
+                "name": "camino a daicamo",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "003",
+                "camino": "caseria",
+                "id": "5485921651117109928",
+                "version": "203f825435dbfcdc2e802b40634383eda4edfec42403e32b4430ce41720bb514",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10886112554926157869",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.28416413377948,
+                    -1.2649859618998234
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "tapir",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "003",
+                "id": "10886112554926157869",
+                "version": "20559b58af0b5119f16632b49e528740ae55a8956055e900f6b4843e572fd320",
+                "icon": "animal-camino-huellatapir",
+                "preset": "camino/tapir"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "6652761276423955629",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.32161075734174,
+                    -1.2891097021261575
+                ]
+            },
+            "properties": {
+                "name": "camino de caseria hacia rio tiweno",
+                "camino": "caseria",
+                "id": "6652761276423955629",
+                "version": "2320db188263339b934eba2f04c67f80dc4cea1cfce87ede41bd1a3684186888",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "8932379080253595438",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.31698633588562,
+                    -1.291012463987004
+                ]
+            },
+            "properties": {
+                "camino": "caseria",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "002",
+                "note": "en ese camino van casa y pesca",
+                "id": "8932379080253595438",
+                "version": "2870ab120438294b04d6161dea78fd10a3206237d2afc5deeca0ac3598fe8320",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "6516391208543550041",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.25843870506289,
+                    -1.2250639476344305
+                ]
+            },
+            "properties": {
+                "camino": "viajar",
+                "name": "Wä tarö tzapino",
+                "source_gps": "1: 022",
+                "id": "6516391208543550041",
+                "version": "2b7c448a9906505ac264b3b3ac975c76c113ae7dfee0ae5be38b5643018e2866",
+                "icon": "wao-camino-viajar",
+                "preset": "camino/viajar"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "2189741359726189844",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3202477584037,
+                    -1.3654976306344893
+                ]
+            },
+            "properties": {
+                "camino": "caseria",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "003",
+                "note": "en este camino casaba kentawodi",
+                "id": "2189741359726189844",
+                "version": "2c4eca6f5282dd94a39e004ea7f16d4b0a8a37af31dddee779c07b6207bc2c38",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "8648607263560567614",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.32092653745529,
+                    -1.2955289539121224
+                ]
+            },
+            "properties": {
+                "comunidad_nombre": "damointaro",
+                "source_gps": "7",
+                "note": "inicio de camino damointaro hacia tiweno",
+                "camino": "viajar",
+                "id": "8648607263560567614",
+                "version": "2d3148cd4d7a81b2bebbf68cb49ff2e809ffb13fcb01f973616a899e820c113b",
+                "icon": "wao-camino-viajar",
+                "preset": "camino/viajar"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "13404754648603945051",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.1421676104961,
+                    -1.3965499530470604
+                ]
+            },
+            "properties": {
+                "name": "Camino de animales",
+                "source_gps": "002:006",
+                "note": "Cruce de diferentes animales como saino, tapir y guanta.",
+                "camino": "animales",
+                "camino_fauna": "tapir",
+                "id": "13404754648603945051",
+                "version": "2d56090e29d16fc5fcc5751530dcf4a410bba397baa5d5f8b7c816d6fe1d717e",
+                "icon": "animal-camino-huellatapir",
+                "preset": "camino/tapir"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "17180887954796764524",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.29040135152508,
+                    -1.2561619483755138
+                ]
+            },
+            "properties": {
+                "name": "Noganpare epë taaro",
+                "name_es": "Camino noganpare",
+                "source_gps": "1: 160",
+                "camino": "caseria",
+                "comunidad_nombre": "nemopare",
+                "id": "17180887954796764524",
+                "version": "2e65ae1470afaeeb552ea9bc28f52123dce760a47f357d868fd966b83e597afe",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "7221512461307799364",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.32003638792384,
+                    -1.2948529620682467
+                ]
+            },
+            "properties": {
+                "camino": "viajar",
+                "name": "taaro teweno",
+                "name_es": "camino de Teweno",
+                "id": "7221512461307799364",
+                "version": "2f7606ae9a40d6a91498b30801d7b507897d40d37fff6291224764bf3a1174ab",
+                "icon": "wao-camino-viajar",
+                "preset": "camino/viajar"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "8818605750853607814",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.2328335573383,
+                    -1.3921712039851282
+                ]
+            },
+            "properties": {
+                "name": "Camino sahino.",
+                "source_gps": "004;020.",
+                "note": "Cruce del camino de sahino de un lugar a otro sitio.",
+                "camino": "animales",
+                "camino_fauna": "sajino",
+                "id": "8818605750853607814",
+                "version": "34bb8ef7be157a486f0d8924ee7bee6a53c2dae00bb771cff32f4bbad764aeab",
+                "icon": "animal-camino-huellasajino",
+                "preset": "camino/sajino"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "4985671906894505305",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.27561877747632,
+                    -1.4418019056270905
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "tapir",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "001",
+                "note": "hay huellas de tapir ",
+                "id": "4985671906894505305",
+                "version": "3d7f144227915e31fbd3c27e7d2474d5fdfbe6347e087086ff895cb51ac5271a",
+                "icon": "animal-camino-huellatapir",
+                "preset": "camino/tapir"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "6051471160253531006",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.14530018908675,
+                    -1.3982352388216375
+                ]
+            },
+            "properties": {
+                "name": "Camino Taragapare",
+                "source_gps": "002;014",
+                "note": "Camino que va al estero Taragapare, por que en este estero existen cantidades peces como taraga, winkari, geyebo, boyotai y otros mas.",
+                "camino": "caseria",
+                "id": "6051471160253531006",
+                "version": "3dda5b4fb05d50ce6c23e251713604f6680b491a1529e61a858c4f551f548349",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "15757788368709014645",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.19153471871091,
+                    -1.3992591905789364
+                ]
+            },
+            "properties": {
+                "name": "Camino de jaguar",
+                "source_gps": "002;101",
+                "note": "Camino que cruza jaguar de otra zona a otro lugar.",
+                "camino": "animales",
+                "camino_fauna": "jaguar",
+                "id": "15757788368709014645",
+                "version": "3e32e4ad9ef4c643bde627f23abd9f783c5f823c0639fdd59761a9efdad3836a",
+                "icon": "animal-camino-huellajaguar",
+                "preset": "camino/jaguar"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "3813935777525424966",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.33325917757031,
+                    -1.3530346312879478
+                ]
+            },
+            "properties": {
+                "camino": "caseria",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "001",
+                "note": "en este camino de caseria se une con el camino de towipare siempre llega a cazar el señor peke tocari",
+                "id": "3813935777525424966",
+                "version": "3f935284e9fc6a7f4461bb9c2435c8595e2a4eb4bbccf63064fbd53d06502bd6",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "2961291527615729418",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.29560119547997,
+                    -1.347829853263761
+                ]
+            },
+            "properties": {
+                "name": "camino a laguna",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "003",
+                "note": "este camino llega a laguna existe boa, toque , pez electrico y otros",
+                "camino": "caseria",
+                "id": "2961291527615729418",
+                "version": "424a9be253b6db3d81c4e0ce9164d65add2448754890e6e4add5fec8b80de09f",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "7570892687135538957",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.19252522336299,
+                    -1.4089996071086923
+                ]
+            },
+            "properties": {
+                "camino": "caseria",
+                "source_gps": "006;013",
+                "note": "Camino de caseria donde mantan diferentes tipos de animales (especies).",
+                "id": "7570892687135538957",
+                "version": "44b2863bc44f7d50286759571674d4cc61a1376a19be3e8e6819b9c57a9aba5d",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "8784873810323642434",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.2365295762941,
+                    -1.391780270175149
+                ]
+            },
+            "properties": {
+                "camino": "caseria",
+                "name": "Camino caseria.",
+                "source_gps": "004;023.",
+                "note": "Camino de caseria que se van  a cazar mono chorongo, sahino, paujil, pava spix.",
+                "id": "8784873810323642434",
+                "version": "4db7bc83abf75f50502419b7626d050aa6327901b6954e4ca297862d6820c24f",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "6687545909292165313",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.36628214551426,
+                    -1.3110181004902484
+                ]
+            },
+            "properties": {
+                "camino": "caseria",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "002",
+                "id": "6687545909292165313",
+                "version": "4f8cac931d8ec9f7ab7590a57f9309dc4a55bf9e51fb5fb1fe3795e1696fdd1e",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "2515647331547480948",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.31251804526663,
+                    -1.3275459279346333
+                ]
+            },
+            "properties": {
+                "camino": "caseria",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "003",
+                "note": "este camino llega a la bocana de ñaino, en este camino se va pescar don nenquimo",
+                "id": "2515647331547480948",
+                "version": "5123141be30cb4db0cccf165fa1db5ab7a9f9b33a81ef2c6cc0e3233ba09eb6c",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "18248067245747467717",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.31377406381627,
+                    -1.3422522991904198
+                ]
+            },
+            "properties": {
+                "name": "camino a laguna",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "003",
+                "note": "en este laguna vive lagarto y otros",
+                "camino": "caseria",
+                "id": "18248067245747467717",
+                "version": "52b406318059809d25e2773d827bb4de5135322d4ad77d07a5e0a9598f53de5d",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "16320980851149793002",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.30884583769779,
+                    -1.2960472846357907
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "jaguar",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "002:197",
+                "note": "camino de jaguar",
+                "id": "16320980851149793002",
+                "version": "541647325f767b55723dd20c1a1937b2489a6a2268dc8d74abd89bea12bb0f16",
+                "icon": "animal-camino-huellajaguar",
+                "preset": "camino/jaguar"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "8764640145068806894",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.29530543750728,
+                    -1.2861962448428452
+                ]
+            },
+            "properties": {
+                "camino": "viajar",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "002",
+                "note": "ye de quiwado y nemopade",
+                "id": "8764640145068806894",
+                "version": "5753cfe734059481a6ab1041679b689117daf7dee6af78cee8bc82c72bf2a216",
+                "icon": "wao-camino-viajar",
+                "preset": "camino/viajar"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5222673442172013426",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.24564415161369,
+                    -1.2421180295132346
+                ]
+            },
+            "properties": {
+                "source_gps": "1:74;6: 39",
+                "camino": "viajar",
+                "name_es": "Cruce de la Y",
+                "arbol": "construccion",
+                "arbol_especie": "emoiwe",
+                "id": "5222673442172013426",
+                "version": "5a52e6d30e13d415c5fff3b45b853ff23e75395764251e7ccc3d94dd6ff115c4",
+                "icon": "arbol-construccion",
+                "preset": "arbol/emoiwe"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "14456947002230778522",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.06485124251166,
+                    -1.358001121155382
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "tapir",
+                "source_gps": "002;040",
+                "comunidad_nombre": "akaro",
+                "name": "Camino Tapir",
+                "id": "14456947002230778522",
+                "version": "5aaa4a5e565ac311e8fe3b774d1a43314a3aaa37858258938281273935edbb8d",
+                "icon": "animal-camino-huellatapir",
+                "preset": "camino/tapir"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "610779894855019088",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.32616471141299,
+                    -1.2939726180411768
+                ]
+            },
+            "properties": {
+                "comunidad_nombre": "damointaro",
+                "source_gps": "002",
+                "note": "en este camino llega al comedero de coto mono",
+                "camino": "imaginado",
+                "id": "610779894855019088",
+                "version": "5c972111ffda411723eb6178ecde6e87d4677fbd4d8a671dab43f64593314a5e",
+                "icon": "wao-camino-imaginado",
+                "preset": "camino/imaginado"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10966883235088642949",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.29290262074008,
+                    -1.3933434359222852
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "tapir",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "002",
+                "note": "camino de tapir, venado,tigre y otros",
+                "id": "10966883235088642949",
+                "version": "5fb03d91bb87fc4f9555da935ee8b5fdd8f6b3b499b3ca2330c3ca00de41cbce",
+                "icon": "animal-camino-huellatapir",
+                "preset": "camino/tapir"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "16074146795863522497",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.01164621770248,
+                    -1.3420926857880024
+                ]
+            },
+            "properties": {
+                "camino": "caseria",
+                "id": "16074146795863522497",
+                "version": "6062997e6b952485143aefb287cfc3e1a44c147f5c7234788085ff13fe59753e",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "7247525369761681806",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.28416534373916,
+                    -1.3068829675690652
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "sajino",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "001",
+                "note": "en este sitioexiste muchas huella de sahinos ",
+                "id": "7247525369761681806",
+                "version": "693ea27cca93505fea7c2fe18e645db9d4e5e67eaac28cbb4133b10d8d944bbb",
+                "icon": "animal-camino-huellasajino",
+                "preset": "camino/sajino"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10324439010860607837",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.337117925415,
+                    -1.2767036708820203
+                ]
+            },
+            "properties": {
+                "comunidad_nombre": "damointaro",
+                "source_gps": "002",
+                "note": "este camino llega a noimonkata,  tiempo de crias siempre cogen sr, caya ",
+                "camino": "imaginado",
+                "id": "10324439010860607837",
+                "version": "721cc31028d188207f1d11ca7afa3c506ea2ebef8d543208fd26cbf6625889fd",
+                "icon": "wao-camino-imaginado",
+                "preset": "camino/imaginado"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5710818895322546864",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.31735754446596,
+                    -1.4014797880561454
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "tapir",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "001",
+                "note": "muchas huellas",
+                "id": "5710818895322546864",
+                "version": "7386adcf429415c9bbc2ec33b32bf6f1c27b6dc647a7ccc175db79bc4c7568c5",
+                "icon": "animal-camino-huellatapir",
+                "preset": "camino/tapir"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "15777307778001432205",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.25756956085206,
+                    -1.2307210463327567
+                ]
+            },
+            "properties": {
+                "camino": "viajar",
+                "name": "Inicio camino Tzapino",
+                "id": "15777307778001432205",
+                "version": "79a5e73793a59ebe071babba9a82fbe071bcc9d485e0d62616d5da13334837c3",
+                "icon": "wao-camino-viajar",
+                "preset": "camino/viajar"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1673887201960706325",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.31625301385122,
+                    -1.3042432822701613
+                ]
+            },
+            "properties": {
+                "name": "Amo taaro",
+                "name_es": "Camino taaro",
+                "camino": "animales",
+                "camino_fauna": "sajino",
+                "id": "1673887201960706325",
+                "version": "7b52b4a6a120b4416d0ef76c5f0c8dcd385c039939a0d93855f85cddaa8cdc8d",
+                "icon": "animal-camino-huellasajino",
+                "preset": "camino/sajino"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5048806883910912156",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.33959910828861,
+                    -1.3652483417175025
+                ]
+            },
+            "properties": {
+                "camino": "caseria",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "001",
+                "note": "camino caseria que llega a towipare",
+                "id": "5048806883910912156",
+                "version": "7cf2df68c0dab3e8c653ecd92ce6692f58b42e9b00b29fbd8f8c705dd0179d4e",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "463352014420919517",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.1427916820728,
+                    -1.3970775008089023
+                ]
+            },
+            "properties": {
+                "name": "Camino de jaguar",
+                "source_gps": "002;007",
+                "note": "Camino principal que siempre anda jaguar.",
+                "camino": "animales",
+                "camino_fauna": "jaguar",
+                "id": "463352014420919517",
+                "version": "7d0f071927f26266b73415c6e13e6e7440ba2639d9b8869e3b4e2aebebd5861f",
+                "icon": "animal-camino-huellajaguar",
+                "preset": "camino/jaguar"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "13432145771935040229",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.2729981333926,
+                    -1.4283502298395552
+                ]
+            },
+            "properties": {
+                "camino": "caseria",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "001",
+                "note": "hay camino caserio de otro vecinos ",
+                "id": "13432145771935040229",
+                "version": "815f4cec8770f407b55ea2b075ad3988de0399ab37d935218d22dad82fc5e240",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "369421801348476197",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3137492341749,
+                    -1.3171066811271472
+                ]
+            },
+            "properties": {
+                "camino": "caseria",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "001",
+                "note": "en este  camino se llegan al rio ñaino",
+                "id": "369421801348476197",
+                "version": "821fcc5848a82c03824142e34bf0aaa83c630d9d085932bd2269f8a010595038",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "8986436672574427919",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.26287635323918,
+                    -1.3866408725484216
+                ]
+            },
+            "properties": {
+                "name": "camino akaro y taragado",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "003",
+                "note": "poque entre los dos camino nos une el mismo camino",
+                "camino": "viajar",
+                "id": "8986436672574427919",
+                "version": "85c5fd4e724b6ec082c2964fea7ace546a90feec967c98ba2f3ad16bd9a41f55",
+                "icon": "wao-camino-viajar",
+                "preset": "camino/viajar"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "6034242740992789856",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.19236372770905,
+                    -1.4081069189420217
+                ]
+            },
+            "properties": {
+                "name": "Camino Saladero y pesca",
+                "source_gps": "006;010",
+                "note": "La gente de Akaro se usan camino de caseria para ir directo al saladero y otro camino para ir a pescar al rio.",
+                "camino": "caseria",
+                "id": "6034242740992789856",
+                "version": "874678b8f6b10c58823e336b36997e982d249606f1f3add05e74f9d78f9bd1ac",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "12952306664060976144",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.25851860770327,
+                    -1.3866101384015521
+                ]
+            },
+            "properties": {
+                "camino": "viajar",
+                "source_gps": "004;032.",
+                "note": "Camino principal que se va a la comunidad Damointaro.",
+                "id": "12952306664060976144",
+                "version": "879d232a232ea34c4258e370df46d3b1df78cc883f5eb73687376bbb6210affe",
+                "icon": "wao-camino-viajar",
+                "preset": "camino/viajar"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "14376828905083373081",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.32584626275442,
+                    -1.2896620235851444
+                ]
+            },
+            "properties": {
+                "camino": "caseria",
+                "name": "Escuela taaro goro",
+                "name_es": "Camino que va a la escuela",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "5:018",
+                "note": "Camino que baja a la escuela",
+                "id": "14376828905083373081",
+                "version": "8a7a7fc4621ef713ee93c0c0215f8725f6dbacab4bb059ae0f9284d146da3fc9",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "11499822255286789772",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.32511613288871,
+                    -1.2896202370383132
+                ]
+            },
+            "properties": {
+                "camino": "caseria",
+                "name": "Taaro Toñampare",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "5:016",
+                "note": "Camino que va a toñampare",
+                "id": "11499822255286789772",
+                "version": "8fa32b37bb60f149cc9421fa6ca5906c3f21c466455e34a257361f882bfb5911",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "9415940439509358427",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3224584144502,
+                    -1.2774728517194411
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "sajino",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "001",
+                "note": "hay muchas huella de sahinos y otros animales ",
+                "id": "9415940439509358427",
+                "version": "9261e2cee46ff4f731b183e66fcb448147531260b64814b2d69e31b851e2ff54",
+                "icon": "animal-camino-huellasajino",
+                "preset": "camino/sajino"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5646034251263212436",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.28382301235116,
+                    -1.4327735692161596
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "sahino",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "001",
+                "note": "muchas huelllas",
+                "id": "5646034251263212436",
+                "version": "96a1a8981e422722ed4da98e297a085b7aee93fc89c724124c6aabfb066e87d8",
+                "icon": "animal-camino-animales",
+                "preset": "camino/animales"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "14388589743495533757",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.32253438401138,
+                    -1.2956891318297399
+                ]
+            },
+            "properties": {
+                "camino": "viajar",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "7:",
+                "note": "aki se divide el camino tiweno y toñampari",
+                "id": "14388589743495533757",
+                "version": "9bff7ccf86c663a8086e877985cc38c3b06f4ede366dfd46747febf051b0a78a",
+                "icon": "wao-camino-viajar",
+                "preset": "camino/viajar"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "6923633690450560017",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.31746511019476,
+                    -1.2912819575519627
+                ]
+            },
+            "properties": {
+                "camino": "caseria",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "002",
+                "note": "en ese camino van casa y peca ",
+                "id": "6923633690450560017",
+                "version": "9d6ab1a0a5167125e2ac030b85fa429539f6edc888126832a349c3422de2c3d0",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "4070571477663221778",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.29742652722,
+                    -1.269529412418714
+                ]
+            },
+            "properties": {
+                "camino": "caseria",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "001",
+                "note": "este camino de caseria se unen con el camino de nemonpare ",
+                "id": "4070571477663221778",
+                "version": "9db5ce8deec4874dfc8943c0a5d20c90217c817a2147742b9a91418019999526",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5768329992365469219",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.19601748059384,
+                    -1.393052870369154
+                ]
+            },
+            "properties": {
+                "source_gps": "006;003",
+                "note": "Camino de cazadores que va al saladero.",
+                "camino": "caseria",
+                "id": "5768329992365469219",
+                "version": "a666bf710e92741174ce44c2a1a90c07525186ddcc3ce84e07f7803229da49f1",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "11441727521701641376",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.277721479583,
+                    -1.2414420100516992
+                ]
+            },
+            "properties": {
+                "name": "Iyenonpoga",
+                "name_es": "Camino Y",
+                "source_gps": "6: 63",
+                "camino": "caseria",
+                "id": "11441727521701641376",
+                "version": "ad35cbda8f4f3b2af163708b88d2374b465bc76bd99118d72c29fc1559d82fb4",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "290969430940119597",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.23564837090498,
+                    -1.3918710892888528
+                ]
+            },
+            "properties": {
+                "name": "Camino de Danta.",
+                "source_gps": "004;022.",
+                "note": "Cruce del camino de tapir de un lugar a otro sitio.",
+                "camino": "animales",
+                "camino_fauna": "tapir",
+                "id": "290969430940119597",
+                "version": "ae64d48119ac31e3fcb30a66e70b2327672fbe0f0bb5f466f511c0d2ddaef247",
+                "icon": "animal-camino-huellatapir",
+                "preset": "camino/tapir"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "17533650692435171851",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.36435521911959,
+                    -1.2687166321130392
+                ]
+            },
+            "properties": {
+                "camino": "caseria",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "003",
+                "note": "por este camino  se van cazar  señor peke",
+                "id": "17533650692435171851",
+                "version": "b2fc250690ad7b5062da556f966422fb6ec6acb1e2b184ce592417bad725a780",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "3767757144903958013",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.34382558815312,
+                    -1.268501394948099
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "sajino",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "001",
+                "note": "existe muchas huellas de sahinos",
+                "id": "3767757144903958013",
+                "version": "b45e77d3423b079b880f041aaa0eea42512ed872fe7a1ab815c86eca8d47f27f",
+                "icon": "animal-camino-huellasajino",
+                "preset": "camino/sajino"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "8282965753280545951",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.19391161043688,
+                    -1.4035765897039407
+                ]
+            },
+            "properties": {
+                "camino": "caseria",
+                "source_gps": "006;003",
+                "note": "Camino donde la gente de Akaro salen a cazar toda clase de animales solo para consumo familiar. Matan uno o dos animales nada mas. (monos chrongos, sainos, pavas de diferentes especies, guanganas y otras mas.",
+                "id": "8282965753280545951",
+                "version": "b4c57f784ca69935d2a2f748353a74d60073c9efd839a786f52b5dfe995eb90a",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "8124797897130531006",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.19236095299607,
+                    -1.4081525093808287
+                ]
+            },
+            "properties": {
+                "name": "Camino guangana",
+                "source_gps": "006;012",
+                "note": "Camino principal donde cruzan manadas de guanganas a otro lugar. Comen toda clases de pepas que estan en el suelo.",
+                "camino": "animales",
+                "camino_fauna": "sajino",
+                "id": "8124797897130531006",
+                "version": "b8922acfa054c5bbc0895f2b93024d3d1ff8c65b5fa180562cc0747d00579535",
+                "icon": "animal-camino-huellasajino",
+                "preset": "camino/sajino"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "570543263748115244",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.28362348606457,
+                    -1.43701914645801
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "huangana",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "001",
+                "note": "muchas huellas ",
+                "id": "570543263748115244",
+                "version": "ba4a3ffb98a4fa1f4f6af2f3809fd1ac7ec6dc92f4bef291404f0128b8ef63ce",
+                "icon": "animal-camino-huellahuangana",
+                "preset": "camino/huangana"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "17728783086856816648",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.36790226571031,
+                    -1.3216457434964468
+                ]
+            },
+            "properties": {
+                "name": "y de obero y de oncamo",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "003",
+                "note": "porque en este camino se divide  obero y oncamo",
+                "camino": "caseria",
+                "id": "17728783086856816648",
+                "version": "bac44c8b0e9a956ccfedf58bc8e1114be3df2b6d4e9ffc078123f86fb854edbc",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "3666946817524933225",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.35229196361757,
+                    -1.306351432586867
+                ]
+            },
+            "properties": {
+                "camino": "caseria",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "002",
+                "note": "en este camino hay bastante animales  como sahino  y otros ... y por eso van a casar",
+                "id": "3666946817524933225",
+                "version": "bbe0261a98725b4a406ee385754c2789e8ceb9601a98ea9f07bb858c1e524f37",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "17401129527866836312",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.33159497076367,
+                    -1.2881097524330443
+                ]
+            },
+            "properties": {
+                "camino": "imaginado",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "002",
+                "id": "17401129527866836312",
+                "version": "bd3180a168f8c4a21e918a1fbaaf08a6d1ea0edc7b721b021b2dceb95c1b8008",
+                "icon": "wao-camino-imaginado",
+                "preset": "camino/imaginado"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5155303263612174059",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.31625818364591,
+                    -1.3042129347637195
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "tapir",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "11;0013",
+                "note": "Camino de sainos, guanta, tapir, guatin y otros",
+                "id": "5155303263612174059",
+                "version": "bf31db7cca92a6f3d7c778deebbb628ba53d1aa52d7bd982a1e657ff83c13c63",
+                "icon": "animal-camino-huellatapir",
+                "preset": "camino/tapir"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "8614788402243303994",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.26722271879291,
+                    -1.1606053455766978
+                ]
+            },
+            "properties": {
+                "camino": "caseria",
+                "name": "Gontiwano taarö",
+                "name_es": "Gontiwano taarö",
+                "source_gps": "1: 110",
+                "id": "8614788402243303994",
+                "version": "c0ca1b45193531b2535696c60f7ad2caf606cd2690bb9831fbb37d37ba08d8ac",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "8458750571951078481",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.33299931692102,
+                    -1.3651043565626046
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "tapir",
+                "comunidad_nombre": "damointaro",
+                "foto": "173",
+                "source_gps": "001",
+                "note": "existe muchas huelllas de tapir ",
+                "id": "8458750571951078481",
+                "version": "c3bc4b5ad20c176b28051d1852a3732c368e74f358caffa0a1473cfd455e780d",
+                "icon": "animal-camino-huellatapir",
+                "preset": "camino/tapir"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "9643521914290967230",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3107483727472,
+                    -1.3205555320044866
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "tapir",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "002",
+                "foto": "0457",
+                "note": "camino de tapir, venado y otros",
+                "id": "9643521914290967230",
+                "version": "c6ce3700d1a062c86d182f7b7abbf8945219f60ea67b4d57b6d9a9de9e572c16",
+                "icon": "animal-camino-huellatapir",
+                "preset": "camino/tapir"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "47235539284309036",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.28219323371137,
+                    -1.2877296481076181
+                ]
+            },
+            "properties": {
+                "camino": "caseria",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "002",
+                "note": "en ese camino van  a casar animales",
+                "id": "47235539284309036",
+                "version": "cbb735dab02f428856fea1ca7ef9340a4beac8d96a53f68d0f58a56bbf449131",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "17358294667858942389",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.32235558971931,
+                    -1.2958399544810686
+                ]
+            },
+            "properties": {
+                "camino": "viajar",
+                "name": "Taaro TMP-Teweno",
+                "name_es": "Camino de TMP y Teweno",
+                "id": "17358294667858942389",
+                "version": "d23b4376cedbacfa3893932d1fd784d95c9935ef6bfa9f1122a471287553d047",
+                "icon": "wao-camino-viajar",
+                "preset": "camino/viajar"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "9424298977657272622",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.30258494650906,
+                    -1.3868059832401756
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "tapir",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "002",
+                "note": "camino de tapir, jaguar y otros",
+                "id": "9424298977657272622",
+                "version": "d41907d7261dfb3884bc4b2ce620447d7b52f67464ea7aa012c1718ef0a4fa3e",
+                "icon": "animal-camino-huellatapir",
+                "preset": "camino/tapir"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "13724203981899609796",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.34735682652818,
+                    -1.3064930966401442
+                ]
+            },
+            "properties": {
+                "name": "camino a nemquiwipare",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "002",
+                "note": "camino a pesca quebrada nemquiwipare",
+                "camino": "caseria",
+                "id": "13724203981899609796",
+                "version": "df8ed0e27dc439649e0cc384345dffca15e73180ab8776de4a79f42636a2feda",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "45220877620178882",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.34410208943844,
+                    -1.2719351295912702
+                ]
+            },
+            "properties": {
+                "name": "antiguo camino de nampai",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "002",
+                "note": "aintiguamente en este camino se caminaba sr, nampai",
+                "camino": "imaginado",
+                "id": "45220877620178882",
+                "version": "e20790dfc9ad1ce00fb60bd4b37c1a77febbe580b459c26433bfe3a3c6239a60",
+                "icon": "wao-camino-imaginado",
+                "preset": "camino/imaginado"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "251727434177421970",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.26336214472381,
+                    -1.2822895633808
+                ]
+            },
+            "properties": {
+                "camino": "caseria",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "003;david",
+                "note": "en este punto camino de kiwaro a la izquierda se desvia camino de caserio que se une al camino de nemonpare",
+                "id": "251727434177421970",
+                "version": "e5763d5594e03ef773c2c1a67501e2cb4d223148c17ab412a0619b05c8631ac7",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "11948359717198196727",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.13788408252272,
+                    -1.3957701626068058
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "sajino",
+                "name": "Amo taaro",
+                "source_gps": "002;002",
+                "comunidad_nombre": "akaro",
+                "id": "11948359717198196727",
+                "version": "f16b3fe4f799bd97a106d276ad811ffb19d04b0c5845bbf2af0bce51627943a0",
+                "icon": "animal-camino-huellasajino",
+                "preset": "camino/sajino"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "6286435615319236801",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.28208640907816,
+                    -1.419442243436928
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "001",
+                "note": "muchas huellas de animales",
+                "foto": "252",
+                "id": "6286435615319236801",
+                "version": "f1b62d9e2f18d446be8157d1a99840dae034f6c4c206362532e1009d157092ad",
+                "icon": "animal-camino-animales",
+                "preset": "camino/animales"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "11744219618975132924",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3341686265124,
+                    -1.3667077834708163
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "sajino",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "001",
+                "note": "en este sitio existe mucha huellas de ssahinos y otro animales ",
+                "id": "11744219618975132924",
+                "version": "f463c2d26f74f25b0935c2baf8d7597be074e0313dfa5c173f6ecf511593a0f1",
+                "icon": "animal-camino-huellasajino",
+                "preset": "camino/sajino"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "799743678081925800",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.26039128228601,
+                    -1.3870850527237653
+                ]
+            },
+            "properties": {
+                "camino": "caseria",
+                "name": "Camino caseria.",
+                "source_gps": "004;034.",
+                "note": "Camino caseria que se van a casar mono chorongo y mono aullador.",
+                "id": "799743678081925800",
+                "version": "fb06cd40a45e2578deb07021ac369629832d9941f7ba42a12819617f901d2d83",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5066977923670543135",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.20376718120214,
+                    -1.3872009288239353
+                ]
+            },
+            "properties": {
+                "camino": "caseria",
+                "source_gps": "004;025",
+                "note": "Sendero de caseria donde Memo anda cazando sahinos, monos chorongos y otras mas animales",
+                "name": "Sendero Memo y Tomo",
+                "id": "5066977923670543135",
+                "version": "fb4ed3f9fa15fcdd04b3a97a632fae15457500ac97bb13f53da2a344666d0021",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        }
+    ]
+}
