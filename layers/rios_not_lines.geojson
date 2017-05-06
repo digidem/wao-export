@@ -3,24 +3,25 @@
     "features": [
         {
             "type": "Feature",
-            "id": "11374660682162576408",
+            "id": "10613091333151020580",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.37653624255738,
-                    -1.1957382183418541
+                    -77.28018494287247,
+                    -1.4069841902498113
                 ]
             },
             "properties": {
-                "waterway": "stream",
-                "bocana": "no",
-                "comunidad_nombre": "tonompare",
-                "source_gps": "03-087",
-                "id": "11374660682162576408",
-                "version": "af42fff6642dca92c5d407ef8f9b463121968d1dca4dd01b7179edeecd9493e9",
-                "timestamp": "2017-05-04T13:07:59.910Z",
-                "icon": "agua-quebrada",
-                "preset": "agua/quebrada"
+                "waterway": "river",
+                "name": "boyapare",
+                "comunidad_nombre": "damointaro",
+                "source_gps": "001",
+                "note": "boya es nombre de un señor que vivia en esta zona por cerca de la orrilla ,y bautizo boyapare segun declaran de cuando ya no exixstiera algun dia   no nombre existiera para siempre  cuenta,cawena y coba  son testigo de lo hecho",
+                "id": "10613091333151020580",
+                "version": "ee6eb63f817ce0c1ab89c8cb66f4925fa907f3fc5a6bb55b0d7b04757326ccea",
+                "timestamp": "2017-05-06T17:07:34.060Z",
+                "icon": "agua-riogrande",
+                "preset": "agua/rio"
             }
         },
         {
@@ -40,6 +41,28 @@
                 "source_gps": "03-085",
                 "id": "14965969759570956357",
                 "version": "6d07e5d5f280575326d9ec89cf8a67d3f6ebb6c33a540e7d1934f71fef96d5f3",
+                "timestamp": "2017-05-04T13:07:59.910Z",
+                "icon": "agua-quebrada",
+                "preset": "agua/quebrada"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "11374660682162576408",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.37653624255738,
+                    -1.1957382183418541
+                ]
+            },
+            "properties": {
+                "waterway": "stream",
+                "bocana": "no",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "03-087",
+                "id": "11374660682162576408",
+                "version": "af42fff6642dca92c5d407ef8f9b463121968d1dca4dd01b7179edeecd9493e9",
                 "timestamp": "2017-05-04T13:07:59.910Z",
                 "icon": "agua-quebrada",
                 "preset": "agua/quebrada"
@@ -69,26 +92,6 @@
         },
         {
             "type": "Feature",
-            "id": "12354962019549530570",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.30749883259472,
-                    -1.1990948917354054
-                ]
-            },
-            "properties": {
-                "waterway": "stream",
-                "bocana": "no",
-                "id": "12354962019549530570",
-                "version": "5f20ff933899dffe7501fd9e68541273b27e7a72cde8692116f6bddda0a783d1",
-                "timestamp": "2017-05-04T05:18:12.218Z",
-                "icon": "agua-quebrada",
-                "preset": "agua/quebrada"
-            }
-        },
-        {
-            "type": "Feature",
             "id": "15458731451673054539",
             "geometry": {
                 "type": "Point",
@@ -103,6 +106,26 @@
                 "comunidad_nombre": "tonompare",
                 "id": "15458731451673054539",
                 "version": "413833db25401bfff144431390691e495eb917fad0d48b9099cf0c4ed77d06a5",
+                "timestamp": "2017-05-04T05:18:12.218Z",
+                "icon": "agua-quebrada",
+                "preset": "agua/quebrada"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "12354962019549530570",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.30749883259472,
+                    -1.1990948917354054
+                ]
+            },
+            "properties": {
+                "waterway": "stream",
+                "bocana": "no",
+                "id": "12354962019549530570",
+                "version": "5f20ff933899dffe7501fd9e68541273b27e7a72cde8692116f6bddda0a783d1",
                 "timestamp": "2017-05-04T05:18:12.218Z",
                 "icon": "agua-quebrada",
                 "preset": "agua/quebrada"
@@ -286,29 +309,6 @@
         },
         {
             "type": "Feature",
-            "id": "11084294693757115069",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.37909976700082,
-                    -1.2316122556115743
-                ]
-            },
-            "properties": {
-                "waterway": "stream",
-                "bocana": "no",
-                "name": "nomapare",
-                "comunidad_nombre": "tonompare",
-                "source_gps": "02-029",
-                "id": "11084294693757115069",
-                "version": "3f20c98bd58b3ed038e6d0eb2d37b6dcdd013de5b5b09d3d9d145a6897503e4c",
-                "timestamp": "2017-05-04T04:20:58.771Z",
-                "icon": "agua-quebrada",
-                "preset": "agua/quebrada"
-            }
-        },
-        {
-            "type": "Feature",
             "id": "9552041018903103878",
             "geometry": {
                 "type": "Point",
@@ -325,6 +325,29 @@
                 "source_gps": "02-033",
                 "id": "9552041018903103878",
                 "version": "f18a8b242df6d7b3edd8c407004a62940fca968bb2c710cd5d76e5a29f7be41b",
+                "timestamp": "2017-05-04T04:20:58.771Z",
+                "icon": "agua-quebrada",
+                "preset": "agua/quebrada"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "11084294693757115069",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.37909976700082,
+                    -1.2316122556115743
+                ]
+            },
+            "properties": {
+                "waterway": "stream",
+                "bocana": "no",
+                "name": "nomapare",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "02-029",
+                "id": "11084294693757115069",
+                "version": "3f20c98bd58b3ed038e6d0eb2d37b6dcdd013de5b5b09d3d9d145a6897503e4c",
                 "timestamp": "2017-05-04T04:20:58.771Z",
                 "icon": "agua-quebrada",
                 "preset": "agua/quebrada"
@@ -378,29 +401,6 @@
         },
         {
             "type": "Feature",
-            "id": "6274568084369749675",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.5254327767594,
-                    -1.2410683262572773
-                ]
-            },
-            "properties": {
-                "waterway": "stream",
-                "bocana": "no",
-                "name": "gueyemonpare",
-                "comunidad_nombre": "tonompare",
-                "source_gps": "03-038",
-                "id": "6274568084369749675",
-                "version": "b8de6151b6c162837454b5609b64f16520bb42652717f21fe6df38753567af68",
-                "timestamp": "2017-05-02T22:20:46.085Z",
-                "icon": "agua-quebrada",
-                "preset": "agua/quebrada"
-            }
-        },
-        {
-            "type": "Feature",
             "id": "10377480653403463219",
             "geometry": {
                 "type": "Point",
@@ -424,22 +424,23 @@
         },
         {
             "type": "Feature",
-            "id": "10739220744254870963",
+            "id": "6274568084369749675",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.52330697304663,
-                    -1.2436581427972722
+                    -77.5254327767594,
+                    -1.2410683262572773
                 ]
             },
             "properties": {
                 "waterway": "stream",
                 "bocana": "no",
+                "name": "gueyemonpare",
                 "comunidad_nombre": "tonompare",
-                "source_gps": "03-036",
-                "id": "10739220744254870963",
-                "version": "00e40842c0bf4822f62c78e5683de0b8e671118269877e242b5a9af227820bb2",
-                "timestamp": "2017-05-02T22:08:32.453Z",
+                "source_gps": "03-038",
+                "id": "6274568084369749675",
+                "version": "b8de6151b6c162837454b5609b64f16520bb42652717f21fe6df38753567af68",
+                "timestamp": "2017-05-02T22:20:46.085Z",
                 "icon": "agua-quebrada",
                 "preset": "agua/quebrada"
             }
@@ -462,6 +463,28 @@
                 "source_gps": "03-031",
                 "id": "5477493035313489959",
                 "version": "406e4ef879a144c394c68ba48f563d0a9e203b979c935f89989cacd5af8dbca7",
+                "timestamp": "2017-05-02T22:08:32.453Z",
+                "icon": "agua-quebrada",
+                "preset": "agua/quebrada"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10739220744254870963",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.52330697304663,
+                    -1.2436581427972722
+                ]
+            },
+            "properties": {
+                "waterway": "stream",
+                "bocana": "no",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "03-036",
+                "id": "10739220744254870963",
+                "version": "00e40842c0bf4822f62c78e5683de0b8e671118269877e242b5a9af227820bb2",
                 "timestamp": "2017-05-02T22:08:32.453Z",
                 "icon": "agua-quebrada",
                 "preset": "agua/quebrada"
@@ -537,44 +560,22 @@
         },
         {
             "type": "Feature",
-            "id": "9442133244772512317",
+            "id": "15280895605706992125",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.33755958236715,
-                    -1.2329429794107893
-                ]
-            },
-            "properties": {
-                "waterway": "river",
-                "name": "tewenoga",
-                "comunidad_nombre": "tonompare",
-                "source_gps": "03.011",
-                "id": "9442133244772512317",
-                "version": "a2243450fa1e653839e967a2990fa8385b58000d1c1f5a249de80efaf1aa465a",
-                "timestamp": "2017-05-01T03:44:31.046Z",
-                "icon": "agua-riogrande",
-                "preset": "agua/rio"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "13622626068959734510",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.33924174340032,
-                    -1.2328594236917976
+                    -77.34923953899882,
+                    -1.2301207351019385
                 ]
             },
             "properties": {
                 "waterway": "stream",
                 "bocana": "no",
-                "name": "dikamopare",
+                "name": "dikagiwenpare",
                 "comunidad_nombre": "tonompare",
-                "source_gps": "03-010",
-                "id": "13622626068959734510",
-                "version": "cda67d5ab64019d84f3adcccc3a24805e1729adb1bb34b2fe667738d0700f195",
+                "source_gps": "03-005",
+                "id": "15280895605706992125",
+                "version": "dffb09601211e3dafdd233d8bb38fcf58006d48a6949efab01969ec04fef90f9",
                 "timestamp": "2017-05-01T03:44:31.046Z",
                 "icon": "agua-quebrada",
                 "preset": "agua/quebrada"
@@ -605,22 +606,22 @@
         },
         {
             "type": "Feature",
-            "id": "15280895605706992125",
+            "id": "13622626068959734510",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.34923953899882,
-                    -1.2301207351019385
+                    -77.33924174340032,
+                    -1.2328594236917976
                 ]
             },
             "properties": {
                 "waterway": "stream",
                 "bocana": "no",
-                "name": "dikagiwenpare",
+                "name": "dikamopare",
                 "comunidad_nombre": "tonompare",
-                "source_gps": "03-005",
-                "id": "15280895605706992125",
-                "version": "dffb09601211e3dafdd233d8bb38fcf58006d48a6949efab01969ec04fef90f9",
+                "source_gps": "03-010",
+                "id": "13622626068959734510",
+                "version": "cda67d5ab64019d84f3adcccc3a24805e1729adb1bb34b2fe667738d0700f195",
                 "timestamp": "2017-05-01T03:44:31.046Z",
                 "icon": "agua-quebrada",
                 "preset": "agua/quebrada"
@@ -628,25 +629,24 @@
         },
         {
             "type": "Feature",
-            "id": "7015187264170206964",
+            "id": "9442133244772512317",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.47509830922495,
-                    -1.2796358276671866
+                    -77.33755958236715,
+                    -1.2329429794107893
                 ]
             },
             "properties": {
-                "waterway": "stream",
-                "bocana": "no",
-                "name": "dikapade",
-                "source_gps": "02-042",
+                "waterway": "river",
+                "name": "tewenoga",
                 "comunidad_nombre": "tonompare",
-                "id": "7015187264170206964",
-                "version": "9f125d4df4746d4de0856e8094912f832035f3fec625ebf984f1763380657953",
-                "timestamp": "2017-04-23T01:53:25.062Z",
-                "icon": "agua-quebrada",
-                "preset": "agua/quebrada"
+                "source_gps": "03.011",
+                "id": "9442133244772512317",
+                "version": "a2243450fa1e653839e967a2990fa8385b58000d1c1f5a249de80efaf1aa465a",
+                "timestamp": "2017-05-01T03:44:31.046Z",
+                "icon": "agua-riogrande",
+                "preset": "agua/rio"
             }
         },
         {
@@ -695,6 +695,29 @@
         },
         {
             "type": "Feature",
+            "id": "7015187264170206964",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.47509830922495,
+                    -1.2796358276671866
+                ]
+            },
+            "properties": {
+                "waterway": "stream",
+                "bocana": "no",
+                "name": "dikapade",
+                "source_gps": "02-042",
+                "comunidad_nombre": "tonompare",
+                "id": "7015187264170206964",
+                "version": "9f125d4df4746d4de0856e8094912f832035f3fec625ebf984f1763380657953",
+                "timestamp": "2017-04-23T01:53:25.062Z",
+                "icon": "agua-quebrada",
+                "preset": "agua/quebrada"
+            }
+        },
+        {
+            "type": "Feature",
             "id": "14238142022021605835",
             "geometry": {
                 "type": "Point",
@@ -717,6 +740,28 @@
         },
         {
             "type": "Feature",
+            "id": "11994130787158518008",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.46892276705039,
+                    -1.2588758561162927
+                ]
+            },
+            "properties": {
+                "waterway": "stream",
+                "bocana": "no",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "02-030",
+                "id": "11994130787158518008",
+                "version": "de27e0f87fb3936d04b7a1ba3852c1a4fde59e036c236a4e5913686177b33dd5",
+                "timestamp": "2017-04-23T00:58:52.041Z",
+                "icon": "agua-quebrada",
+                "preset": "agua/quebrada"
+            }
+        },
+        {
+            "type": "Feature",
             "id": "16931313665824552519",
             "geometry": {
                 "type": "Point",
@@ -733,28 +778,6 @@
                 "name": "bartolo",
                 "id": "16931313665824552519",
                 "version": "71319f2b05c635a064bf9664df02fecaf545b836f96544bc793d52fdd52b91d0",
-                "timestamp": "2017-04-23T00:58:52.041Z",
-                "icon": "agua-quebrada",
-                "preset": "agua/quebrada"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "11994130787158518008",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.46892276705039,
-                    -1.2588758561162927
-                ]
-            },
-            "properties": {
-                "waterway": "stream",
-                "bocana": "no",
-                "comunidad_nombre": "tonompare",
-                "source_gps": "02-030",
-                "id": "11994130787158518008",
-                "version": "de27e0f87fb3936d04b7a1ba3852c1a4fde59e036c236a4e5913686177b33dd5",
                 "timestamp": "2017-04-23T00:58:52.041Z",
                 "icon": "agua-quebrada",
                 "preset": "agua/quebrada"
@@ -1591,29 +1614,6 @@
         },
         {
             "type": "Feature",
-            "id": "6571840258343180421",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.35633494253123,
-                    -1.2159319591064344
-                ]
-            },
-            "properties": {
-                "waterway": "stream",
-                "bocana": "no",
-                "comunidad_nombre": "tonompare",
-                "source_gps": "004-119",
-                "note": "zona llamada tambien come compagonty",
-                "id": "6571840258343180421",
-                "version": "bd166a46ab7a44aff392af78ba3f13ba2a8a14e3a78ad75894e48e249b63992a",
-                "timestamp": "2017-04-02T23:57:35.871Z",
-                "icon": "agua-quebrada",
-                "preset": "agua/quebrada"
-            }
-        },
-        {
-            "type": "Feature",
             "id": "18125459359742302811",
             "geometry": {
                 "type": "Point",
@@ -1630,28 +1630,6 @@
                 "source_gps": "02-075",
                 "id": "18125459359742302811",
                 "version": "9c798168f14e9b1c81619b692c8c4738f6e433133cf2e13c70c8548dbb685421",
-                "timestamp": "2017-04-02T23:57:35.871Z",
-                "icon": "agua-quebrada",
-                "preset": "agua/quebrada"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "166678108609614518",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.32649488298522,
-                    -1.2095783322810196
-                ]
-            },
-            "properties": {
-                "waterway": "stream",
-                "bocana": "no",
-                "comunidad_nombre": "tonompare",
-                "source_gps": "02-070",
-                "id": "166678108609614518",
-                "version": "ba35d89fa77c7cc258855bb7a520193380271a45e3735373c57e7e2c09874379",
                 "timestamp": "2017-04-02T23:57:35.871Z",
                 "icon": "agua-quebrada",
                 "preset": "agua/quebrada"
@@ -1681,6 +1659,28 @@
         },
         {
             "type": "Feature",
+            "id": "166678108609614518",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.32649488298522,
+                    -1.2095783322810196
+                ]
+            },
+            "properties": {
+                "waterway": "stream",
+                "bocana": "no",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "02-070",
+                "id": "166678108609614518",
+                "version": "ba35d89fa77c7cc258855bb7a520193380271a45e3735373c57e7e2c09874379",
+                "timestamp": "2017-04-02T23:57:35.871Z",
+                "icon": "agua-quebrada",
+                "preset": "agua/quebrada"
+            }
+        },
+        {
+            "type": "Feature",
             "id": "13972397791354749049",
             "geometry": {
                 "type": "Point",
@@ -1696,6 +1696,29 @@
                 "source_gps": "02-066",
                 "id": "13972397791354749049",
                 "version": "0db31cb873447405b973ed3fdac81371e5d4a25702a817449170920c8c10b3fc",
+                "timestamp": "2017-04-02T23:57:35.871Z",
+                "icon": "agua-quebrada",
+                "preset": "agua/quebrada"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "6571840258343180421",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.35633494253123,
+                    -1.2159319591064344
+                ]
+            },
+            "properties": {
+                "waterway": "stream",
+                "bocana": "no",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "004-119",
+                "note": "zona llamada tambien come compagonty",
+                "id": "6571840258343180421",
+                "version": "bd166a46ab7a44aff392af78ba3f13ba2a8a14e3a78ad75894e48e249b63992a",
                 "timestamp": "2017-04-02T23:57:35.871Z",
                 "icon": "agua-quebrada",
                 "preset": "agua/quebrada"
@@ -2039,28 +2062,6 @@
         },
         {
             "type": "Feature",
-            "id": "17586771816279993894",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.37889137853674,
-                    -1.226420119759071
-                ]
-            },
-            "properties": {
-                "waterway": "stream",
-                "bocana": "no",
-                "comunidad_nombre": "tonompare",
-                "source_gps": "02-040",
-                "id": "17586771816279993894",
-                "version": "9c0dca62580d212cfcd7ef7a6d27ef20961eb399176ffd080d3dd61dc0afc1be",
-                "timestamp": "2017-03-29T05:57:21.876Z",
-                "icon": "agua-quebrada",
-                "preset": "agua/quebrada"
-            }
-        },
-        {
-            "type": "Feature",
             "id": "9876842522086810014",
             "geometry": {
                 "type": "Point",
@@ -2077,6 +2078,28 @@
                 "source_gps": "02-043",
                 "id": "9876842522086810014",
                 "version": "599a2f2e52cc6fa8614510df2df1aa19ac57cc9a5d8984b2c302814940b6d01d",
+                "timestamp": "2017-03-29T05:57:21.876Z",
+                "icon": "agua-quebrada",
+                "preset": "agua/quebrada"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "17586771816279993894",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.37889137853674,
+                    -1.226420119759071
+                ]
+            },
+            "properties": {
+                "waterway": "stream",
+                "bocana": "no",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "02-040",
+                "id": "17586771816279993894",
+                "version": "9c0dca62580d212cfcd7ef7a6d27ef20961eb399176ffd080d3dd61dc0afc1be",
                 "timestamp": "2017-03-29T05:57:21.876Z",
                 "icon": "agua-quebrada",
                 "preset": "agua/quebrada"
@@ -2130,28 +2153,6 @@
         },
         {
             "type": "Feature",
-            "id": "15042116881486732126",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.36142079476777,
-                    -1.2074471274561696
-                ]
-            },
-            "properties": {
-                "waterway": "river",
-                "name": "gakamopare",
-                "comunidad_nombre": "tonompare",
-                "source_gps": "04-038",
-                "id": "15042116881486732126",
-                "version": "2797cb76e50983c3a04fd40efb581a140b4f3d250a878b39403abe76b5ec3f50",
-                "timestamp": "2017-03-29T05:43:18.132Z",
-                "icon": "agua-riogrande",
-                "preset": "agua/rio"
-            }
-        },
-        {
-            "type": "Feature",
             "id": "13986853155529833061",
             "geometry": {
                 "type": "Point",
@@ -2172,6 +2173,28 @@
                 "timestamp": "2017-03-29T05:43:18.132Z",
                 "icon": "agua-quebrada",
                 "preset": "agua/quebrada"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "15042116881486732126",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.36142079476777,
+                    -1.2074471274561696
+                ]
+            },
+            "properties": {
+                "waterway": "river",
+                "name": "gakamopare",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "04-038",
+                "id": "15042116881486732126",
+                "version": "2797cb76e50983c3a04fd40efb581a140b4f3d250a878b39403abe76b5ec3f50",
+                "timestamp": "2017-03-29T05:43:18.132Z",
+                "icon": "agua-riogrande",
+                "preset": "agua/rio"
             }
         },
         {
@@ -2243,6 +2266,25 @@
         },
         {
             "type": "Feature",
+            "id": "11321215460398114799",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.29524736443793,
+                    -1.1730842528034726
+                ]
+            },
+            "properties": {
+                "waterway": "river",
+                "id": "11321215460398114799",
+                "version": "c75716515d0f51d87d1e6f06e2add9da41397fe3bd5c6076d29ee2e70cf4e7ea",
+                "timestamp": "2017-03-29T00:14:42.392Z",
+                "icon": "agua-riogrande",
+                "preset": "agua/rio"
+            }
+        },
+        {
+            "type": "Feature",
             "id": "5680305926543581367",
             "geometry": {
                 "type": "Point",
@@ -2257,25 +2299,6 @@
                 "source_gps": "04-232",
                 "id": "5680305926543581367",
                 "version": "f58ec14a4de70036bf62f5765c8a56fc4e4f8956ad7a298a955d79ca42209d97",
-                "timestamp": "2017-03-29T00:14:42.392Z",
-                "icon": "agua-riogrande",
-                "preset": "agua/rio"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "11321215460398114799",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.29524736443793,
-                    -1.1730842528034726
-                ]
-            },
-            "properties": {
-                "waterway": "river",
-                "id": "11321215460398114799",
-                "version": "c75716515d0f51d87d1e6f06e2add9da41397fe3bd5c6076d29ee2e70cf4e7ea",
                 "timestamp": "2017-03-29T00:14:42.392Z",
                 "icon": "agua-riogrande",
                 "preset": "agua/rio"
@@ -2441,28 +2464,6 @@
         },
         {
             "type": "Feature",
-            "id": "6029650173485694370",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.37104684065973,
-                    -1.134333410257473
-                ]
-            },
-            "properties": {
-                "waterway": "stream",
-                "bocana": "no",
-                "comunidad_nombre": "obaro",
-                "source_gps": "004-197",
-                "id": "6029650173485694370",
-                "version": "e1853aea96ce2fd8696e2b1d4870306623d1f6b33569d44c02ae16fbd7b84bbc",
-                "timestamp": "2017-03-27T06:53:18.108Z",
-                "icon": "agua-quebrada",
-                "preset": "agua/quebrada"
-            }
-        },
-        {
-            "type": "Feature",
             "id": "1524732350365227838",
             "geometry": {
                 "type": "Point",
@@ -2485,22 +2486,22 @@
         },
         {
             "type": "Feature",
-            "id": "4121522504018065488",
+            "id": "6029650173485694370",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.36123754061866,
-                    -1.1648848534891043
+                    -77.37104684065973,
+                    -1.134333410257473
                 ]
             },
             "properties": {
                 "waterway": "stream",
                 "bocana": "no",
                 "comunidad_nombre": "obaro",
-                "source_gps": "004-172",
-                "id": "4121522504018065488",
-                "version": "d29d9a9096abab4bcd6a95f35254acbe124254cdbb0a7b26a8f2ed4b24b421c5",
-                "timestamp": "2017-03-27T06:21:22.410Z",
+                "source_gps": "004-197",
+                "id": "6029650173485694370",
+                "version": "e1853aea96ce2fd8696e2b1d4870306623d1f6b33569d44c02ae16fbd7b84bbc",
+                "timestamp": "2017-03-27T06:53:18.108Z",
                 "icon": "agua-quebrada",
                 "preset": "agua/quebrada"
             }
@@ -2522,6 +2523,28 @@
                 "source_gps": "004-170",
                 "id": "3305477263973211291",
                 "version": "f305e4aa749507039823d15132da46ce022a213ef485d07a0bee02d9776f64d6",
+                "timestamp": "2017-03-27T06:21:22.410Z",
+                "icon": "agua-quebrada",
+                "preset": "agua/quebrada"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "4121522504018065488",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.36123754061866,
+                    -1.1648848534891043
+                ]
+            },
+            "properties": {
+                "waterway": "stream",
+                "bocana": "no",
+                "comunidad_nombre": "obaro",
+                "source_gps": "004-172",
+                "id": "4121522504018065488",
+                "version": "d29d9a9096abab4bcd6a95f35254acbe124254cdbb0a7b26a8f2ed4b24b421c5",
                 "timestamp": "2017-03-27T06:21:22.410Z",
                 "icon": "agua-quebrada",
                 "preset": "agua/quebrada"
@@ -5049,6 +5072,30 @@
         },
         {
             "type": "Feature",
+            "id": "2369323104922445618",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.39108894089853,
+                    -1.2266774151144226
+                ]
+            },
+            "properties": {
+                "waterway": "stream",
+                "bocana": "no",
+                "comunidad_nombre": "tonompare",
+                "name": "coba pare",
+                "source_gps": "017-02",
+                "note": "bocana de rio",
+                "id": "2369323104922445618",
+                "version": "2642705f320cb26676be4a40f6484c4d57fec6562de3836f07ebfd024dd65181",
+                "timestamp": "2017-03-14T00:01:43.986Z",
+                "icon": "agua-quebrada",
+                "preset": "agua/quebrada"
+            }
+        },
+        {
+            "type": "Feature",
             "id": "1513110023403332353",
             "geometry": {
                 "type": "Point",
@@ -5114,30 +5161,6 @@
                 "note": "pantano",
                 "id": "6429251028286316710",
                 "version": "55d0cec0996ea097d8a333baeb89b863ecd1602d714e633894df2a9d944c4039",
-                "timestamp": "2017-03-14T00:01:43.986Z",
-                "icon": "agua-quebrada",
-                "preset": "agua/quebrada"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "2369323104922445618",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.39108894089853,
-                    -1.2266774151144226
-                ]
-            },
-            "properties": {
-                "waterway": "stream",
-                "bocana": "no",
-                "comunidad_nombre": "tonompare",
-                "name": "coba pare",
-                "source_gps": "017-02",
-                "note": "bocana de rio",
-                "id": "2369323104922445618",
-                "version": "2642705f320cb26676be4a40f6484c4d57fec6562de3836f07ebfd024dd65181",
                 "timestamp": "2017-03-14T00:01:43.986Z",
                 "icon": "agua-quebrada",
                 "preset": "agua/quebrada"
@@ -7194,28 +7217,6 @@
                 "version": "2e6fb42079aa72359d84f0f7fac3ab81501bce7fd5e6df2ff50d4a48fdae4aab",
                 "icon": "agua-quebrada",
                 "preset": "agua/estero"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "10613091333151020580",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.28020441612097,
-                    -1.4065364405272744
-                ]
-            },
-            "properties": {
-                "waterway": "river",
-                "name": "boyapare",
-                "comunidad_nombre": "damointaro",
-                "source_gps": "001",
-                "note": "boya es nombre de un señor que vivia en esta zona por cerca de la orrilla ,y bautizo boyapare segun declaran de cuando ya no exixstiera algun dia   no nombre existiera para siempre  cuenta,cawena y coba  son testigo de lo hecho",
-                "id": "10613091333151020580",
-                "version": "2ec835f8f019c7218be0632d8c5519672696a2ca4048e77aa1595d599117b2c4",
-                "icon": "agua-riogrande",
-                "preset": "agua/rio"
             }
         },
         {

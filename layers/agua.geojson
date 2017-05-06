@@ -544,29 +544,6 @@
         },
         {
             "type": "Feature",
-            "id": "1948246527411157473",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.41075995127628,
-                    -1.264222343549955
-                ]
-            },
-            "properties": {
-                "water": "waterfall",
-                "comunidad_nombre": "kenaweno",
-                "name": "Nogïmonkataa",
-                "source_gps": "002;079",
-                "note": "Pequeña cascada y alrededor viven por los huecos los loros verdes.",
-                "id": "1948246527411157473",
-                "version": "fdcb70dadff5cf74c9a7229b2e545985e6308fdbcf205826125a2aaad2e75d4b",
-                "timestamp": "2017-03-17T22:41:05.162Z",
-                "icon": "agua-cascada",
-                "preset": "agua/cascada"
-            }
-        },
-        {
-            "type": "Feature",
             "id": "13197097665595371164",
             "geometry": {
                 "type": "Point",
@@ -583,6 +560,29 @@
                 "note": "Casacada alta  y tiene buen lugar para bañar.",
                 "id": "13197097665595371164",
                 "version": "64a08a379c6923947b6522d1b8ede3b659aa1f8ada5f0a8807a51c8ba91bbce5",
+                "timestamp": "2017-03-17T22:41:05.162Z",
+                "icon": "agua-cascada",
+                "preset": "agua/cascada"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1948246527411157473",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.41075995127628,
+                    -1.264222343549955
+                ]
+            },
+            "properties": {
+                "water": "waterfall",
+                "comunidad_nombre": "kenaweno",
+                "name": "Nogïmonkataa",
+                "source_gps": "002;079",
+                "note": "Pequeña cascada y alrededor viven por los huecos los loros verdes.",
+                "id": "1948246527411157473",
+                "version": "fdcb70dadff5cf74c9a7229b2e545985e6308fdbcf205826125a2aaad2e75d4b",
                 "timestamp": "2017-03-17T22:41:05.162Z",
                 "icon": "agua-cascada",
                 "preset": "agua/cascada"
