@@ -3,6 +3,723 @@
     "features": [
         {
             "type": "Feature",
+            "id": "3334936475009413417",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.43945598961463,
+                            -1.2617954265353302
+                        ],
+                        [
+                            -77.43922228361038,
+                            -1.2633829582898148
+                        ],
+                        [
+                            -77.43976482591913,
+                            -1.263921492479739
+                        ],
+                        [
+                            -77.44080094808818,
+                            -1.2645831121756728
+                        ],
+                        [
+                            -77.44173363283633,
+                            -1.2643206088762216
+                        ],
+                        [
+                            -77.4431966008676,
+                            -1.262734345191586
+                        ],
+                        [
+                            -77.44316449939662,
+                            -1.2637848447114304
+                        ],
+                        [
+                            -77.44184750679327,
+                            -1.2649616930744505
+                        ],
+                        [
+                            -77.44084358265566,
+                            -1.2652138422972636
+                        ],
+                        [
+                            -77.43950366628393,
+                            -1.2645593445645487
+                        ],
+                        [
+                            -77.43871495312735,
+                            -1.263848039633716
+                        ],
+                        [
+                            -77.43856274116553,
+                            -1.2628818285792671
+                        ],
+                        [
+                            -77.43874672371732,
+                            -1.2621646074555686
+                        ],
+                        [
+                            -77.43945598961463,
+                            -1.2617954265353302
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "water": "lake",
+                "name": "Laguna tokitibà",
+                "comunidad_nombre": "kenaweno",
+                "source_gps": "002",
+                "id": "3334936475009413417",
+                "version": "5cb51a50e5b40a953eef59ff427f7cd8aa5005a56b4b67b6c7a2b4ade9f8d429",
+                "timestamp": "2017-07-09T23:14:22.146Z",
+                "icon": "agua-laguna",
+                "preset": "agua/laguna"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "13476022084553029598",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4283928447963,
+                    -1.2549293434324371
+                ]
+            },
+            "properties": {
+                "water": "lake",
+                "name": "laguna Gigate",
+                "comunidad_nombre": "kenaweno",
+                "source_gps": "008;072",
+                "id": "13476022084553029598",
+                "version": "bd17ea9a436dd60831c02ceb0c4e714ab3a7d65bab769afaa5a651561f0a7357",
+                "timestamp": "2017-07-09T20:34:13.688Z",
+                "icon": "agua-laguna",
+                "preset": "agua/laguna"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "18282415838338590703",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.40884565823906,
+                    -1.2529255947181286
+                ]
+            },
+            "properties": {
+                "water": "spring",
+                "comunidad_nombre": "kenaweno",
+                "source_gps": "001;069",
+                "id": "18282415838338590703",
+                "version": "44c5a0dbfad8f46ba537cbb2890e1a67df968167d4e1adc7117ab2f4a5ee066c",
+                "timestamp": "2017-07-09T19:01:43.786Z",
+                "icon": "agua-ojo",
+                "preset": "agua/ojodeagua"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "8642306340657727875",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.40427085717775,
+                    -1.261823637080553
+                ]
+            },
+            "properties": {
+                "water": "waterfall",
+                "name": "Cascada Fabiola",
+                "comunidad_nombre": "kenaweno",
+                "source_gps": "001;120",
+                "id": "8642306340657727875",
+                "version": "cc4cf87cb00ae6d0564cca07c5066072e962443bdfec303711526e4f25b7f7fb",
+                "timestamp": "2017-07-09T18:40:32.561Z",
+                "icon": "agua-cascada",
+                "preset": "agua/cascada"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "4328444067446780059",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3941213782654,
+                    -1.2588417422206224
+                ]
+            },
+            "properties": {
+                "water": "waterfall",
+                "name": "Casacda Wilma",
+                "comunidad_nombre": "kenaweno",
+                "source_gps": "001;114",
+                "id": "4328444067446780059",
+                "version": "865e50e2aaef96e926c729a549afc07367759acc31b5fdd3c765ba66e8eaa50a",
+                "timestamp": "2017-07-09T18:40:32.561Z",
+                "icon": "agua-cascada",
+                "preset": "agua/cascada"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "14265600269332308069",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.40371295770265,
+                    -1.2623814012074805
+                ]
+            },
+            "properties": {
+                "water": "waterfall",
+                "name": "Cascada Ana",
+                "comunidad_nombre": "kenaweno",
+                "source_gps": "001;122",
+                "id": "14265600269332308069",
+                "version": "30b75d6b8b181a595fa2e4d74f44147e7749c1394db4abb9be9ff5e054eb7399",
+                "timestamp": "2017-07-09T18:40:32.561Z",
+                "icon": "agua-cascada",
+                "preset": "agua/cascada"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "6449408321581901199",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4298551538639,
+                    -1.2373177338665957
+                ]
+            },
+            "properties": {
+                "water": "lake",
+                "name": "Laguna Kento",
+                "source_gps": "008;054",
+                "comunidad_nombre": "kenaweno",
+                "note": "En este laguna exixten viejas, pirañas, sardinas, guanchichis y otros pescados mas.",
+                "id": "6449408321581901199",
+                "version": "7d040c10ba15a2a268425618129898c4fbe53b282f08d719744fbff2488b853a",
+                "timestamp": "2017-07-09T15:12:16.830Z",
+                "icon": "agua-laguna",
+                "preset": "agua/laguna"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1509550770576632888",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.13940918179583,
+                            -1.392584966646574
+                        ],
+                        [
+                            -77.13951012651755,
+                            -1.392547123556112
+                        ],
+                        [
+                            -77.13969939787077,
+                            -1.3926606528256151
+                        ],
+                        [
+                            -77.139888669224,
+                            -1.3928498682626207
+                        ],
+                        [
+                            -77.14001485012616,
+                            -1.3929886262400957
+                        ],
+                        [
+                            -77.14002746821639,
+                            -1.3931399985698585
+                        ],
+                        [
+                            -77.14006532248702,
+                            -1.3933039852494407
+                        ],
+                        [
+                            -77.14019150338918,
+                            -1.3934427432001737
+                        ],
+                        [
+                            -77.14035553856198,
+                            -1.3935058149932644
+                        ],
+                        [
+                            -77.14059528227608,
+                            -1.3935310437100275
+                        ],
+                        [
+                            -77.14075931744888,
+                            -1.393467971917611
+                        ],
+                        [
+                            -77.14088549835104,
+                            -1.3934553575589241
+                        ],
+                        [
+                            -77.14088549835104,
+                            -1.3935941155007516
+                        ],
+                        [
+                            -77.1406836089076,
+                            -1.3936698016473894
+                        ],
+                        [
+                            -77.14044386519348,
+                            -1.3936698016473894
+                        ],
+                        [
+                            -77.14019150338918,
+                            -1.393657187289784
+                        ],
+                        [
+                            -77.14001485012616,
+                            -1.3935058149932644
+                        ],
+                        [
+                            -77.13990128731422,
+                            -1.3933292139683664
+                        ],
+                        [
+                            -77.13985081495336,
+                            -1.393127384209416
+                        ],
+                        [
+                            -77.1398003425925,
+                            -1.3929633975175315
+                        ],
+                        [
+                            -77.1396236893295,
+                            -1.392799410814235
+                        ],
+                        [
+                            -77.1394722722469,
+                            -1.3926858815514365
+                        ],
+                        [
+                            -77.13940918179583,
+                            -1.392584966646574
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "water": "lake",
+                "id": "1509550770576632888",
+                "version": "2b5107ab5defb1f36958e141fc592b419917c0196e1c18effd9fc38ad74b3d0b",
+                "timestamp": "2017-07-03T13:51:55.752Z",
+                "icon": "agua-laguna",
+                "preset": "agua/laguna"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "8211638688284738043",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.56099785799317,
+                    -1.3023504225242217
+                ]
+            },
+            "properties": {
+                "comunidad_nombre": "daipare",
+                "source_gps": "002;033",
+                "note": "en este lugar se encuentra ojo de agua ",
+                "water": "spring",
+                "id": "8211638688284738043",
+                "version": "cd238c120b60c4f6f7cc237a6497498b548e3151e536181ff0270713d1be16f5",
+                "timestamp": "2017-07-03T12:22:22.786Z",
+                "icon": "agua-ojo",
+                "preset": "agua/ojodeagua"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "6335714190245816179",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.39882903771039,
+                    -1.216361476455883
+                ]
+            },
+            "properties": {
+                "water": "waterfall",
+                "name": "teñata",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "04-034",
+                "note": "cascada de 20 metros ahi tiene dino de lora (noimonka)",
+                "id": "6335714190245816179",
+                "version": "af581180284f7daeb5336332fc574451b13470902c246bb4a7722a99da96bd03",
+                "timestamp": "2017-06-28T01:06:18.022Z",
+                "icon": "agua-cascada",
+                "preset": "agua/cascada"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5719841904886932628",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.42174999756323,
+                    -1.2208132381271457
+                ]
+            },
+            "properties": {
+                "water": "waterfall",
+                "name": "Cascada Wepe",
+                "comunidad_nombre": "kenaweno",
+                "source_gps": "002;092",
+                "note": "Tiene un espacio como piscina para bañar y resfrescar, quita los estres y cansancio.",
+                "id": "5719841904886932628",
+                "version": "8ebdc01c34eedd734126c6341b550289d935dcf0d69fe9c051ff46104e74b1b5",
+                "timestamp": "2017-06-26T12:51:52.786Z",
+                "icon": "agua-cascada",
+                "preset": "agua/cascada"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10933093238049876731",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.439455976518,
+                    -1.2725696874552312
+                ]
+            },
+            "properties": {
+                "water": "pond",
+                "comunidad_nombre": "kenaweno",
+                "source_gps": "002;088",
+                "note": "Laguna donde siempre permanecen cantando los sapos por las orillas.",
+                "id": "10933093238049876731",
+                "version": "b430407b96f4042337fd201aec6ad56415acbfcd9f15395eb72cecc877075be8",
+                "timestamp": "2017-06-26T12:24:18.522Z",
+                "icon": "agua-lago",
+                "preset": "agua/lago"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1603777217570686504",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4915140253563,
+                    -1.2418862446977823
+                ]
+            },
+            "properties": {
+                "water": "waterfall",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "01-052",
+                "id": "1603777217570686504",
+                "version": "afbcd09a60f2127a10b1b1283e8a57e223137143e50866e1e06383c06fb12132",
+                "timestamp": "2017-05-25T00:25:06.388Z",
+                "icon": "agua-cascada",
+                "preset": "agua/cascada"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "13324270991184209122",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.38997926182887,
+                    -1.2117606563409318
+                ]
+            },
+            "properties": {
+                "water": "waterfall",
+                "name": "paa cascada",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "07-195",
+                "id": "13324270991184209122",
+                "version": "8f484b9b689e77b8e465f6857d145edaa46b23def18550d2b2ebeafc308070e3",
+                "timestamp": "2017-05-17T22:35:38.000Z",
+                "icon": "agua-cascada",
+                "preset": "agua/cascada"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "8468381580221109268",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.32633190337839,
+                    -1.2230025775559201
+                ]
+            },
+            "properties": {
+                "water": "waterfall",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "07-190",
+                "id": "8468381580221109268",
+                "version": "e88d9c61f83fce8d9f3a0bec664c599dfe46d4dff04d12a0a8a9baf630856a7c",
+                "timestamp": "2017-05-17T22:25:49.299Z",
+                "icon": "agua-cascada",
+                "preset": "agua/cascada"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5684103630198420452",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.31927741947413,
+                    -1.2295838867213607
+                ]
+            },
+            "properties": {
+                "water": "waterfall",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "07-161",
+                "id": "5684103630198420452",
+                "version": "53f36753c3cb1a3c78f349246f067cf879785680b9e956224ca870758d0dd5f2",
+                "timestamp": "2017-05-17T19:44:59.892Z",
+                "icon": "agua-cascada",
+                "preset": "agua/cascada"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10642524801858944299",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.31586172434876,
+                    -1.223315169668411
+                ]
+            },
+            "properties": {
+                "water": "waterfall",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "07-153",
+                "id": "10642524801858944299",
+                "version": "f0c5fbb9e366fdbaf31c8cdf51819d94bb2ff9ce2feba40da9373d3f0089484e",
+                "timestamp": "2017-05-17T19:31:31.228Z",
+                "icon": "agua-cascada",
+                "preset": "agua/cascada"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5071424440337559362",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.41942915648825,
+                    -1.1709154187380595
+                ]
+            },
+            "properties": {
+                "water": "waterfall",
+                "name": "yewanka",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "07-138",
+                "id": "5071424440337559362",
+                "version": "76e44585ca4e3a14a0cb620a62577b73bc8c4617940d67d8d92a2aa4e60eadc4",
+                "timestamp": "2017-05-17T19:31:31.228Z",
+                "icon": "agua-cascada",
+                "preset": "agua/cascada"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "14833661360232952060",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.39402135612467,
+                    -1.197999471757748
+                ]
+            },
+            "properties": {
+                "water": "waterfall",
+                "name": "cascada epe",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "07-134",
+                "id": "14833661360232952060",
+                "version": "dbc26b0f594499447bdc2c31d95012f07d2b7d4bd294a459f9666d9f65974877",
+                "timestamp": "2017-05-17T19:13:24.731Z",
+                "icon": "agua-cascada",
+                "preset": "agua/cascada"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "14313073739733791727",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.39250195877439,
+                    -1.1967998276376708
+                ]
+            },
+            "properties": {
+                "water": "waterfall",
+                "name": "cascada paa",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "07-135",
+                "id": "14313073739733791727",
+                "version": "3624934aab165300a6ce2e3c4cb1f0d758ee9231a0fd1c42d74160f3214577e4",
+                "timestamp": "2017-05-17T19:13:24.731Z",
+                "icon": "agua-cascada",
+                "preset": "agua/cascada"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "11067376150841227313",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.56031215886678,
+                    -1.2246338865983057
+                ]
+            },
+            "properties": {
+                "water": "waterfall",
+                "comunidad_nombre": "daipare",
+                "source_gps": "001;263",
+                "note": "en este lugar existe cascada grande de 30 mtr",
+                "id": "11067376150841227313",
+                "version": "21f8c3cdbf8a67c07e7b2ed2eb2962ff2d92498c79a4a0d5164b49ebd95cd22a",
+                "timestamp": "2017-05-13T19:05:06.334Z",
+                "icon": "agua-cascada",
+                "preset": "agua/cascada"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "9380283027795404439",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5547862646682,
+                    -1.2843910513200238
+                ]
+            },
+            "properties": {
+                "water": "waterfall",
+                "comunidad_nombre": "daipare",
+                "source_gps": "001;200",
+                "note": "en este lugarf existe una cascada",
+                "id": "9380283027795404439",
+                "version": "6e2995db40fbb6dcdb814b96035a275877b8e9b1cf269021a2bb9cdc8f1021fa",
+                "timestamp": "2017-05-10T17:26:35.444Z",
+                "icon": "agua-cascada",
+                "preset": "agua/cascada"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "11225543758112742915",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.38640517771057,
+                    -1.2412968630382677
+                ]
+            },
+            "properties": {
+                "water": "waterfall",
+                "name": "noimonkata",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "04-037",
+                "id": "11225543758112742915",
+                "version": "b886dd6aa3f8a51ec7f2f34e0adc095341dc72d413348258ba6b3940e9484a01",
+                "timestamp": "2017-05-10T01:28:03.159Z",
+                "icon": "agua-cascada",
+                "preset": "agua/cascada"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "15214391791621797228",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5319335972922,
+                    -1.2172160064140691
+                ]
+            },
+            "properties": {
+                "water": "waterfall",
+                "name": "dicapare",
+                "comunidad_nombre": "daipare",
+                "source_gps": "002;448",
+                "note": "en este lugar existe cascada pequeño de 4 mts",
+                "id": "15214391791621797228",
+                "version": "d11699e46a79c7fbe4c4af4458547d2a9ee6f24165479b16d4b51efe179f7935",
+                "timestamp": "2017-05-06T21:33:52.661Z",
+                "icon": "agua-cascada",
+                "preset": "agua/cascada"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "4188987719903693341",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5443871262186,
+                    -1.3482746420681784
+                ]
+            },
+            "properties": {
+                "water": "pond",
+                "comunidad_nombre": "daipare",
+                "source_gps": "002;414",
+                "note": "en este lugauna existe bastantes tipos de pescados",
+                "id": "4188987719903693341",
+                "version": "184b0ceb3419f47f1e5d4c74826f1bbfb7c43a282497e0e191c3ae4418c406c7",
+                "timestamp": "2017-05-06T20:46:24.257Z",
+                "icon": "agua-lago",
+                "preset": "agua/lago"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "4883607303859868580",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.56364857745316,
+                    -1.3019866614158095
+                ]
+            },
+            "properties": {
+                "water": "waterfall",
+                "name": "ñonepare",
+                "comunidad_nombre": "daipare",
+                "source_gps": "002;305",
+                "note": "exsite una buena cascada de 18 mestros de alto",
+                "id": "4883607303859868580",
+                "version": "e6c31fd711c8e933528c2f6f893ff91811faa4c38e271091165314335252b03f",
+                "timestamp": "2017-05-06T18:27:13.673Z",
+                "icon": "agua-cascada",
+                "preset": "agua/cascada"
+            }
+        },
+        {
+            "type": "Feature",
             "id": "3183445933596894181",
             "geometry": {
                 "type": "Point",
@@ -24,27 +741,6 @@
         },
         {
             "type": "Feature",
-            "id": "16125739621812353805",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.30520286167797,
-                    -1.1991163447085087
-                ]
-            },
-            "properties": {
-                "water": "waterfall",
-                "comunidad_nombre": "tonompare",
-                "source_gps": "03-069",
-                "id": "16125739621812353805",
-                "version": "4f01a80866c24d76b6fb6d485b38d12afccc647a5f384d64320c6c0c390e7685",
-                "timestamp": "2017-05-04T05:18:12.218Z",
-                "icon": "agua-cascada",
-                "preset": "agua/cascada"
-            }
-        },
-        {
-            "type": "Feature",
             "id": "523260784723867277",
             "geometry": {
                 "type": "Point",
@@ -59,6 +755,27 @@
                 "source_gps": "03-072",
                 "id": "523260784723867277",
                 "version": "048832e590f187fecb294741c76c15d8f77932cf389cc081e1739805f0a98e76",
+                "timestamp": "2017-05-04T05:18:12.218Z",
+                "icon": "agua-cascada",
+                "preset": "agua/cascada"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "16125739621812353805",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.30520286167797,
+                    -1.1991163447085087
+                ]
+            },
+            "properties": {
+                "water": "waterfall",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "03-069",
+                "id": "16125739621812353805",
+                "version": "4f01a80866c24d76b6fb6d485b38d12afccc647a5f384d64320c6c0c390e7685",
                 "timestamp": "2017-05-04T05:18:12.218Z",
                 "icon": "agua-cascada",
                 "preset": "agua/cascada"
@@ -409,6 +1126,27 @@
         },
         {
             "type": "Feature",
+            "id": "12849592317893767502",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.36352008500756,
+                    -1.1692006066338436
+                ]
+            },
+            "properties": {
+                "water": "lake",
+                "comunidad_nombre": "obaro",
+                "source_gps": "004-169",
+                "id": "12849592317893767502",
+                "version": "b0472fa4b5a9968191492b87101d970ddba4c74c1a74ebce1cdf2c30849685a8",
+                "timestamp": "2017-03-27T06:21:22.410Z",
+                "icon": "agua-laguna",
+                "preset": "agua/laguna"
+            }
+        },
+        {
+            "type": "Feature",
             "id": "232784318839153063",
             "geometry": {
                 "type": "Point",
@@ -428,27 +1166,6 @@
                 "timestamp": "2017-03-27T06:21:22.410Z",
                 "icon": "agua-cascada",
                 "preset": "agua/cascada"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "12849592317893767502",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.36352008500756,
-                    -1.1692006066338436
-                ]
-            },
-            "properties": {
-                "water": "lake",
-                "comunidad_nombre": "obaro",
-                "source_gps": "004-169",
-                "id": "12849592317893767502",
-                "version": "b0472fa4b5a9968191492b87101d970ddba4c74c1a74ebce1cdf2c30849685a8",
-                "timestamp": "2017-03-27T06:21:22.410Z",
-                "icon": "agua-laguna",
-                "preset": "agua/laguna"
             }
         },
         {
@@ -544,29 +1261,6 @@
         },
         {
             "type": "Feature",
-            "id": "13197097665595371164",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.4115593843603,
-                    -1.2653517163858579
-                ]
-            },
-            "properties": {
-                "water": "waterfall",
-                "name": "Gomatan",
-                "comunidad_nombre": "kenaweno",
-                "source_gps": "002;064",
-                "note": "Casacada alta  y tiene buen lugar para bañar.",
-                "id": "13197097665595371164",
-                "version": "64a08a379c6923947b6522d1b8ede3b659aa1f8ada5f0a8807a51c8ba91bbce5",
-                "timestamp": "2017-03-17T22:41:05.162Z",
-                "icon": "agua-cascada",
-                "preset": "agua/cascada"
-            }
-        },
-        {
-            "type": "Feature",
             "id": "1948246527411157473",
             "geometry": {
                 "type": "Point",
@@ -583,6 +1277,29 @@
                 "note": "Pequeña cascada y alrededor viven por los huecos los loros verdes.",
                 "id": "1948246527411157473",
                 "version": "fdcb70dadff5cf74c9a7229b2e545985e6308fdbcf205826125a2aaad2e75d4b",
+                "timestamp": "2017-03-17T22:41:05.162Z",
+                "icon": "agua-cascada",
+                "preset": "agua/cascada"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "13197097665595371164",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4115593843603,
+                    -1.2653517163858579
+                ]
+            },
+            "properties": {
+                "water": "waterfall",
+                "name": "Gomatan",
+                "comunidad_nombre": "kenaweno",
+                "source_gps": "002;064",
+                "note": "Casacada alta  y tiene buen lugar para bañar.",
+                "id": "13197097665595371164",
+                "version": "64a08a379c6923947b6522d1b8ede3b659aa1f8ada5f0a8807a51c8ba91bbce5",
                 "timestamp": "2017-03-17T22:41:05.162Z",
                 "icon": "agua-cascada",
                 "preset": "agua/cascada"
@@ -936,12 +1653,12 @@
                             -1.2192957910943907
                         ],
                         [
-                            -77.37696355619788,
-                            -1.2192426524399607
+                            -77.37744635386142,
+                            -1.2194839966066746
                         ],
                         [
-                            -77.37683599454522,
-                            -1.2194658347815206
+                            -77.37731879220875,
+                            -1.2195677356460957
                         ],
                         [
                             -77.37714426853915,
@@ -956,16 +1673,16 @@
                             -1.2201566371500174
                         ],
                         [
-                            -77.37654898082671,
-                            -1.2176484923194593
+                            -77.37618420036983,
+                            -1.2190643786268691
                         ],
                         [
-                            -77.37608125476694,
-                            -1.2170533389660647
+                            -77.37573256756549,
+                            -1.2182868765935198
                         ],
                         [
-                            -77.3759218027011,
-                            -1.2175953536325368
+                            -77.3754926492224,
+                            -1.217809881912994
                         ],
                         [
                             -77.3753371451264,
