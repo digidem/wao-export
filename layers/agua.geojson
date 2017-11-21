@@ -124,21 +124,21 @@
         },
         {
             "type": "Feature",
-            "id": "8642306340657727875",
+            "id": "14265600269332308069",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.40427085717775,
-                    -1.261823637080553
+                    -77.40371295770265,
+                    -1.2623814012074805
                 ]
             },
             "properties": {
                 "water": "waterfall",
-                "name": "Cascada Fabiola",
+                "name": "Cascada Ana",
                 "comunidad_nombre": "kenaweno",
-                "source_gps": "001;120",
-                "id": "8642306340657727875",
-                "version": "cc4cf87cb00ae6d0564cca07c5066072e962443bdfec303711526e4f25b7f7fb",
+                "source_gps": "001;122",
+                "id": "14265600269332308069",
+                "version": "30b75d6b8b181a595fa2e4d74f44147e7749c1394db4abb9be9ff5e054eb7399",
                 "timestamp": "2017-07-09T18:40:32.561Z",
                 "icon": "agua-cascada",
                 "preset": "agua/cascada"
@@ -168,21 +168,21 @@
         },
         {
             "type": "Feature",
-            "id": "14265600269332308069",
+            "id": "8642306340657727875",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.40371295770265,
-                    -1.2623814012074805
+                    -77.40427085717775,
+                    -1.261823637080553
                 ]
             },
             "properties": {
                 "water": "waterfall",
-                "name": "Cascada Ana",
+                "name": "Cascada Fabiola",
                 "comunidad_nombre": "kenaweno",
-                "source_gps": "001;122",
-                "id": "14265600269332308069",
-                "version": "30b75d6b8b181a595fa2e4d74f44147e7749c1394db4abb9be9ff5e054eb7399",
+                "source_gps": "001;120",
+                "id": "8642306340657727875",
+                "version": "cc4cf87cb00ae6d0564cca07c5066072e962443bdfec303711526e4f25b7f7fb",
                 "timestamp": "2017-07-09T18:40:32.561Z",
                 "icon": "agua-cascada",
                 "preset": "agua/cascada"
@@ -1126,27 +1126,6 @@
         },
         {
             "type": "Feature",
-            "id": "12849592317893767502",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.36352008500756,
-                    -1.1692006066338436
-                ]
-            },
-            "properties": {
-                "water": "lake",
-                "comunidad_nombre": "obaro",
-                "source_gps": "004-169",
-                "id": "12849592317893767502",
-                "version": "b0472fa4b5a9968191492b87101d970ddba4c74c1a74ebce1cdf2c30849685a8",
-                "timestamp": "2017-03-27T06:21:22.410Z",
-                "icon": "agua-laguna",
-                "preset": "agua/laguna"
-            }
-        },
-        {
-            "type": "Feature",
             "id": "232784318839153063",
             "geometry": {
                 "type": "Point",
@@ -1166,6 +1145,27 @@
                 "timestamp": "2017-03-27T06:21:22.410Z",
                 "icon": "agua-cascada",
                 "preset": "agua/cascada"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "12849592317893767502",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.36352008500756,
+                    -1.1692006066338436
+                ]
+            },
+            "properties": {
+                "water": "lake",
+                "comunidad_nombre": "obaro",
+                "source_gps": "004-169",
+                "id": "12849592317893767502",
+                "version": "b0472fa4b5a9968191492b87101d970ddba4c74c1a74ebce1cdf2c30849685a8",
+                "timestamp": "2017-03-27T06:21:22.410Z",
+                "icon": "agua-laguna",
+                "preset": "agua/laguna"
             }
         },
         {
@@ -1261,29 +1261,6 @@
         },
         {
             "type": "Feature",
-            "id": "1948246527411157473",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.41075995127628,
-                    -1.264222343549955
-                ]
-            },
-            "properties": {
-                "water": "waterfall",
-                "comunidad_nombre": "kenaweno",
-                "name": "Nogïmonkataa",
-                "source_gps": "002;079",
-                "note": "Pequeña cascada y alrededor viven por los huecos los loros verdes.",
-                "id": "1948246527411157473",
-                "version": "fdcb70dadff5cf74c9a7229b2e545985e6308fdbcf205826125a2aaad2e75d4b",
-                "timestamp": "2017-03-17T22:41:05.162Z",
-                "icon": "agua-cascada",
-                "preset": "agua/cascada"
-            }
-        },
-        {
-            "type": "Feature",
             "id": "13197097665595371164",
             "geometry": {
                 "type": "Point",
@@ -1300,6 +1277,29 @@
                 "note": "Casacada alta  y tiene buen lugar para bañar.",
                 "id": "13197097665595371164",
                 "version": "64a08a379c6923947b6522d1b8ede3b659aa1f8ada5f0a8807a51c8ba91bbce5",
+                "timestamp": "2017-03-17T22:41:05.162Z",
+                "icon": "agua-cascada",
+                "preset": "agua/cascada"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1948246527411157473",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.41075995127628,
+                    -1.264222343549955
+                ]
+            },
+            "properties": {
+                "water": "waterfall",
+                "comunidad_nombre": "kenaweno",
+                "name": "Nogïmonkataa",
+                "source_gps": "002;079",
+                "note": "Pequeña cascada y alrededor viven por los huecos los loros verdes.",
+                "id": "1948246527411157473",
+                "version": "fdcb70dadff5cf74c9a7229b2e545985e6308fdbcf205826125a2aaad2e75d4b",
                 "timestamp": "2017-03-17T22:41:05.162Z",
                 "icon": "agua-cascada",
                 "preset": "agua/cascada"
@@ -2910,27 +2910,6 @@
                 "water": "pond",
                 "id": "13648455503906883977",
                 "version": "18bf167c1b8fbce29162c924896ea45ebb900114b90fe7991622b1d0ae42a672",
-                "icon": "agua-lago",
-                "preset": "agua/lago"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "2051018785838224070",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.10963061899224,
-                    -1.3160800810439204
-                ]
-            },
-            "properties": {
-                "water": "pond",
-                "name": "adakawenpade",
-                "name_es": "quebrada",
-                "source_gps": "5:008",
-                "id": "2051018785838224070",
-                "version": "1ad657f812282ab5ccf6736164bdd1458a17fcd88229dc79bf1c5a965be4fbcd",
                 "icon": "agua-lago",
                 "preset": "agua/lago"
             }

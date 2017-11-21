@@ -3,19 +3,19 @@
     "features": [
         {
             "type": "Feature",
-            "id": "12319209331639066288",
+            "id": "7058691034008967457",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.4329516372116,
-                    -1.2436771180259407
+                    -77.39140455703358,
+                    -1.2452973572520416
                 ]
             },
             "properties": {
                 "camino": "animales",
                 "camino_fauna": "sajino",
-                "id": "12319209331639066288",
-                "version": "a827d4d385bfab681f6cd3db2030f342507021113d7ad1a9e193134a158fb53e",
+                "id": "7058691034008967457",
+                "version": "8ae35ec551220e28a2b09fb6e21c7244b8eeb38749b6f2a7de0ab2ea3ae500f1",
                 "timestamp": "2017-07-10T00:02:19.918Z",
                 "icon": "animal-camino-huellasajino",
                 "preset": "camino/sajino"
@@ -43,26 +43,6 @@
         },
         {
             "type": "Feature",
-            "id": "7058691034008967457",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.39140455703358,
-                    -1.2452973572520416
-                ]
-            },
-            "properties": {
-                "camino": "animales",
-                "camino_fauna": "sajino",
-                "id": "7058691034008967457",
-                "version": "8ae35ec551220e28a2b09fb6e21c7244b8eeb38749b6f2a7de0ab2ea3ae500f1",
-                "timestamp": "2017-07-10T00:02:19.918Z",
-                "icon": "animal-camino-huellasajino",
-                "preset": "camino/sajino"
-            }
-        },
-        {
-            "type": "Feature",
             "id": "7054489056681582862",
             "geometry": {
                 "type": "Point",
@@ -79,6 +59,26 @@
                 "timestamp": "2017-07-10T00:02:19.918Z",
                 "icon": "animal-camino-huellatapir",
                 "preset": "camino/tapir"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "12319209331639066288",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4329516372116,
+                    -1.2436771180259407
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "sajino",
+                "id": "12319209331639066288",
+                "version": "a827d4d385bfab681f6cd3db2030f342507021113d7ad1a9e193134a158fb53e",
+                "timestamp": "2017-07-10T00:02:19.918Z",
+                "icon": "animal-camino-huellasajino",
+                "preset": "camino/sajino"
             }
         },
         {
@@ -103,19 +103,19 @@
         },
         {
             "type": "Feature",
-            "id": "7451458211145622675",
+            "id": "15316565085000071556",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.39643068554523,
-                    -1.2767066048622027
+                    -77.42290388491298,
+                    -1.2691531935738318
                 ]
             },
             "properties": {
                 "camino": "animales",
                 "camino_fauna": "sajino",
-                "id": "7451458211145622675",
-                "version": "1c1dee516238d962abdde19f9e6377b6e4089d73a024401e3b3290361408238d",
+                "id": "15316565085000071556",
+                "version": "c4960fe9f44fb222d3b7dde562e19a1057c50125b2caea5c51cab5e4217618b6",
                 "timestamp": "2017-07-09T23:54:16.333Z",
                 "icon": "animal-camino-huellasajino",
                 "preset": "camino/sajino"
@@ -123,22 +123,42 @@
         },
         {
             "type": "Feature",
-            "id": "5812342512845291618",
+            "id": "9927184726849960695",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.44077481269288,
-                    -1.295647670501037
+                    -77.41553500651833,
+                    -1.2803630030336202
                 ]
             },
             "properties": {
                 "camino": "animales",
                 "camino_fauna": "sajino",
-                "id": "5812342512845291618",
-                "version": "a1c0526725018c96cc30e77f6ee4b7a45ff2ad0ee691b90b94a8179c3d34f98a",
+                "id": "9927184726849960695",
+                "version": "72cb821706d6ea848d8c112219654bbafe25e63632a7f0e8a3d73951187a0678",
                 "timestamp": "2017-07-09T23:54:16.333Z",
                 "icon": "animal-camino-huellasajino",
                 "preset": "camino/sajino"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "493582704022359858",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4483531773659,
+                    -1.2526006054235448
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "tapir",
+                "id": "493582704022359858",
+                "version": "6382f94d9b9b3cab1d2f0456ea93d8222fdbd34b6c6298f7f13b52e0b4f1416e",
+                "timestamp": "2017-07-09T23:54:16.333Z",
+                "icon": "animal-camino-huellatapir",
+                "preset": "camino/tapir"
             }
         },
         {
@@ -163,19 +183,19 @@
         },
         {
             "type": "Feature",
-            "id": "9927184726849960695",
+            "id": "7451458211145622675",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.41553500651833,
-                    -1.2803630030336202
+                    -77.39643068554523,
+                    -1.2767066048622027
                 ]
             },
             "properties": {
                 "camino": "animales",
                 "camino_fauna": "sajino",
-                "id": "9927184726849960695",
-                "version": "72cb821706d6ea848d8c112219654bbafe25e63632a7f0e8a3d73951187a0678",
+                "id": "7451458211145622675",
+                "version": "1c1dee516238d962abdde19f9e6377b6e4089d73a024401e3b3290361408238d",
                 "timestamp": "2017-07-09T23:54:16.333Z",
                 "icon": "animal-camino-huellasajino",
                 "preset": "camino/sajino"
@@ -223,19 +243,19 @@
         },
         {
             "type": "Feature",
-            "id": "15316565085000071556",
+            "id": "5812342512845291618",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.42290388491298,
-                    -1.2691531935738318
+                    -77.44077481269288,
+                    -1.295647670501037
                 ]
             },
             "properties": {
                 "camino": "animales",
                 "camino_fauna": "sajino",
-                "id": "15316565085000071556",
-                "version": "c4960fe9f44fb222d3b7dde562e19a1057c50125b2caea5c51cab5e4217618b6",
+                "id": "5812342512845291618",
+                "version": "a1c0526725018c96cc30e77f6ee4b7a45ff2ad0ee691b90b94a8179c3d34f98a",
                 "timestamp": "2017-07-09T23:54:16.333Z",
                 "icon": "animal-camino-huellasajino",
                 "preset": "camino/sajino"
@@ -243,20 +263,22 @@
         },
         {
             "type": "Feature",
-            "id": "493582704022359858",
+            "id": "15961156503496309494",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.4483531773659,
-                    -1.2526006054235448
+                    -77.46320128623393,
+                    -1.2169731189948463
                 ]
             },
             "properties": {
                 "camino": "animales",
                 "camino_fauna": "tapir",
-                "id": "493582704022359858",
-                "version": "6382f94d9b9b3cab1d2f0456ea93d8222fdbd34b6c6298f7f13b52e0b4f1416e",
-                "timestamp": "2017-07-09T23:54:16.333Z",
+                "comunidad_nombre": "kenaweno",
+                "source_gps": "001;032",
+                "id": "15961156503496309494",
+                "version": "2860816c71799b5f5774c5a2568b4032959dab5deab22e499196803870ecbd62",
+                "timestamp": "2017-07-09T17:41:28.216Z",
                 "icon": "animal-camino-huellatapir",
                 "preset": "camino/tapir"
             }
@@ -303,28 +325,6 @@
                 "timestamp": "2017-07-09T17:41:28.216Z",
                 "icon": "animal-camino-huellajaguar",
                 "preset": "camino/jaguar"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "15961156503496309494",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.46320128623393,
-                    -1.2169731189948463
-                ]
-            },
-            "properties": {
-                "camino": "animales",
-                "camino_fauna": "tapir",
-                "comunidad_nombre": "kenaweno",
-                "source_gps": "001;032",
-                "id": "15961156503496309494",
-                "version": "2860816c71799b5f5774c5a2568b4032959dab5deab22e499196803870ecbd62",
-                "timestamp": "2017-07-09T17:41:28.216Z",
-                "icon": "animal-camino-huellatapir",
-                "preset": "camino/tapir"
             }
         },
         {
@@ -820,6 +820,27 @@
         },
         {
             "type": "Feature",
+            "id": "13557485829039778997",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.31207890412264,
+                    -1.212357954906604
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "03-047",
+                "id": "13557485829039778997",
+                "version": "18eaca8dcbd1143e432228d7665eadbfdd3c2f1cbd5f5c00180b68a9c9b6c48f",
+                "timestamp": "2017-05-04T04:39:48.895Z",
+                "icon": "animal-camino-animales",
+                "preset": "camino/animales"
+            }
+        },
+        {
+            "type": "Feature",
             "id": "4913250967189207870",
             "geometry": {
                 "type": "Point",
@@ -838,27 +859,6 @@
                 "timestamp": "2017-05-04T04:39:48.895Z",
                 "icon": "animal-camino-huellatapir",
                 "preset": "camino/tapir"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "13557485829039778997",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.31207890412264,
-                    -1.212357954906604
-                ]
-            },
-            "properties": {
-                "camino": "animales",
-                "comunidad_nombre": "tonompare",
-                "source_gps": "03-047",
-                "id": "13557485829039778997",
-                "version": "18eaca8dcbd1143e432228d7665eadbfdd3c2f1cbd5f5c00180b68a9c9b6c48f",
-                "timestamp": "2017-05-04T04:39:48.895Z",
-                "icon": "animal-camino-animales",
-                "preset": "camino/animales"
             }
         },
         {
@@ -902,6 +902,27 @@
                 "timestamp": "2017-05-04T03:48:46.624Z",
                 "icon": "animal-camino-huellajaguar",
                 "preset": "camino/jaguar"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "11614735522630833094",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5273230872465,
+                    -1.2277883181768827
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "03-045",
+                "id": "11614735522630833094",
+                "version": "1a4d123b8d937c7f5b3a128f3f8262ef97699131b9c3601569e620971646141f",
+                "timestamp": "2017-05-02T22:20:46.085Z",
+                "icon": "animal-camino-animales",
+                "preset": "camino/animales"
             }
         },
         {
@@ -950,44 +971,25 @@
         },
         {
             "type": "Feature",
-            "id": "11614735522630833094",
+            "id": "13416299894429393467",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.5273230872465,
-                    -1.2277883181768827
+                    -77.34855752850582,
+                    -1.2312620980137567
                 ]
             },
             "properties": {
                 "camino": "animales",
+                "camino_fauna": "tapir",
+                "name": "tite",
                 "comunidad_nombre": "tonompare",
-                "source_gps": "03-045",
-                "id": "11614735522630833094",
-                "version": "1a4d123b8d937c7f5b3a128f3f8262ef97699131b9c3601569e620971646141f",
-                "timestamp": "2017-05-02T22:20:46.085Z",
-                "icon": "animal-camino-animales",
-                "preset": "camino/animales"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "9174985786045802978",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.35652177150322,
-                    -1.2224502172131129
-                ]
-            },
-            "properties": {
-                "camino": "viajar",
-                "comunidad_nombre": "tonompare",
-                "source_gps": "03-014",
-                "id": "9174985786045802978",
-                "version": "509c570bab3434b780054d93c891ceffcf0f0b1105478f44121ef0aa595002b2",
+                "source_gps": "03-006",
+                "id": "13416299894429393467",
+                "version": "abf0a5750d892168ad668d3b36e661dbf23d41e2b894d3ad5ccfe777d754e2ce",
                 "timestamp": "2017-05-01T03:44:31.046Z",
-                "icon": "wao-camino-viajar",
-                "preset": "camino/viajar"
+                "icon": "animal-camino-huellatapir",
+                "preset": "camino/tapir"
             }
         },
         {
@@ -1014,6 +1016,27 @@
         },
         {
             "type": "Feature",
+            "id": "9174985786045802978",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.35652177150322,
+                    -1.2224502172131129
+                ]
+            },
+            "properties": {
+                "camino": "viajar",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "03-014",
+                "id": "9174985786045802978",
+                "version": "509c570bab3434b780054d93c891ceffcf0f0b1105478f44121ef0aa595002b2",
+                "timestamp": "2017-05-01T03:44:31.046Z",
+                "icon": "wao-camino-viajar",
+                "preset": "camino/viajar"
+            }
+        },
+        {
+            "type": "Feature",
             "id": "12322869849276930318",
             "geometry": {
                 "type": "Point",
@@ -1031,29 +1054,6 @@
                 "timestamp": "2017-05-01T03:44:31.046Z",
                 "icon": "wao-camino-caseria",
                 "preset": "camino/caseria"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "13416299894429393467",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.34855752850582,
-                    -1.2312620980137567
-                ]
-            },
-            "properties": {
-                "camino": "animales",
-                "camino_fauna": "tapir",
-                "name": "tite",
-                "comunidad_nombre": "tonompare",
-                "source_gps": "03-006",
-                "id": "13416299894429393467",
-                "version": "abf0a5750d892168ad668d3b36e661dbf23d41e2b894d3ad5ccfe777d754e2ce",
-                "timestamp": "2017-05-01T03:44:31.046Z",
-                "icon": "animal-camino-huellatapir",
-                "preset": "camino/tapir"
             }
         },
         {
@@ -1707,6 +1707,28 @@
         },
         {
             "type": "Feature",
+            "id": "15041418689698972063",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.35180368705286,
+                    -1.1404525844583582
+                ]
+            },
+            "properties": {
+                "camino": "caseria",
+                "comunidad_nombre": "obaro",
+                "source_gps": "004-263",
+                "note": "camino secundario para ir a pezca al rio keremeneno",
+                "id": "15041418689698972063",
+                "version": "be9a4a74d7537af7a90ee67fdeb58a9a2fbca790d7986524d553103f5799b000",
+                "timestamp": "2017-03-19T23:17:23.532Z",
+                "icon": "wao-camino-caseria",
+                "preset": "camino/caseria"
+            }
+        },
+        {
+            "type": "Feature",
             "id": "14968459409589186414",
             "geometry": {
                 "type": "Point",
@@ -1745,28 +1767,6 @@
                 "note": "camino para ir a pezca",
                 "id": "3146135477660732153",
                 "version": "ee9178390ac8996c1486e1a6b46bbc8eb49622bac38ddf4b3948a00e9414e1f2",
-                "timestamp": "2017-03-19T23:17:23.532Z",
-                "icon": "wao-camino-caseria",
-                "preset": "camino/caseria"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "15041418689698972063",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.35180368705286,
-                    -1.1404525844583582
-                ]
-            },
-            "properties": {
-                "camino": "caseria",
-                "comunidad_nombre": "obaro",
-                "source_gps": "004-263",
-                "note": "camino secundario para ir a pezca al rio keremeneno",
-                "id": "15041418689698972063",
-                "version": "be9a4a74d7537af7a90ee67fdeb58a9a2fbca790d7986524d553103f5799b000",
                 "timestamp": "2017-03-19T23:17:23.532Z",
                 "icon": "wao-camino-caseria",
                 "preset": "camino/caseria"
@@ -2450,6 +2450,29 @@
                 "note": "poque en este camino cruzan muhos dantas",
                 "id": "6187845327945691053",
                 "version": "00e1ba8cbfa9fcca9ea0cf8f2de64b809e75a2b914e1d37d75f1667dc3b44d86",
+                "icon": "animal-camino-huellatapir",
+                "preset": "camino/tapir"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "2001380670606990067",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.22448628084847,
+                    -1.3223712869515192
+                ]
+            },
+            "properties": {
+                "camino": "animales",
+                "camino_fauna": "tapir",
+                "name": "Tapir Terrestre",
+                "comunidad_nombre": "akaro",
+                "source_gps": "002",
+                "note": "Camino de tapir donde parte en diferentes sitios, en saladeros, y tambien se va a bañar en los rios, esteros y en los quebardas.",
+                "id": "2001380670606990067",
+                "version": "074b69fff32e87099257100a509d58c20c9cd7d7a2c5636dae8fc6a33d57f4b7",
                 "icon": "animal-camino-huellatapir",
                 "preset": "camino/tapir"
             }
@@ -3364,27 +3387,6 @@
                 "version": "79a5e73793a59ebe071babba9a82fbe071bcc9d485e0d62616d5da13334837c3",
                 "icon": "wao-camino-viajar",
                 "preset": "camino/viajar"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "1673887201960706325",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.31625301385122,
-                    -1.3042432822701613
-                ]
-            },
-            "properties": {
-                "name": "Amo taaro",
-                "name_es": "Camino taaro",
-                "camino": "animales",
-                "camino_fauna": "sajino",
-                "id": "1673887201960706325",
-                "version": "7b52b4a6a120b4416d0ef76c5f0c8dcd385c039939a0d93855f85cddaa8cdc8d",
-                "icon": "animal-camino-huellasajino",
-                "preset": "camino/sajino"
             }
         },
         {

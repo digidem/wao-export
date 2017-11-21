@@ -49,6 +49,28 @@
         },
         {
             "type": "Feature",
+            "id": "5637467538804278948",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.46520864323944,
+                    -1.2680914478709586
+                ]
+            },
+            "properties": {
+                "comunidad": "casa",
+                "name": "Martha de Santiago",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "02-025",
+                "id": "5637467538804278948",
+                "version": "db790f00c434ffdb9875c3f01c9bc9dae455acd37a6607d715bb8bc431912fce",
+                "timestamp": "2017-07-18T15:27:33.071Z",
+                "icon": "wao-comunidad-casa",
+                "preset": "comunidad/casa"
+            }
+        },
+        {
+            "type": "Feature",
             "id": "4560922546950477800",
             "geometry": {
                 "type": "Point",
@@ -65,28 +87,6 @@
                 "comunidad": "casa",
                 "id": "4560922546950477800",
                 "version": "d87a7d868da0a54754c5d1b6a9076de6c406589567bb188c00221dedf2fd0744",
-                "timestamp": "2017-07-18T15:27:33.071Z",
-                "icon": "wao-comunidad-casa",
-                "preset": "comunidad/casa"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "5637467538804278948",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.46520864323944,
-                    -1.2680914478709586
-                ]
-            },
-            "properties": {
-                "comunidad": "casa",
-                "name": "Martha de Santiago",
-                "comunidad_nombre": "tonompare",
-                "source_gps": "02-025",
-                "id": "5637467538804278948",
-                "version": "db790f00c434ffdb9875c3f01c9bc9dae455acd37a6607d715bb8bc431912fce",
                 "timestamp": "2017-07-18T15:27:33.071Z",
                 "icon": "wao-comunidad-casa",
                 "preset": "comunidad/casa"
@@ -752,18 +752,18 @@
         },
         {
             "type": "Feature",
-            "id": "12656920436142405285",
+            "id": "10866433874874826024",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.38414678348566,
-                    -1.2152470640129482
+                    -77.3849836326983,
+                    -1.2161480833842566
                 ]
             },
             "properties": {
                 "comunidad": "chacra",
-                "id": "12656920436142405285",
-                "version": "5325e8622fdc24dc374ec6b4949c7f2944dcad0c4d72466c5f74f72582500ea8",
+                "id": "10866433874874826024",
+                "version": "db19b8e4bf49076b5a4fdca53dcd33f5ba980436193eca45531d669fc829a326",
                 "timestamp": "2017-07-10T22:53:53.378Z",
                 "icon": "wao-chacra",
                 "preset": "comunidad/chacra"
@@ -790,18 +790,18 @@
         },
         {
             "type": "Feature",
-            "id": "10866433874874826024",
+            "id": "12656920436142405285",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.3849836326983,
-                    -1.2161480833842566
+                    -77.38414678348566,
+                    -1.2152470640129482
                 ]
             },
             "properties": {
                 "comunidad": "chacra",
-                "id": "10866433874874826024",
-                "version": "db19b8e4bf49076b5a4fdca53dcd33f5ba980436193eca45531d669fc829a326",
+                "id": "12656920436142405285",
+                "version": "5325e8622fdc24dc374ec6b4949c7f2944dcad0c4d72466c5f74f72582500ea8",
                 "timestamp": "2017-07-10T22:53:53.378Z",
                 "icon": "wao-chacra",
                 "preset": "comunidad/chacra"
@@ -847,18 +847,18 @@
         },
         {
             "type": "Feature",
-            "id": "18078373390366437595",
+            "id": "5654038016434324023",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.35086593402885,
-                    -1.1494895556794227
+                    -77.39914033187885,
+                    -1.2295442792469793
                 ]
             },
             "properties": {
                 "comunidad": "senal-celular",
-                "id": "18078373390366437595",
-                "version": "677d8ccee44d13911a14804cb7e9840e7f51d6163fedc4d80743afd896409759",
+                "id": "5654038016434324023",
+                "version": "5df1030ab35262154c61552079bfdf2081b6bf8f81dd3694bd4a316574275616",
                 "timestamp": "2017-07-10T22:38:59.001Z",
                 "icon": "wao-senal-celular",
                 "preset": "comunidad/wao-senal-celular"
@@ -885,18 +885,18 @@
         },
         {
             "type": "Feature",
-            "id": "5071365659179467692",
+            "id": "18078373390366437595",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.3735145069506,
-                    -1.226524805578328
+                    -77.35086593402885,
+                    -1.1494895556794227
                 ]
             },
             "properties": {
                 "comunidad": "senal-celular",
-                "id": "5071365659179467692",
-                "version": "bcd76fcd6e16e6ebd297e9ea082aee602a274505e25e6d939bb45176a0d65c33",
+                "id": "18078373390366437595",
+                "version": "677d8ccee44d13911a14804cb7e9840e7f51d6163fedc4d80743afd896409759",
                 "timestamp": "2017-07-10T22:38:59.001Z",
                 "icon": "wao-senal-celular",
                 "preset": "comunidad/wao-senal-celular"
@@ -923,18 +923,18 @@
         },
         {
             "type": "Feature",
-            "id": "5654038016434324023",
+            "id": "5071365659179467692",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.39914033187885,
-                    -1.2295442792469793
+                    -77.3735145069506,
+                    -1.226524805578328
                 ]
             },
             "properties": {
                 "comunidad": "senal-celular",
-                "id": "5654038016434324023",
-                "version": "5df1030ab35262154c61552079bfdf2081b6bf8f81dd3694bd4a316574275616",
+                "id": "5071365659179467692",
+                "version": "bcd76fcd6e16e6ebd297e9ea082aee602a274505e25e6d939bb45176a0d65c33",
                 "timestamp": "2017-07-10T22:38:59.001Z",
                 "icon": "wao-senal-celular",
                 "preset": "comunidad/wao-senal-celular"
@@ -942,18 +942,18 @@
         },
         {
             "type": "Feature",
-            "id": "14163766379731200916",
+            "id": "14204970156530714764",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.38984288800059,
-                    -1.223951367436251
+                    -77.38660277951058,
+                    -1.2212483162523597
                 ]
             },
             "properties": {
                 "comunidad": "chacra",
-                "id": "14163766379731200916",
-                "version": "47d8a6d3637f46280f9ccbe3d052f50c054672f06acd4263f3b1096e4d441e91",
+                "id": "14204970156530714764",
+                "version": "8423636a9f2f3e3313f7c035f209c2daa8172e1aa64976ceec6e9e5731fa9423",
                 "timestamp": "2017-07-10T21:53:10.281Z",
                 "icon": "wao-chacra",
                 "preset": "comunidad/chacra"
@@ -980,18 +980,18 @@
         },
         {
             "type": "Feature",
-            "id": "9180909724068254394",
+            "id": "882368116408087526",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.38855542767344,
-                    -1.2256675889964297
+                    -77.38156022656258,
+                    -1.2211195994614532
                 ]
             },
             "properties": {
                 "comunidad": "chacra",
-                "id": "9180909724068254394",
-                "version": "c333ff9a1fc5b7d43b84c727b1092c3cd791b67eec77c5dc416f877cfca90861",
+                "id": "882368116408087526",
+                "version": "a1a07a24f515e0a6d94f64239a1d72683ffa88355ba8d4db75647fdcbbdec69a",
                 "timestamp": "2017-07-10T21:53:10.281Z",
                 "icon": "wao-chacra",
                 "preset": "comunidad/chacra"
@@ -999,37 +999,18 @@
         },
         {
             "type": "Feature",
-            "id": "13226058370494300023",
+            "id": "18020756186179380217",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.38095941174326,
-                    -1.2234794063145793
+                    -77.38868417370614,
+                    -1.2227500116905197
                 ]
             },
             "properties": {
                 "comunidad": "chacra",
-                "id": "13226058370494300023",
-                "version": "1f8111b51cc5e4b33042f3c474d41b0bb9c13f25806b02d1ba28c8918a902c5a",
-                "timestamp": "2017-07-10T21:53:10.281Z",
-                "icon": "wao-chacra",
-                "preset": "comunidad/chacra"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "5625227362741741233",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.3831480942994,
-                    -1.2234365007539452
-                ]
-            },
-            "properties": {
-                "comunidad": "chacra",
-                "id": "5625227362741741233",
-                "version": "2f7a2a2be634ab72358e0c208954746ddc0cf946b811c2e0fa30161573710b0f",
+                "id": "18020756186179380217",
+                "version": "b2a38c22a5aa7f3a738e4589a0fd46d43e3ea4bb66bdfd6d35f61c10e69b6bf2",
                 "timestamp": "2017-07-10T21:53:10.281Z",
                 "icon": "wao-chacra",
                 "preset": "comunidad/chacra"
@@ -1075,18 +1056,18 @@
         },
         {
             "type": "Feature",
-            "id": "14204970156530714764",
+            "id": "9180909724068254394",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.38660277951058,
-                    -1.2212483162523597
+                    -77.38855542767344,
+                    -1.2256675889964297
                 ]
             },
             "properties": {
                 "comunidad": "chacra",
-                "id": "14204970156530714764",
-                "version": "8423636a9f2f3e3313f7c035f209c2daa8172e1aa64976ceec6e9e5731fa9423",
+                "id": "9180909724068254394",
+                "version": "c333ff9a1fc5b7d43b84c727b1092c3cd791b67eec77c5dc416f877cfca90861",
                 "timestamp": "2017-07-10T21:53:10.281Z",
                 "icon": "wao-chacra",
                 "preset": "comunidad/chacra"
@@ -1094,18 +1075,18 @@
         },
         {
             "type": "Feature",
-            "id": "18020756186179380217",
+            "id": "5625227362741741233",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.38868417370614,
-                    -1.2227500116905197
+                    -77.3831480942994,
+                    -1.2234365007539452
                 ]
             },
             "properties": {
                 "comunidad": "chacra",
-                "id": "18020756186179380217",
-                "version": "b2a38c22a5aa7f3a738e4589a0fd46d43e3ea4bb66bdfd6d35f61c10e69b6bf2",
+                "id": "5625227362741741233",
+                "version": "2f7a2a2be634ab72358e0c208954746ddc0cf946b811c2e0fa30161573710b0f",
                 "timestamp": "2017-07-10T21:53:10.281Z",
                 "icon": "wao-chacra",
                 "preset": "comunidad/chacra"
@@ -1113,18 +1094,37 @@
         },
         {
             "type": "Feature",
-            "id": "882368116408087526",
+            "id": "13226058370494300023",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.38156022656258,
-                    -1.2211195994614532
+                    -77.38095941174326,
+                    -1.2234794063145793
                 ]
             },
             "properties": {
                 "comunidad": "chacra",
-                "id": "882368116408087526",
-                "version": "a1a07a24f515e0a6d94f64239a1d72683ffa88355ba8d4db75647fdcbbdec69a",
+                "id": "13226058370494300023",
+                "version": "1f8111b51cc5e4b33042f3c474d41b0bb9c13f25806b02d1ba28c8918a902c5a",
+                "timestamp": "2017-07-10T21:53:10.281Z",
+                "icon": "wao-chacra",
+                "preset": "comunidad/chacra"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "14163766379731200916",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.38984288800059,
+                    -1.223951367436251
+                ]
+            },
+            "properties": {
+                "comunidad": "chacra",
+                "id": "14163766379731200916",
+                "version": "47d8a6d3637f46280f9ccbe3d052f50c054672f06acd4263f3b1096e4d441e91",
                 "timestamp": "2017-07-10T21:53:10.281Z",
                 "icon": "wao-chacra",
                 "preset": "comunidad/chacra"
@@ -1174,28 +1174,6 @@
         },
         {
             "type": "Feature",
-            "id": "3875943385849100365",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.39376964199839,
-                    -1.2305802671268777
-                ]
-            },
-            "properties": {
-                "comunidad": "chacra",
-                "name": "liza huamoni",
-                "source_gps": "04",
-                "comunidad_nombre": "tonompare",
-                "id": "3875943385849100365",
-                "version": "6a11e0d8ac6ea30e3f988d8ae2d2fb35144ebc6736399dc8c2cd1c2e85f9c5a0",
-                "timestamp": "2017-07-10T21:51:52.724Z",
-                "icon": "wao-chacra",
-                "preset": "comunidad/chacra"
-            }
-        },
-        {
-            "type": "Feature",
             "id": "515776584139093438",
             "geometry": {
                 "type": "Point",
@@ -1218,21 +1196,22 @@
         },
         {
             "type": "Feature",
-            "id": "5884794463513380908",
+            "id": "3875943385849100365",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.41730854211717,
-                    -1.2363731060747005
+                    -77.39376964199839,
+                    -1.2305802671268777
                 ]
             },
             "properties": {
                 "comunidad": "chacra",
-                "name": "Vicente",
-                "comunidad_nombre": "kenaweno",
-                "id": "5884794463513380908",
-                "version": "3654cc574b4ded9b6ea11bf3a729d33e38ba5b830addbc4e472ca24bc1e81db2",
-                "timestamp": "2017-07-10T01:44:22.804Z",
+                "name": "liza huamoni",
+                "source_gps": "04",
+                "comunidad_nombre": "tonompare",
+                "id": "3875943385849100365",
+                "version": "6a11e0d8ac6ea30e3f988d8ae2d2fb35144ebc6736399dc8c2cd1c2e85f9c5a0",
+                "timestamp": "2017-07-10T21:51:52.724Z",
                 "icon": "wao-chacra",
                 "preset": "comunidad/chacra"
             }
@@ -1253,6 +1232,27 @@
                 "comunidad_nombre": "kenaweno",
                 "id": "17547019093616743540",
                 "version": "ce8b1c8182649a127f67d935ccb1360c662ed39008b850c0554f7048e7e70710",
+                "timestamp": "2017-07-10T01:44:22.804Z",
+                "icon": "wao-chacra",
+                "preset": "comunidad/chacra"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5884794463513380908",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.41730854211717,
+                    -1.2363731060747005
+                ]
+            },
+            "properties": {
+                "comunidad": "chacra",
+                "name": "Vicente",
+                "comunidad_nombre": "kenaweno",
+                "id": "5884794463513380908",
+                "version": "3654cc574b4ded9b6ea11bf3a729d33e38ba5b830addbc4e472ca24bc1e81db2",
                 "timestamp": "2017-07-10T01:44:22.804Z",
                 "icon": "wao-chacra",
                 "preset": "comunidad/chacra"
@@ -1370,27 +1370,6 @@
         },
         {
             "type": "Feature",
-            "id": "8151281747363099664",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.5394107238387,
-                    -1.328201227586796
-                ]
-            },
-            "properties": {
-                "comunidad_nombre": "daipare",
-                "source_gps": "003;366",
-                "comunidad": "senal-celular",
-                "id": "8151281747363099664",
-                "version": "ed21ca409b4724c74effcf83c249622360e94a6ef8d76ea924556ca60ef8d1c1",
-                "timestamp": "2017-07-03T12:22:22.785Z",
-                "icon": "wao-senal-celular",
-                "preset": "comunidad/wao-senal-celular"
-            }
-        },
-        {
-            "type": "Feature",
             "id": "15070835693981303574",
             "geometry": {
                 "type": "Point",
@@ -1413,22 +1392,63 @@
         },
         {
             "type": "Feature",
-            "id": "10252132246671738796",
+            "id": "8151281747363099664",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -76.91507740733212,
-                    -1.0253434012090932
+                    -77.5394107238387,
+                    -1.328201227586796
+                ]
+            },
+            "properties": {
+                "comunidad_nombre": "daipare",
+                "source_gps": "003;366",
+                "comunidad": "senal-celular",
+                "id": "8151281747363099664",
+                "version": "ed21ca409b4724c74effcf83c249622360e94a6ef8d76ea924556ca60ef8d1c1",
+                "timestamp": "2017-07-03T12:22:22.785Z",
+                "icon": "wao-senal-celular",
+                "preset": "comunidad/wao-senal-celular"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "2540683253635477203",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.88786907908506,
+                    -1.0458535849401116
                 ]
             },
             "properties": {
                 "comunidad": "casa",
-                "name": "casa inefan",
-                "id": "10252132246671738796",
-                "version": "18ad3caba72a30811bb1efe3288e22465ae56bb4ed8d1efeb2b31a92cf82445c",
+                "name": "familia tota ñoneno",
+                "id": "2540683253635477203",
+                "version": "6c3e4e9082da2a6adf141e928c768b87e3e6ead19763db92cb7e144a52911a16",
                 "timestamp": "2017-07-02T16:09:36.147Z",
                 "icon": "wao-comunidad-casa",
                 "preset": "comunidad/casa"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1357385078631399866",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.68535156962461,
+                    -1.1293517918971097
+                ]
+            },
+            "properties": {
+                "comunidad": "chacra",
+                "name": "chacra tironka",
+                "id": "1357385078631399866",
+                "version": "7a093a58e4df251df00046ad13b1ad725358ce939e39d56fae00504301462874",
+                "timestamp": "2017-07-02T16:09:36.147Z",
+                "icon": "wao-chacra",
+                "preset": "comunidad/chacra"
             }
         },
         {
@@ -1453,19 +1473,19 @@
         },
         {
             "type": "Feature",
-            "id": "10340933173451001703",
+            "id": "10252132246671738796",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -76.82933803728027,
-                    -1.0592661787305158
+                    -76.91507740733212,
+                    -1.0253434012090932
                 ]
             },
             "properties": {
                 "comunidad": "casa",
-                "name": "falimia gaba gemeneweno",
-                "id": "10340933173451001703",
-                "version": "09fa407c6384462d77e9b0467a6d4a688c2feebd7ef95de8f47b8a6a264abdde",
+                "name": "casa inefan",
+                "id": "10252132246671738796",
+                "version": "18ad3caba72a30811bb1efe3288e22465ae56bb4ed8d1efeb2b31a92cf82445c",
                 "timestamp": "2017-07-02T16:09:36.147Z",
                 "icon": "wao-comunidad-casa",
                 "preset": "comunidad/casa"
@@ -1473,19 +1493,19 @@
         },
         {
             "type": "Feature",
-            "id": "2540683253635477203",
+            "id": "7125914532896690376",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -76.88786907908506,
-                    -1.0458535849401116
+                    -76.70066002893229,
+                    -1.1249013744456815
                 ]
             },
             "properties": {
                 "comunidad": "casa",
-                "name": "familia tota ñoneno",
-                "id": "2540683253635477203",
-                "version": "6c3e4e9082da2a6adf141e928c768b87e3e6ead19763db92cb7e144a52911a16",
+                "name": "familia  tironka",
+                "id": "7125914532896690376",
+                "version": "b009bdb9babf5f0aeb9cd7a8c1e0a316dce06474094eb6432a298e25149a8f63",
                 "timestamp": "2017-07-02T16:09:36.147Z",
                 "icon": "wao-comunidad-casa",
                 "preset": "comunidad/casa"
@@ -1514,19 +1534,19 @@
         },
         {
             "type": "Feature",
-            "id": "7125914532896690376",
+            "id": "8354308713304964488",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -76.70066002893229,
-                    -1.1249013744456815
+                    -76.73157139536923,
+                    -1.104594343737104
                 ]
             },
             "properties": {
                 "comunidad": "casa",
-                "name": "familia  tironka",
-                "id": "7125914532896690376",
-                "version": "b009bdb9babf5f0aeb9cd7a8c1e0a316dce06474094eb6432a298e25149a8f63",
+                "name": "cabaña shipuno",
+                "id": "8354308713304964488",
+                "version": "ecc0162bb597f6bec91c65e245758c5a32430cbd68128db0a82a0642f37f48e3",
                 "timestamp": "2017-07-02T16:09:36.147Z",
                 "icon": "wao-comunidad-casa",
                 "preset": "comunidad/casa"
@@ -1534,22 +1554,22 @@
         },
         {
             "type": "Feature",
-            "id": "1357385078631399866",
+            "id": "10340933173451001703",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -76.68535156962461,
-                    -1.1293517918971097
+                    -76.82933803728027,
+                    -1.0592661787305158
                 ]
             },
             "properties": {
-                "comunidad": "chacra",
-                "name": "chacra tironka",
-                "id": "1357385078631399866",
-                "version": "7a093a58e4df251df00046ad13b1ad725358ce939e39d56fae00504301462874",
+                "comunidad": "casa",
+                "name": "falimia gaba gemeneweno",
+                "id": "10340933173451001703",
+                "version": "09fa407c6384462d77e9b0467a6d4a688c2feebd7ef95de8f47b8a6a264abdde",
                 "timestamp": "2017-07-02T16:09:36.147Z",
-                "icon": "wao-chacra",
-                "preset": "comunidad/chacra"
+                "icon": "wao-comunidad-casa",
+                "preset": "comunidad/casa"
             }
         },
         {
@@ -1567,26 +1587,6 @@
                 "name": "Famila karuwe",
                 "id": "16848996824645633983",
                 "version": "60a8087a4368d35cba84561e48b09c066ce81b727044e1cd7da2b940dd1372fe",
-                "timestamp": "2017-07-02T16:09:36.147Z",
-                "icon": "wao-comunidad-casa",
-                "preset": "comunidad/casa"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "8354308713304964488",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -76.73157139536923,
-                    -1.104594343737104
-                ]
-            },
-            "properties": {
-                "comunidad": "casa",
-                "name": "cabaña shipuno",
-                "id": "8354308713304964488",
-                "version": "ecc0162bb597f6bec91c65e245758c5a32430cbd68128db0a82a0642f37f48e3",
                 "timestamp": "2017-07-02T16:09:36.147Z",
                 "icon": "wao-comunidad-casa",
                 "preset": "comunidad/casa"
@@ -1748,22 +1748,83 @@
         },
         {
             "type": "Feature",
-            "id": "13284461472169616174",
+            "id": "10168931906009977617",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.33796833606804,
-                    -1.2087016554557741
+                    -77.37123380941647,
+                    -1.2140040350296815
                 ]
             },
             "properties": {
                 "comunidad": "chacra",
-                "name": "kenia",
                 "comunidad_nombre": "tonompare",
-                "source_gps": "004-127",
-                "note": "huerto de platano",
-                "id": "13284461472169616174",
-                "version": "289bb3a5b1b0e04b72d8fdb139dcdd322ccd2d517136c57b184bca65eaf285aa",
+                "source_gps": "004-111",
+                "id": "10168931906009977617",
+                "version": "f72db196d22359934acd498648b2962cae2e2def4c8cc22330130772e4f4867c",
+                "timestamp": "2017-05-17T06:37:53.336Z",
+                "icon": "wao-chacra",
+                "preset": "comunidad/chacra"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "3011013815603468561",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3582741154579,
+                    -1.2144673804216979
+                ]
+            },
+            "properties": {
+                "comunidad": "chacra",
+                "id": "3011013815603468561",
+                "version": "f17807f511fcacc035398eb9db8ec9fad35ff4e0d30681cc389e791a3a145bf6",
+                "timestamp": "2017-05-17T06:37:53.336Z",
+                "icon": "wao-chacra",
+                "preset": "comunidad/chacra"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "18332189547961823852",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.37006164202411,
+                    -1.2121917299002656
+                ]
+            },
+            "properties": {
+                "comunidad": "chacra",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "004-113",
+                "note": "huerto de yuca",
+                "id": "18332189547961823852",
+                "version": "73c461541af38985c7333f77bbf93e757528217df62121987660120dd4ae29f7",
+                "timestamp": "2017-05-17T06:37:53.336Z",
+                "icon": "wao-chacra",
+                "preset": "comunidad/chacra"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "4155737612206714486",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.36788922441434,
+                    -1.213118199867203
+                ]
+            },
+            "properties": {
+                "comunidad": "chacra",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "004-114",
+                "note": "huerto de maiz",
+                "id": "4155737612206714486",
+                "version": "b118a0440615c1f3b57001a61e52f5ee222639104d17fab9180d53a18fe62640",
                 "timestamp": "2017-05-17T06:37:53.336Z",
                 "icon": "wao-chacra",
                 "preset": "comunidad/chacra"
@@ -1815,47 +1876,6 @@
         },
         {
             "type": "Feature",
-            "id": "18332189547961823852",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.37006164202411,
-                    -1.2121917299002656
-                ]
-            },
-            "properties": {
-                "comunidad": "chacra",
-                "comunidad_nombre": "tonompare",
-                "source_gps": "004-113",
-                "note": "huerto de yuca",
-                "id": "18332189547961823852",
-                "version": "73c461541af38985c7333f77bbf93e757528217df62121987660120dd4ae29f7",
-                "timestamp": "2017-05-17T06:37:53.336Z",
-                "icon": "wao-chacra",
-                "preset": "comunidad/chacra"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "3011013815603468561",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.3582741154579,
-                    -1.2144673804216979
-                ]
-            },
-            "properties": {
-                "comunidad": "chacra",
-                "id": "3011013815603468561",
-                "version": "f17807f511fcacc035398eb9db8ec9fad35ff4e0d30681cc389e791a3a145bf6",
-                "timestamp": "2017-05-17T06:37:53.336Z",
-                "icon": "wao-chacra",
-                "preset": "comunidad/chacra"
-            }
-        },
-        {
-            "type": "Feature",
             "id": "15568009458485187385",
             "geometry": {
                 "type": "Point",
@@ -1872,6 +1892,51 @@
                 "note": "huerto de yuca",
                 "id": "15568009458485187385",
                 "version": "7d0920cc2ac533e21d4031106314ea0393325a21eec01e381d6394be2cf05b58",
+                "timestamp": "2017-05-17T06:37:53.336Z",
+                "icon": "wao-chacra",
+                "preset": "comunidad/chacra"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "13284461472169616174",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.33796833606804,
+                    -1.2087016554557741
+                ]
+            },
+            "properties": {
+                "comunidad": "chacra",
+                "name": "kenia",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "004-127",
+                "note": "huerto de platano",
+                "id": "13284461472169616174",
+                "version": "289bb3a5b1b0e04b72d8fdb139dcdd322ccd2d517136c57b184bca65eaf285aa",
+                "timestamp": "2017-05-17T06:37:53.336Z",
+                "icon": "wao-chacra",
+                "preset": "comunidad/chacra"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "2516679687188488952",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.35905023034287,
+                    -1.215276704470914
+                ]
+            },
+            "properties": {
+                "comunidad": "chacra",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "004-116",
+                "note": "huertonde chonta",
+                "id": "2516679687188488952",
+                "version": "87983a8898683f0ea0868d380980301646e8489dc61738bdcef9ed6d2fb54614",
                 "timestamp": "2017-05-17T06:37:53.336Z",
                 "icon": "wao-chacra",
                 "preset": "comunidad/chacra"
@@ -1916,71 +1981,6 @@
                 "note": "huerto de platano",
                 "id": "14561942445152627806",
                 "version": "0667dfbb22b547074ee0479a7d1bafa2a4dcccf65accfe2849ae06c2c6916cc6",
-                "timestamp": "2017-05-17T06:37:53.336Z",
-                "icon": "wao-chacra",
-                "preset": "comunidad/chacra"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "10168931906009977617",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.37123380941647,
-                    -1.2140040350296815
-                ]
-            },
-            "properties": {
-                "comunidad": "chacra",
-                "comunidad_nombre": "tonompare",
-                "source_gps": "004-111",
-                "id": "10168931906009977617",
-                "version": "f72db196d22359934acd498648b2962cae2e2def4c8cc22330130772e4f4867c",
-                "timestamp": "2017-05-17T06:37:53.336Z",
-                "icon": "wao-chacra",
-                "preset": "comunidad/chacra"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "2516679687188488952",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.35905023034287,
-                    -1.215276704470914
-                ]
-            },
-            "properties": {
-                "comunidad": "chacra",
-                "comunidad_nombre": "tonompare",
-                "source_gps": "004-116",
-                "note": "huertonde chonta",
-                "id": "2516679687188488952",
-                "version": "87983a8898683f0ea0868d380980301646e8489dc61738bdcef9ed6d2fb54614",
-                "timestamp": "2017-05-17T06:37:53.336Z",
-                "icon": "wao-chacra",
-                "preset": "comunidad/chacra"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "4155737612206714486",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.36788922441434,
-                    -1.213118199867203
-                ]
-            },
-            "properties": {
-                "comunidad": "chacra",
-                "comunidad_nombre": "tonompare",
-                "source_gps": "004-114",
-                "note": "huerto de maiz",
-                "id": "4155737612206714486",
-                "version": "b118a0440615c1f3b57001a61e52f5ee222639104d17fab9180d53a18fe62640",
                 "timestamp": "2017-05-17T06:37:53.336Z",
                 "icon": "wao-chacra",
                 "preset": "comunidad/chacra"
@@ -2035,26 +2035,6 @@
         },
         {
             "type": "Feature",
-            "id": "16059229942780963486",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.38428119324534,
-                    -1.21792475247327
-                ]
-            },
-            "properties": {
-                "comunidad": "casa",
-                "name": "casa de misioneros",
-                "id": "16059229942780963486",
-                "version": "dd50a8a0ae56fcf1d4411a15bb8246ec439e05ded1be96a77e0ef04b3fe340eb",
-                "timestamp": "2017-05-16T18:05:28.740Z",
-                "icon": "wao-comunidad-casa",
-                "preset": "comunidad/casa"
-            }
-        },
-        {
-            "type": "Feature",
             "id": "2058272711890033038",
             "geometry": {
                 "type": "Point",
@@ -2097,6 +2077,48 @@
         },
         {
             "type": "Feature",
+            "id": "5804857468373800916",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.38306883466802,
+                    -1.218911582301289
+                ]
+            },
+            "properties": {
+                "comunidad": "casa",
+                "name": "fausto tapuy",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "04",
+                "id": "5804857468373800916",
+                "version": "cf53b03409d925263e888a881ea48ed996ccb6d305f93b393c2b3b04d480a745",
+                "timestamp": "2017-05-16T18:05:28.740Z",
+                "icon": "wao-comunidad-casa",
+                "preset": "comunidad/casa"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "16059229942780963486",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.38428119324534,
+                    -1.21792475247327
+                ]
+            },
+            "properties": {
+                "comunidad": "casa",
+                "name": "casa de misioneros",
+                "id": "16059229942780963486",
+                "version": "dd50a8a0ae56fcf1d4411a15bb8246ec439e05ded1be96a77e0ef04b3fe340eb",
+                "timestamp": "2017-05-16T18:05:28.740Z",
+                "icon": "wao-comunidad-casa",
+                "preset": "comunidad/casa"
+            }
+        },
+        {
+            "type": "Feature",
             "id": "18240571178767537760",
             "geometry": {
                 "type": "Point",
@@ -2130,28 +2152,6 @@
                 "name": "juanita gaba",
                 "id": "4337934377036999848",
                 "version": "8d56322138b155ef2172a71febb6e0b4d7ade099c783eece5952558cb1e8038f",
-                "timestamp": "2017-05-16T18:05:28.740Z",
-                "icon": "wao-comunidad-casa",
-                "preset": "comunidad/casa"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "5804857468373800916",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.38306883466802,
-                    -1.218911582301289
-                ]
-            },
-            "properties": {
-                "comunidad": "casa",
-                "name": "fausto tapuy",
-                "comunidad_nombre": "tonompare",
-                "source_gps": "04",
-                "id": "5804857468373800916",
-                "version": "cf53b03409d925263e888a881ea48ed996ccb6d305f93b393c2b3b04d480a745",
                 "timestamp": "2017-05-16T18:05:28.740Z",
                 "icon": "wao-comunidad-casa",
                 "preset": "comunidad/casa"
@@ -2796,28 +2796,6 @@
         },
         {
             "type": "Feature",
-            "id": "16447155716776194290",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.38854272404953,
-                    -1.218114004120636
-                ]
-            },
-            "properties": {
-                "comunidad": "casa",
-                "comunidad_nombre": "tonompare",
-                "source_gps": "04-009",
-                "name": "toca caiga",
-                "id": "16447155716776194290",
-                "version": "55d89af026a6ccad6e701e1f10eaa9fb8f46a6b8ffdb0ca4abfa413ad67b0902",
-                "timestamp": "2017-04-03T20:04:37.273Z",
-                "icon": "wao-comunidad-casa",
-                "preset": "comunidad/casa"
-            }
-        },
-        {
-            "type": "Feature",
             "id": "17533624646087467829",
             "geometry": {
                 "type": "Point",
@@ -2861,94 +2839,40 @@
         },
         {
             "type": "Feature",
-            "id": "14128872011597618620",
+            "id": "16447155716776194290",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.20179512036052,
-                    -1.3966411795236509
+                    -77.38854272404953,
+                    -1.218114004120636
                 ]
             },
             "properties": {
-                "comunidad": "chacra",
-                "id": "14128872011597618620",
-                "version": "f6f685bdd1c13189abf3b2c98e06d7de14d4e8c48f2ee911953cbdef4ce72963",
-                "timestamp": "2017-04-03T12:22:01.208Z",
-                "icon": "wao-chacra",
-                "preset": "comunidad/chacra"
+                "comunidad": "casa",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "04-009",
+                "name": "toca caiga",
+                "id": "16447155716776194290",
+                "version": "55d89af026a6ccad6e701e1f10eaa9fb8f46a6b8ffdb0ca4abfa413ad67b0902",
+                "timestamp": "2017-04-03T20:04:37.273Z",
+                "icon": "wao-comunidad-casa",
+                "preset": "comunidad/casa"
             }
         },
         {
             "type": "Feature",
-            "id": "1926220720734641704",
+            "id": "8189873354744809455",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.20554320072355,
-                    -1.3981338731741888
+                    -77.19244015555192,
+                    -1.3972504423527343
                 ]
             },
             "properties": {
                 "comunidad": "chacra",
-                "id": "1926220720734641704",
-                "version": "80340283e5464c462684b0403c3804cbd17ff29f3f90bc4c2fa91c85f8702b35",
-                "timestamp": "2017-04-03T12:22:01.208Z",
-                "icon": "wao-chacra",
-                "preset": "comunidad/chacra"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "17972694836346709256",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.2049337567621,
-                    -1.3967021058136722
-                ]
-            },
-            "properties": {
-                "comunidad": "chacra",
-                "id": "17972694836346709256",
-                "version": "0166ab8c781a73cb0d80ea9a36f6565e0eee4ccf42f44ee16c908f75189e0075",
-                "timestamp": "2017-04-03T12:22:01.208Z",
-                "icon": "wao-chacra",
-                "preset": "comunidad/chacra"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "11510884910125274244",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.20660972765613,
-                    -1.397646463106885
-                ]
-            },
-            "properties": {
-                "comunidad": "chacra",
-                "id": "11510884910125274244",
-                "version": "8d1d291b31c6b4c4094a4c03c0484ab62d4b0756aec2e6cfb6952db8f1575b48",
-                "timestamp": "2017-04-03T12:22:01.208Z",
-                "icon": "wao-chacra",
-                "preset": "comunidad/chacra"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "12113322840739085060",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.19134315642127,
-                    -1.3958796007651824
-                ]
-            },
-            "properties": {
-                "comunidad": "chacra",
-                "id": "12113322840739085060",
-                "version": "8ad3745f2650538ac986c8f8df562b257f4b0902b223d4108e2748b4ae1f0891",
+                "id": "8189873354744809455",
+                "version": "3e3e5da8b0c3d6eda95d709d74379057b9643c03e98549675a955c5d418e4a84",
                 "timestamp": "2017-04-03T12:22:01.208Z",
                 "icon": "wao-chacra",
                 "preset": "comunidad/chacra"
@@ -2975,18 +2899,56 @@
         },
         {
             "type": "Feature",
-            "id": "8189873354744809455",
+            "id": "12113322840739085060",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.19244015555192,
-                    -1.3972504423527343
+                    -77.19134315642127,
+                    -1.3958796007651824
                 ]
             },
             "properties": {
                 "comunidad": "chacra",
-                "id": "8189873354744809455",
-                "version": "3e3e5da8b0c3d6eda95d709d74379057b9643c03e98549675a955c5d418e4a84",
+                "id": "12113322840739085060",
+                "version": "8ad3745f2650538ac986c8f8df562b257f4b0902b223d4108e2748b4ae1f0891",
+                "timestamp": "2017-04-03T12:22:01.208Z",
+                "icon": "wao-chacra",
+                "preset": "comunidad/chacra"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "17972694836346709256",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.2049337567621,
+                    -1.3967021058136722
+                ]
+            },
+            "properties": {
+                "comunidad": "chacra",
+                "id": "17972694836346709256",
+                "version": "0166ab8c781a73cb0d80ea9a36f6565e0eee4ccf42f44ee16c908f75189e0075",
+                "timestamp": "2017-04-03T12:22:01.208Z",
+                "icon": "wao-chacra",
+                "preset": "comunidad/chacra"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1926220720734641704",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.20554320072355,
+                    -1.3981338731741888
+                ]
+            },
+            "properties": {
+                "comunidad": "chacra",
+                "id": "1926220720734641704",
+                "version": "80340283e5464c462684b0403c3804cbd17ff29f3f90bc4c2fa91c85f8702b35",
                 "timestamp": "2017-04-03T12:22:01.208Z",
                 "icon": "wao-chacra",
                 "preset": "comunidad/chacra"
@@ -3006,6 +2968,44 @@
                 "comunidad": "chacra",
                 "id": "12355051050072208327",
                 "version": "1c9b3504f6093a35c60cdd5961330a9453ea61c60d34ce44bcecc227136b45ab",
+                "timestamp": "2017-04-03T12:22:01.208Z",
+                "icon": "wao-chacra",
+                "preset": "comunidad/chacra"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "14128872011597618620",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.20179512036052,
+                    -1.3966411795236509
+                ]
+            },
+            "properties": {
+                "comunidad": "chacra",
+                "id": "14128872011597618620",
+                "version": "f6f685bdd1c13189abf3b2c98e06d7de14d4e8c48f2ee911953cbdef4ce72963",
+                "timestamp": "2017-04-03T12:22:01.208Z",
+                "icon": "wao-chacra",
+                "preset": "comunidad/chacra"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "11510884910125274244",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.20660972765613,
+                    -1.397646463106885
+                ]
+            },
+            "properties": {
+                "comunidad": "chacra",
+                "id": "11510884910125274244",
+                "version": "8d1d291b31c6b4c4094a4c03c0484ab62d4b0756aec2e6cfb6952db8f1575b48",
                 "timestamp": "2017-04-03T12:22:01.208Z",
                 "icon": "wao-chacra",
                 "preset": "comunidad/chacra"
@@ -3035,6 +3035,25 @@
         },
         {
             "type": "Feature",
+            "id": "18040798071465625199",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.33367053719739,
+                    -1.3042162524157526
+                ]
+            },
+            "properties": {
+                "comunidad": "chacra",
+                "id": "18040798071465625199",
+                "version": "e9bbf05fca9e8f9fc9dd53fb7cf5c106603ffe3ef4b12080deefceebb96ef50d",
+                "timestamp": "2017-04-01T13:14:54.950Z",
+                "icon": "wao-chacra",
+                "preset": "comunidad/chacra"
+            }
+        },
+        {
+            "type": "Feature",
             "id": "17257633895171496705",
             "geometry": {
                 "type": "Point",
@@ -3054,19 +3073,44 @@
         },
         {
             "type": "Feature",
-            "id": "18040798071465625199",
+            "id": "6954655785488763113",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.33367053719739,
-                    -1.3042162524157526
+                    -77.38049087375263,
+                    -1.2186358031485895
+                ]
+            },
+            "properties": {
+                "comunidad": "casa",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "04-055",
+                "name": "anotnia",
+                "id": "6954655785488763113",
+                "version": "3e9e04f70981b1068b996c76340054b11208df9272579ddebc6cd301fc36ac13",
+                "timestamp": "2017-03-29T05:43:18.132Z",
+                "icon": "wao-comunidad-casa",
+                "preset": "comunidad/casa"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "4322614101109790915",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.38543598001179,
+                    -1.215091685725291
                 ]
             },
             "properties": {
                 "comunidad": "chacra",
-                "id": "18040798071465625199",
-                "version": "e9bbf05fca9e8f9fc9dd53fb7cf5c106603ffe3ef4b12080deefceebb96ef50d",
-                "timestamp": "2017-04-01T13:14:54.950Z",
+                "name": "victor y monica",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "04-349",
+                "id": "4322614101109790915",
+                "version": "056d082554b5c34e493ecfe280c69dfb5f4122a545b8227793ad84310ea30a7e",
+                "timestamp": "2017-03-29T05:43:18.132Z",
                 "icon": "wao-chacra",
                 "preset": "comunidad/chacra"
             }
@@ -3095,24 +3139,23 @@
         },
         {
             "type": "Feature",
-            "id": "6954655785488763113",
+            "id": "6840685945826537999",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.38049087375263,
-                    -1.2186358031485895
+                    -77.38514074193058,
+                    -1.2141870685620135
                 ]
             },
             "properties": {
-                "comunidad": "casa",
+                "comunidad": "chacra",
                 "comunidad_nombre": "tonompare",
-                "source_gps": "04-055",
-                "name": "anotnia",
-                "id": "6954655785488763113",
-                "version": "3e9e04f70981b1068b996c76340054b11208df9272579ddebc6cd301fc36ac13",
+                "source_gps": "04-352",
+                "id": "6840685945826537999",
+                "version": "87eba40d82e058b1723776d855399a7eb945748f5c2e1040f4314700d8c066cf",
                 "timestamp": "2017-03-29T05:43:18.132Z",
-                "icon": "wao-comunidad-casa",
-                "preset": "comunidad/casa"
+                "icon": "wao-chacra",
+                "preset": "comunidad/chacra"
             }
         },
         {
@@ -3135,49 +3178,6 @@
                 "timestamp": "2017-03-29T05:43:18.132Z",
                 "icon": "wao-comunidad-casa",
                 "preset": "comunidad/casa"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "6840685945826537999",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.38514074193058,
-                    -1.2141870685620135
-                ]
-            },
-            "properties": {
-                "comunidad": "chacra",
-                "comunidad_nombre": "tonompare",
-                "source_gps": "04-352",
-                "id": "6840685945826537999",
-                "version": "87eba40d82e058b1723776d855399a7eb945748f5c2e1040f4314700d8c066cf",
-                "timestamp": "2017-03-29T05:43:18.132Z",
-                "icon": "wao-chacra",
-                "preset": "comunidad/chacra"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "4322614101109790915",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.38543598001179,
-                    -1.215091685725291
-                ]
-            },
-            "properties": {
-                "comunidad": "chacra",
-                "name": "victor y monica",
-                "comunidad_nombre": "tonompare",
-                "source_gps": "04-349",
-                "id": "4322614101109790915",
-                "version": "056d082554b5c34e493ecfe280c69dfb5f4122a545b8227793ad84310ea30a7e",
-                "timestamp": "2017-03-29T05:43:18.132Z",
-                "icon": "wao-chacra",
-                "preset": "comunidad/chacra"
             }
         },
         {
@@ -3551,25 +3551,6 @@
         },
         {
             "type": "Feature",
-            "id": "16810383385072248493",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.38126616847187,
-                    -1.216147276862432
-                ]
-            },
-            "properties": {
-                "amenity": "school",
-                "id": "16810383385072248493",
-                "version": "8d9fe2ce880fa700f9a8fa9c909517bee5aa632d81abfcd24a7005023d71e963",
-                "timestamp": "2017-03-19T22:30:06.295Z",
-                "icon": "wao-comunidad-escuela",
-                "preset": "comunidad/escuela"
-            }
-        },
-        {
-            "type": "Feature",
             "id": "18399111203875444117",
             "geometry": {
                 "type": "Point",
@@ -3589,39 +3570,20 @@
         },
         {
             "type": "Feature",
-            "id": "7197967001542989488",
+            "id": "5342302745815230502",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.38097451320573,
-                    -1.2174328247262498
-                ]
-            },
-            "properties": {
-                "amenity": "school",
-                "id": "7197967001542989488",
-                "version": "16464565e0ff7470f769a921dbb1d23480f2aeea74e1b56f2fda4a544da01d49",
-                "timestamp": "2017-03-19T22:30:06.295Z",
-                "icon": "wao-comunidad-escuela",
-                "preset": "comunidad/escuela"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "2941647010083690881",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.38093531704209,
-                    -1.217341909246052
+                    -77.381603898732,
+                    -1.2172040616397866
                 ]
             },
             "properties": {
                 "comunidad_nombre": "tonompare",
-                "source_gps": "04-054",
+                "source_gps": "04-052",
                 "amenity": "school",
-                "id": "2941647010083690881",
-                "version": "87855e7caf53ead17460a0ea139cf8180f41061a04d1c9f3f5b53c48cc8a2a9d",
+                "id": "5342302745815230502",
+                "version": "d2904cc0518fdac8fef8ccbbc8844a87e30daca872cbb7248d332af5a57d5b40",
                 "timestamp": "2017-03-19T22:30:06.295Z",
                 "icon": "wao-comunidad-escuela",
                 "preset": "comunidad/escuela"
@@ -3629,18 +3591,113 @@
         },
         {
             "type": "Feature",
-            "id": "11421121296191828419",
+            "id": "17222012671041706724",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.38101853929618,
-                    -1.2172306276690588
+                    -77.38101496174629,
+                    -1.2159663636205054
                 ]
             },
             "properties": {
                 "amenity": "school",
-                "id": "11421121296191828419",
-                "version": "71f8ec1428e9c05b942f00565bdf628530ef2ab8d2fbc0d005d1115cd068ad32",
+                "id": "17222012671041706724",
+                "version": "b20dba52ec3b57115744af6c94a0971f2df47859797b02e6df1058ec1efcc714",
+                "timestamp": "2017-03-19T22:30:06.295Z",
+                "icon": "wao-comunidad-escuela",
+                "preset": "comunidad/escuela"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "12687290712955420680",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3811831425202,
+                    -1.2158173762357007
+                ]
+            },
+            "properties": {
+                "amenity": "school",
+                "id": "12687290712955420680",
+                "version": "5053279c412c2bd2ae8cb7c6416c2e7d6d967ada1d03fd4c7147aef7f68cb22f",
+                "timestamp": "2017-03-19T22:30:06.295Z",
+                "icon": "wao-comunidad-escuela",
+                "preset": "comunidad/escuela"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "7677495339490368517",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.38142370489301,
+                    -1.2157152134528042
+                ]
+            },
+            "properties": {
+                "amenity": "school",
+                "id": "7677495339490368517",
+                "version": "9836651a2fe28324079ebf58775b2d34c979a0a0597fd511653ffd2a5fdbcbca",
+                "timestamp": "2017-03-19T22:30:06.295Z",
+                "icon": "wao-comunidad-escuela",
+                "preset": "comunidad/escuela"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "4496206259249689896",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.38130874588299,
+                    -1.2159408229265558
+                ]
+            },
+            "properties": {
+                "amenity": "school",
+                "id": "4496206259249689896",
+                "version": "2b1a93b1b1ac2eba47ce3322aad41bc44cdd28435e7b1a52c4d065f1c60cfe8a",
+                "timestamp": "2017-03-19T22:30:06.295Z",
+                "icon": "wao-comunidad-escuela",
+                "preset": "comunidad/escuela"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "16810383385072248493",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.38126616847187,
+                    -1.216147276862432
+                ]
+            },
+            "properties": {
+                "amenity": "school",
+                "id": "16810383385072248493",
+                "version": "8d9fe2ce880fa700f9a8fa9c909517bee5aa632d81abfcd24a7005023d71e963",
+                "timestamp": "2017-03-19T22:30:06.295Z",
+                "icon": "wao-comunidad-escuela",
+                "preset": "comunidad/escuela"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "7907083652335690115",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.38156421034968,
+                    -1.2178180632879478
+                ]
+            },
+            "properties": {
+                "amenity": "school",
+                "id": "7907083652335690115",
+                "version": "6f20ad926382a8a309b716a54ffdfd2dc03ae476678850bcc94ff117a1eb0ecb",
                 "timestamp": "2017-03-19T22:30:06.295Z",
                 "icon": "wao-comunidad-escuela",
                 "preset": "comunidad/escuela"
@@ -3705,18 +3762,18 @@
         },
         {
             "type": "Feature",
-            "id": "14138406773178775260",
+            "id": "10504487112731489530",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.38121081783743,
-                    -1.2155619692711948
+                    -77.38157485470246,
+                    -1.216405834125639
                 ]
             },
             "properties": {
                 "amenity": "school",
-                "id": "14138406773178775260",
-                "version": "34802ca99ebc08f24edd7a46f41e026b7837dcb5f33cce88e6d4cd1bea20f43b",
+                "id": "10504487112731489530",
+                "version": "0d84765bb5b0197de51ea87ce77b42428af079d1ba627e829e80c6fa5e73548d",
                 "timestamp": "2017-03-19T22:30:06.295Z",
                 "icon": "wao-comunidad-escuela",
                 "preset": "comunidad/escuela"
@@ -3781,18 +3838,18 @@
         },
         {
             "type": "Feature",
-            "id": "12687290712955420680",
+            "id": "14138406773178775260",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.3811831425202,
-                    -1.2158173762357007
+                    -77.38121081783743,
+                    -1.2155619692711948
                 ]
             },
             "properties": {
                 "amenity": "school",
-                "id": "12687290712955420680",
-                "version": "5053279c412c2bd2ae8cb7c6416c2e7d6d967ada1d03fd4c7147aef7f68cb22f",
+                "id": "14138406773178775260",
+                "version": "34802ca99ebc08f24edd7a46f41e026b7837dcb5f33cce88e6d4cd1bea20f43b",
                 "timestamp": "2017-03-19T22:30:06.295Z",
                 "icon": "wao-comunidad-escuela",
                 "preset": "comunidad/escuela"
@@ -3819,115 +3876,18 @@
         },
         {
             "type": "Feature",
-            "id": "7677495339490368517",
+            "id": "8504491236194517674",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.38142370489301,
-                    -1.2157152134528042
+                    -77.38184096352194,
+                    -1.2168645445374922
                 ]
             },
             "properties": {
                 "amenity": "school",
-                "id": "7677495339490368517",
-                "version": "9836651a2fe28324079ebf58775b2d34c979a0a0597fd511653ffd2a5fdbcbca",
-                "timestamp": "2017-03-19T22:30:06.295Z",
-                "icon": "wao-comunidad-escuela",
-                "preset": "comunidad/escuela"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "4496206259249689896",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.38130874588299,
-                    -1.2159408229265558
-                ]
-            },
-            "properties": {
-                "amenity": "school",
-                "id": "4496206259249689896",
-                "version": "2b1a93b1b1ac2eba47ce3322aad41bc44cdd28435e7b1a52c4d065f1c60cfe8a",
-                "timestamp": "2017-03-19T22:30:06.295Z",
-                "icon": "wao-comunidad-escuela",
-                "preset": "comunidad/escuela"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "5342302745815230502",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.381603898732,
-                    -1.2172040616397866
-                ]
-            },
-            "properties": {
-                "comunidad_nombre": "tonompare",
-                "source_gps": "04-052",
-                "amenity": "school",
-                "id": "5342302745815230502",
-                "version": "d2904cc0518fdac8fef8ccbbc8844a87e30daca872cbb7248d332af5a57d5b40",
-                "timestamp": "2017-03-19T22:30:06.295Z",
-                "icon": "wao-comunidad-escuela",
-                "preset": "comunidad/escuela"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "7907083652335690115",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.38156421034968,
-                    -1.2178180632879478
-                ]
-            },
-            "properties": {
-                "amenity": "school",
-                "id": "7907083652335690115",
-                "version": "6f20ad926382a8a309b716a54ffdfd2dc03ae476678850bcc94ff117a1eb0ecb",
-                "timestamp": "2017-03-19T22:30:06.295Z",
-                "icon": "wao-comunidad-escuela",
-                "preset": "comunidad/escuela"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "10144353455931296943",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.38159716560166,
-                    -1.2174796493057412
-                ]
-            },
-            "properties": {
-                "amenity": "school",
-                "id": "10144353455931296943",
-                "version": "2d10c0b9bc2a886257c13337bfb2eec353a6c0d35f13df31e6a5e9faf13eb7e8",
-                "timestamp": "2017-03-19T22:30:06.295Z",
-                "icon": "wao-comunidad-escuela",
-                "preset": "comunidad/escuela"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "5786540886463869583",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.38128319943631,
-                    -1.2171518772321654
-                ]
-            },
-            "properties": {
-                "amenity": "school",
-                "id": "5786540886463869583",
-                "version": "c53bb3084492343f013d91b9f1f7516f0170bef9a6dfbdc922025450253f03bd",
+                "id": "8504491236194517674",
+                "version": "0df4f7436348e8c059d6f71dee740a996eaf75a54f3b5a32943bb2c6de816e27",
                 "timestamp": "2017-03-19T22:30:06.295Z",
                 "icon": "wao-comunidad-escuela",
                 "preset": "comunidad/escuela"
@@ -3954,18 +3914,18 @@
         },
         {
             "type": "Feature",
-            "id": "8504491236194517674",
+            "id": "5786540886463869583",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.38184096352194,
-                    -1.2168645445374922
+                    -77.38128319943631,
+                    -1.2171518772321654
                 ]
             },
             "properties": {
                 "amenity": "school",
-                "id": "8504491236194517674",
-                "version": "0df4f7436348e8c059d6f71dee740a996eaf75a54f3b5a32943bb2c6de816e27",
+                "id": "5786540886463869583",
+                "version": "c53bb3084492343f013d91b9f1f7516f0170bef9a6dfbdc922025450253f03bd",
                 "timestamp": "2017-03-19T22:30:06.295Z",
                 "icon": "wao-comunidad-escuela",
                 "preset": "comunidad/escuela"
@@ -3973,18 +3933,18 @@
         },
         {
             "type": "Feature",
-            "id": "17222012671041706724",
+            "id": "11421121296191828419",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.38101496174629,
-                    -1.2159663636205054
+                    -77.38101853929618,
+                    -1.2172306276690588
                 ]
             },
             "properties": {
                 "amenity": "school",
-                "id": "17222012671041706724",
-                "version": "b20dba52ec3b57115744af6c94a0971f2df47859797b02e6df1058ec1efcc714",
+                "id": "11421121296191828419",
+                "version": "71f8ec1428e9c05b942f00565bdf628530ef2ab8d2fbc0d005d1115cd068ad32",
                 "timestamp": "2017-03-19T22:30:06.295Z",
                 "icon": "wao-comunidad-escuela",
                 "preset": "comunidad/escuela"
@@ -3992,18 +3952,58 @@
         },
         {
             "type": "Feature",
-            "id": "10504487112731489530",
+            "id": "2941647010083690881",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.38157485470246,
-                    -1.216405834125639
+                    -77.38093531704209,
+                    -1.217341909246052
+                ]
+            },
+            "properties": {
+                "comunidad_nombre": "tonompare",
+                "source_gps": "04-054",
+                "amenity": "school",
+                "id": "2941647010083690881",
+                "version": "87855e7caf53ead17460a0ea139cf8180f41061a04d1c9f3f5b53c48cc8a2a9d",
+                "timestamp": "2017-03-19T22:30:06.295Z",
+                "icon": "wao-comunidad-escuela",
+                "preset": "comunidad/escuela"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "7197967001542989488",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.38097451320573,
+                    -1.2174328247262498
                 ]
             },
             "properties": {
                 "amenity": "school",
-                "id": "10504487112731489530",
-                "version": "0d84765bb5b0197de51ea87ce77b42428af079d1ba627e829e80c6fa5e73548d",
+                "id": "7197967001542989488",
+                "version": "16464565e0ff7470f769a921dbb1d23480f2aeea74e1b56f2fda4a544da01d49",
+                "timestamp": "2017-03-19T22:30:06.295Z",
+                "icon": "wao-comunidad-escuela",
+                "preset": "comunidad/escuela"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10144353455931296943",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.38159716560166,
+                    -1.2174796493057412
+                ]
+            },
+            "properties": {
+                "amenity": "school",
+                "id": "10144353455931296943",
+                "version": "2d10c0b9bc2a886257c13337bfb2eec353a6c0d35f13df31e6a5e9faf13eb7e8",
                 "timestamp": "2017-03-19T22:30:06.295Z",
                 "icon": "wao-comunidad-escuela",
                 "preset": "comunidad/escuela"
@@ -4078,25 +4078,6 @@
         },
         {
             "type": "Feature",
-            "id": "11025953748339352860",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.38143009150468,
-                    -1.2175104687278615
-                ]
-            },
-            "properties": {
-                "comunidad": "casa",
-                "id": "11025953748339352860",
-                "version": "c9a510cf6798744393223fce1b4b37ab9d414bce787b15b50f8739064bd02df1",
-                "timestamp": "2017-03-14T01:15:40.809Z",
-                "icon": "wao-comunidad-casa",
-                "preset": "comunidad/casa"
-            }
-        },
-        {
-            "type": "Feature",
             "id": "392009990661311079",
             "geometry": {
                 "type": "Point",
@@ -4113,6 +4094,25 @@
                 "name": "Edowin enomenga",
                 "id": "392009990661311079",
                 "version": "2ea67d3defd28a31503b3c3198c2290d37d35579d39185b6b8fa4c073b6405d2",
+                "timestamp": "2017-03-14T01:15:40.809Z",
+                "icon": "wao-comunidad-casa",
+                "preset": "comunidad/casa"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "11025953748339352860",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.38143009150468,
+                    -1.2175104687278615
+                ]
+            },
+            "properties": {
+                "comunidad": "casa",
+                "id": "11025953748339352860",
+                "version": "c9a510cf6798744393223fce1b4b37ab9d414bce787b15b50f8739064bd02df1",
                 "timestamp": "2017-03-14T01:15:40.809Z",
                 "icon": "wao-comunidad-casa",
                 "preset": "comunidad/casa"
@@ -4985,6 +4985,25 @@
         },
         {
             "type": "Feature",
+            "id": "8680044093256295270",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.38215390749365,
+                    -1.2160323437454292
+                ]
+            },
+            "properties": {
+                "comunidad": "casa",
+                "id": "8680044093256295270",
+                "version": "1d9440ce055529e3a71a1a4f1f869aa063e301d7b9b974ffc0117a6f92e00d48",
+                "timestamp": "2017-03-12T21:19:03.401Z",
+                "icon": "wao-comunidad-casa",
+                "preset": "comunidad/casa"
+            }
+        },
+        {
+            "type": "Feature",
             "id": "8256563194639347957",
             "geometry": {
                 "type": "Point",
@@ -5007,19 +5026,19 @@
         },
         {
             "type": "Feature",
-            "id": "8680044093256295270",
+            "id": "17800638105012238403",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.38215390749365,
-                    -1.2160323437454292
+                    -77.38154079277358,
+                    -1.217967050562247
                 ]
             },
             "properties": {
                 "comunidad": "casa",
-                "id": "8680044093256295270",
-                "version": "1d9440ce055529e3a71a1a4f1f869aa063e301d7b9b974ffc0117a6f92e00d48",
-                "timestamp": "2017-03-12T21:19:03.401Z",
+                "id": "17800638105012238403",
+                "version": "a98fa926ddc04f12c820d81fea52253363405557e962d3062ed5a73dba8889de",
+                "timestamp": "2017-03-12T21:19:03.400Z",
                 "icon": "wao-comunidad-casa",
                 "preset": "comunidad/casa"
             }
@@ -5038,25 +5057,6 @@
                 "comunidad": "casa",
                 "id": "2918451688850835639",
                 "version": "822b3f584f7e31c1382184d3564871fd35cea88a5671fe4ce6848d6b815208e9",
-                "timestamp": "2017-03-12T21:19:03.400Z",
-                "icon": "wao-comunidad-casa",
-                "preset": "comunidad/casa"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "17800638105012238403",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.38154079277358,
-                    -1.217967050562247
-                ]
-            },
-            "properties": {
-                "comunidad": "casa",
-                "id": "17800638105012238403",
-                "version": "a98fa926ddc04f12c820d81fea52253363405557e962d3062ed5a73dba8889de",
                 "timestamp": "2017-03-12T21:19:03.400Z",
                 "icon": "wao-comunidad-casa",
                 "preset": "comunidad/casa"
@@ -5085,27 +5085,6 @@
         },
         {
             "type": "Feature",
-            "id": "1289685515484091673",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.38847005530491,
-                    -1.218049807201416
-                ]
-            },
-            "properties": {
-                "comunidad": "casa",
-                "comunidad_nombre": "tonompare",
-                "source_gps": "04-016",
-                "id": "1289685515484091673",
-                "version": "2ccb269434d67500491084dfe3a79871b2fb3f5a8bf7be7d413862a98ace8949",
-                "timestamp": "2017-03-12T10:31:11.047Z",
-                "icon": "wao-comunidad-casa",
-                "preset": "comunidad/casa"
-            }
-        },
-        {
-            "type": "Feature",
             "id": "7496569231975708003",
             "geometry": {
                 "type": "Point",
@@ -5120,6 +5099,27 @@
                 "source_gps": "04-056",
                 "id": "7496569231975708003",
                 "version": "0c6f1a0805b95b7e7b7486572f5148574526ba3462bddcb0c97c992272df8aca",
+                "timestamp": "2017-03-12T10:31:11.047Z",
+                "icon": "wao-comunidad-casa",
+                "preset": "comunidad/casa"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1289685515484091673",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.38847005530491,
+                    -1.218049807201416
+                ]
+            },
+            "properties": {
+                "comunidad": "casa",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "04-016",
+                "id": "1289685515484091673",
+                "version": "2ccb269434d67500491084dfe3a79871b2fb3f5a8bf7be7d413862a98ace8949",
                 "timestamp": "2017-03-12T10:31:11.047Z",
                 "icon": "wao-comunidad-casa",
                 "preset": "comunidad/casa"
@@ -5390,22 +5390,68 @@
         },
         {
             "type": "Feature",
-            "id": "13747246524084690612",
+            "id": "13365485810342700517",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.41600702932799,
-                    -1.2433880981737986
+                    -77.41578172377073,
+                    -1.2434953612698576
                 ]
             },
             "properties": {
                 "comunidad": "casa",
-                "name": "Dica Guiquita",
+                "name": "Casa de Zoila",
                 "comunidad_nombre": "kenaweno",
-                "source_gps": "008;012",
-                "note": "Casa de Dica, viven juntos con su esposa e hijos.",
-                "id": "13747246524084690612",
-                "version": "270904279fb64c67ec8f5af69e531d646c4967d9db1a904b3bde51ae53277f10",
+                "source_gps": "008;013",
+                "note": "Casa de Zoila viven con su familia.",
+                "id": "13365485810342700517",
+                "version": "b6f8dbaf734523ed2ea368cc46c0202165ce57be82c85b0bfa9ec8cd16204e61",
+                "timestamp": "2017-03-11T21:09:56.946Z",
+                "icon": "wao-comunidad-casa",
+                "preset": "comunidad/casa"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "9097384915132543593",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.41839434127807,
+                    -1.2498073826448484
+                ]
+            },
+            "properties": {
+                "comunidad": "casa",
+                "name": "Dabo Yeti",
+                "comunidad_nombre": "kenaweno",
+                "source_gps": "008",
+                "note": "Casa de Dabo y Fabiola, viven juntos con sus hijos.",
+                "id": "9097384915132543593",
+                "version": "f9994bddd681e6a5deec7d494945e66d86b508d155d963eb7566b3906be0ffe8",
+                "timestamp": "2017-03-11T21:09:56.946Z",
+                "icon": "wao-comunidad-casa",
+                "preset": "comunidad/casa"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "8752636328898955250",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.41643541282127,
+                    -1.2449629911457227
+                ]
+            },
+            "properties": {
+                "comunidad": "casa",
+                "name": "Vilma Guiquita",
+                "comunidad_nombre": "kenaweno",
+                "source_gps": "008;016",
+                "note": "Vilma vive junto con su familia.",
+                "id": "8752636328898955250",
+                "version": "3574417a4be0e260c5e979279e358e5360bd7eb835f37ed75aee3b8bfbbe4865",
                 "timestamp": "2017-03-11T21:09:56.946Z",
                 "icon": "wao-comunidad-casa",
                 "preset": "comunidad/casa"
@@ -5436,22 +5482,22 @@
         },
         {
             "type": "Feature",
-            "id": "8752636328898955250",
+            "id": "13747246524084690612",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.41643541282127,
-                    -1.2449629911457227
+                    -77.41600702932799,
+                    -1.2433880981737986
                 ]
             },
             "properties": {
                 "comunidad": "casa",
-                "name": "Vilma Guiquita",
+                "name": "Dica Guiquita",
                 "comunidad_nombre": "kenaweno",
-                "source_gps": "008;016",
-                "note": "Vilma vive junto con su familia.",
-                "id": "8752636328898955250",
-                "version": "3574417a4be0e260c5e979279e358e5360bd7eb835f37ed75aee3b8bfbbe4865",
+                "source_gps": "008;012",
+                "note": "Casa de Dica, viven juntos con su esposa e hijos.",
+                "id": "13747246524084690612",
+                "version": "270904279fb64c67ec8f5af69e531d646c4967d9db1a904b3bde51ae53277f10",
                 "timestamp": "2017-03-11T21:09:56.946Z",
                 "icon": "wao-comunidad-casa",
                 "preset": "comunidad/casa"
@@ -5459,22 +5505,22 @@
         },
         {
             "type": "Feature",
-            "id": "9097384915132543593",
+            "id": "15995091001801062549",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.41839434127807,
-                    -1.2498073826448484
+                    -77.4172515743109,
+                    -1.2445679919907482
                 ]
             },
             "properties": {
                 "comunidad": "casa",
-                "name": "Dabo Yeti",
+                "name": "Cuyo Guiquita",
                 "comunidad_nombre": "kenaweno",
-                "source_gps": "008",
-                "note": "Casa de Dabo y Fabiola, viven juntos con sus hijos.",
-                "id": "9097384915132543593",
-                "version": "f9994bddd681e6a5deec7d494945e66d86b508d155d963eb7566b3906be0ffe8",
+                "source_gps": "008;008",
+                "note": "Casa de Cuyo, viven juntos con su esposa e hijos.",
+                "id": "15995091001801062549",
+                "version": "d581d2ddb3a462f001500473473658b5a467d32958b68c24272ab3b076408234",
                 "timestamp": "2017-03-11T21:09:56.946Z",
                 "icon": "wao-comunidad-casa",
                 "preset": "comunidad/casa"
@@ -5544,52 +5590,6 @@
                 "note": " Casa de Raúl, viven juntos con sus hijos.",
                 "id": "13103204708866133209",
                 "version": "b3fdeea33abe834f641a987718e81d1a545e590446ecfe6446ae575ff836d687",
-                "timestamp": "2017-03-11T21:09:56.946Z",
-                "icon": "wao-comunidad-casa",
-                "preset": "comunidad/casa"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "13365485810342700517",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.41578172377073,
-                    -1.2434953612698576
-                ]
-            },
-            "properties": {
-                "comunidad": "casa",
-                "name": "Casa de Zoila",
-                "comunidad_nombre": "kenaweno",
-                "source_gps": "008;013",
-                "note": "Casa de Zoila viven con su familia.",
-                "id": "13365485810342700517",
-                "version": "b6f8dbaf734523ed2ea368cc46c0202165ce57be82c85b0bfa9ec8cd16204e61",
-                "timestamp": "2017-03-11T21:09:56.946Z",
-                "icon": "wao-comunidad-casa",
-                "preset": "comunidad/casa"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "15995091001801062549",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.4172515743109,
-                    -1.2445679919907482
-                ]
-            },
-            "properties": {
-                "comunidad": "casa",
-                "name": "Cuyo Guiquita",
-                "comunidad_nombre": "kenaweno",
-                "source_gps": "008;008",
-                "note": "Casa de Cuyo, viven juntos con su esposa e hijos.",
-                "id": "15995091001801062549",
-                "version": "d581d2ddb3a462f001500473473658b5a467d32958b68c24272ab3b076408234",
                 "timestamp": "2017-03-11T21:09:56.946Z",
                 "icon": "wao-comunidad-casa",
                 "preset": "comunidad/casa"
@@ -8232,27 +8232,6 @@
                 "version": "f73994f6cd6ef70abf0261e356701ff81471cc4fd77b5603deadec2c45848373",
                 "icon": "wao-comunidad-casa",
                 "preset": "comunidad/casa"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "1986609502563627555",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.19837252086296,
-                    -1.3976592038598608
-                ]
-            },
-            "properties": {
-                "name": "Pista",
-                "source_gps": "005;005",
-                "note": "Pista de aterrizaje para avionetas pequeños, donde la gente de la comunidad salen y entran, mantienen limpio.",
-                "amenity": "airstrip",
-                "id": "1986609502563627555",
-                "version": "fb637932c23b3b6e4f5b35d366ea3820b848ac03221f168d6c68ae7baacfdbcd",
-                "icon": "wao-comunidad-pista",
-                "preset": "comunidad/pista"
             }
         },
         {
