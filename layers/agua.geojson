@@ -345,28 +345,6 @@
         },
         {
             "type": "Feature",
-            "id": "10576003947007460829",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.2804768181636,
-                    -1.1523225684517986
-                ]
-            },
-            "properties": {
-                "water": "pond",
-                "name": "Laguna Warekatá",
-                "comunidad_nombre": "tzapino",
-                "source_gps": "016;086",
-                "id": "10576003947007460829",
-                "version": "581c566c7f7cd9150bc65f730432bafe95b8e424e8074d7371a3540fc36da9e2",
-                "timestamp": "2017-09-27T13:32:01.934Z",
-                "icon": "agua-lago",
-                "preset": "agua/lago"
-            }
-        },
-        {
-            "type": "Feature",
             "id": "11277666882576432368",
             "geometry": {
                 "type": "Point",
@@ -382,6 +360,28 @@
                 "source_gps": "016;085",
                 "id": "11277666882576432368",
                 "version": "f8617aaa75e7f6a75a05bafc2fb4e6950c13161d9cba9b17abd59784408ff81c",
+                "timestamp": "2017-09-27T13:32:01.934Z",
+                "icon": "agua-lago",
+                "preset": "agua/lago"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10576003947007460829",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.2804768181636,
+                    -1.1523225684517986
+                ]
+            },
+            "properties": {
+                "water": "pond",
+                "name": "Laguna Warekatá",
+                "comunidad_nombre": "tzapino",
+                "source_gps": "016;086",
+                "id": "10576003947007460829",
+                "version": "581c566c7f7cd9150bc65f730432bafe95b8e424e8074d7371a3540fc36da9e2",
                 "timestamp": "2017-09-27T13:32:01.934Z",
                 "icon": "agua-lago",
                 "preset": "agua/lago"
@@ -694,21 +694,21 @@
         },
         {
             "type": "Feature",
-            "id": "8642306340657727875",
+            "id": "14265600269332308069",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.40427085717775,
-                    -1.261823637080553
+                    -77.40371295770265,
+                    -1.2623814012074805
                 ]
             },
             "properties": {
                 "water": "waterfall",
-                "name": "Cascada Fabiola",
+                "name": "Cascada Ana",
                 "comunidad_nombre": "kenaweno",
-                "source_gps": "001;120",
-                "id": "8642306340657727875",
-                "version": "cc4cf87cb00ae6d0564cca07c5066072e962443bdfec303711526e4f25b7f7fb",
+                "source_gps": "001;122",
+                "id": "14265600269332308069",
+                "version": "30b75d6b8b181a595fa2e4d74f44147e7749c1394db4abb9be9ff5e054eb7399",
                 "timestamp": "2017-07-09T18:40:32.561Z",
                 "icon": "agua-cascada",
                 "preset": "agua/cascada"
@@ -738,21 +738,21 @@
         },
         {
             "type": "Feature",
-            "id": "14265600269332308069",
+            "id": "8642306340657727875",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.40371295770265,
-                    -1.2623814012074805
+                    -77.40427085717775,
+                    -1.261823637080553
                 ]
             },
             "properties": {
                 "water": "waterfall",
-                "name": "Cascada Ana",
+                "name": "Cascada Fabiola",
                 "comunidad_nombre": "kenaweno",
-                "source_gps": "001;122",
-                "id": "14265600269332308069",
-                "version": "30b75d6b8b181a595fa2e4d74f44147e7749c1394db4abb9be9ff5e054eb7399",
+                "source_gps": "001;120",
+                "id": "8642306340657727875",
+                "version": "cc4cf87cb00ae6d0564cca07c5066072e962443bdfec303711526e4f25b7f7fb",
                 "timestamp": "2017-07-09T18:40:32.561Z",
                 "icon": "agua-cascada",
                 "preset": "agua/cascada"
@@ -958,6 +958,27 @@
         },
         {
             "type": "Feature",
+            "id": "10642524801858944299",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.31586172434876,
+                    -1.223315169668411
+                ]
+            },
+            "properties": {
+                "water": "waterfall",
+                "comunidad_nombre": "tonompare",
+                "source_gps": "07-153",
+                "id": "10642524801858944299",
+                "version": "f0c5fbb9e366fdbaf31c8cdf51819d94bb2ff9ce2feba40da9373d3f0089484e",
+                "timestamp": "2017-05-17T19:31:31.228Z",
+                "icon": "agua-cascada",
+                "preset": "agua/cascada"
+            }
+        },
+        {
+            "type": "Feature",
             "id": "5071424440337559362",
             "geometry": {
                 "type": "Point",
@@ -973,27 +994,6 @@
                 "source_gps": "07-138",
                 "id": "5071424440337559362",
                 "version": "76e44585ca4e3a14a0cb620a62577b73bc8c4617940d67d8d92a2aa4e60eadc4",
-                "timestamp": "2017-05-17T19:31:31.228Z",
-                "icon": "agua-cascada",
-                "preset": "agua/cascada"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "10642524801858944299",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.31586172434876,
-                    -1.223315169668411
-                ]
-            },
-            "properties": {
-                "water": "waterfall",
-                "comunidad_nombre": "tonompare",
-                "source_gps": "07-153",
-                "id": "10642524801858944299",
-                "version": "f0c5fbb9e366fdbaf31c8cdf51819d94bb2ff9ce2feba40da9373d3f0089484e",
                 "timestamp": "2017-05-17T19:31:31.228Z",
                 "icon": "agua-cascada",
                 "preset": "agua/cascada"
@@ -1605,6 +1605,27 @@
         },
         {
             "type": "Feature",
+            "id": "12849592317893767502",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.36352008500756,
+                    -1.1692006066338436
+                ]
+            },
+            "properties": {
+                "water": "lake",
+                "comunidad_nombre": "obaro",
+                "source_gps": "004-169",
+                "id": "12849592317893767502",
+                "version": "b0472fa4b5a9968191492b87101d970ddba4c74c1a74ebce1cdf2c30849685a8",
+                "timestamp": "2017-03-27T06:21:22.410Z",
+                "icon": "agua-laguna",
+                "preset": "agua/laguna"
+            }
+        },
+        {
+            "type": "Feature",
             "id": "232784318839153063",
             "geometry": {
                 "type": "Point",
@@ -1624,27 +1645,6 @@
                 "timestamp": "2017-03-27T06:21:22.410Z",
                 "icon": "agua-cascada",
                 "preset": "agua/cascada"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "12849592317893767502",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.36352008500756,
-                    -1.1692006066338436
-                ]
-            },
-            "properties": {
-                "water": "lake",
-                "comunidad_nombre": "obaro",
-                "source_gps": "004-169",
-                "id": "12849592317893767502",
-                "version": "b0472fa4b5a9968191492b87101d970ddba4c74c1a74ebce1cdf2c30849685a8",
-                "timestamp": "2017-03-27T06:21:22.410Z",
-                "icon": "agua-laguna",
-                "preset": "agua/laguna"
             }
         },
         {
